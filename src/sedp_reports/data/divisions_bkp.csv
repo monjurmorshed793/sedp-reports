@@ -1,0 +1,11 @@
+﻿division_id,division_id_legacy,division_name,division_name_bn,division_code
+1,,None,কোনোটিই নয়,00
+2,10,Barishal,বরিশাল,01
+3,20,Chattogram,চট্টগ্রাম,02
+4,30,Dhaka,ঢাকা,03
+5,40,Khulna,খুলনা,04
+6,50,Rajshahi,রাজশাহী,05
+7,60,Sylhet,সিলেট,06
+8,55,Rangpur,রংপুর,07
+9,45,Mymensingh,ময়মনসিংহ,45
+10,99,Foreign,,99
