@@ -1,5 +1,5 @@
-﻿thana_id,thana_code,thana_id_legacy,thana_name,thana_name_bn,district_id,city_corp
-1,,,None,নির্বাচন করুন,1,
+thana_id,thana_code,thana_id_legacy,thana_name,thana_name_bn,district_id,city_corp
+1,"",,None,নির্বাচন করুন,1,
 2,4041,404104,Abhaynagar,অভয়নগর,24,
 3,9994,999401,Abu Dhabi,আবু ধাবি,1,
 4,3026,302602,Adabor,আদাবর,14,N
@@ -577,7 +577,8 @@
 576,2015,201502,AKBARSHAH,,10,
 577,2015,201577,SADARGHAT,,10,
 578,3033,303345,KONABARI,কোনাবাড়ী,19,
-579,3033,303350,PUBAIL,পুবাইল,19,
+579,3033,303350,PUBAIL,"পুবাইল
+",19,
 580,3033,303390,Tongi Pashchim,টংগী পশ্চিম,19,
 581,3033,303393,Tongi purba,টংগী পুর্ব,19,
 582,6091,609105,AIRPORT,এয়ারপোর্ট,63,
