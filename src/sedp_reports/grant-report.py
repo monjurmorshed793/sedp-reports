@@ -14,7 +14,10 @@ file_path = 'data/general_information_bkp.xlsx'
 print(os.path.exists(file_path))
 
 #%%
-general_information = pd.read_excel('data/general_information_bkp.xlsx', engine='openpyxl')
+import pandas as pd
 
 #%%
-filtered_data = general_information[general_information.eiin=='123456']
+general_information = pd.read_csv('data/general_information_bkp.csv')
+
+#%%
+print(general_information)

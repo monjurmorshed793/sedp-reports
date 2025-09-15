@@ -1,7 +1,7 @@
-institute_type_id,institute_type_name
-1,স্কুল
-2,স্কুল এন্ড কলেজ
-3,কলেজ
-4,মাদ্রাসা
-5,কওমী মাদ্রাসা
-6,কারিগরি ও ভোকেশনাল
+institute_type_id,institute_type_name,institute_type_name_en
+1,স্কুল,SCHOOL
+2,স্কুল এন্ড কলেজ,SCHOOL AND COLLEGE
+3,কলেজ,COLLEGE
+4,মাদ্রাসা,MADRASHA
+5,কওমী মাদ্রাসা,QAOMI MADRASHA
+6,কারিগরি ও ভোকেশনাল,TECHNICAL AND VOCATIONAL
