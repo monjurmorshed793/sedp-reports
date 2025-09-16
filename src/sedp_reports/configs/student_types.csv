@@ -1,4 +1,4 @@
-student_type_id,student_type_name, student_type_name_en
-1,ছেলে, Boy
-2,মেয়ে, Girl
-3,সহশিক্ষা, Co-education
+student_type_id,student_type_name,student_type_name_en
+1,ছেলে,Boy
+2,মেয়ে,Girl
+3,সহশিক্ষা,Co-education

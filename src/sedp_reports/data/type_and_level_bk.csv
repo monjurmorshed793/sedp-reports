@@ -890,7 +890,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 2023,109726,3,3,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 2024,106812,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 2025,120704,2,3,2,,2,1,false,,true,false,false,false,1,true,true,true,false
-2026,456188029,5,4,3,,2,2,false,,true,true,,true,2,,true,,
+2026,456188029,5,4,3,,2,2,false,,false,false,false,true,2,false,false,true,false
 2027,609162275,1,2,3,,5,3,false,,true,false,false,false,1,false,false,false,true
 2028,101739,1,2,3,,2,1,false,,true,,,,1,,,true,
 2029,123924,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -1484,7 +1484,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 2617,103516,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 2618,125634,4,6,3,,2,1,true,4,true,false,false,true,1,false,false,true,false
 2619,558576044,1,2,3,,2,2,false,,true,,,,1,,true,,
-2620,112097,1,2,3,,2,1,false,,true,true,,,1,,false,true,
+2620,112097,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 2621,114126,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 2622,117249,1,2,2,,2,1,false,,true,,,,1,,,true,
 2623,123174,4,9,3,,2,1,false,,true,true,,true,1,true,true,true,
@@ -1694,7 +1694,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 2827,129396,4,8,3,,2,1,false,,true,,,,1,,true,true,
 2828,111468,4,8,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 2829,106242,1,2,2,,2,1,false,,true,,,,1,,,true,
-2830,111030,2,3,3,,2,1,false,,true,,,,1,,,true,
+2830,111030,2,3,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 2831,126557,1,2,3,,2,1,false,,true,,,,1,,,true,
 2832,123482,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 2833,125142,4,8,3,,2,1,false,,true,,,true,1,true,true,true,
@@ -1711,7 +1711,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 2844,122514,4,6,3,,2,1,false,,true,,,true,1,false,true,false,
 2845,109545,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 2846,101820,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-2847,111044,1,2,3,,2,1,false,,true,,,,1,,,true,
+2847,111044,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 2848,112855,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 2849,114047,4,6,3,,2,1,false,,true,false,false,true,1,false,false,true,false
 2850,104236,3,4,3,,2,1,true,3,true,false,false,false,1,false,false,true,false
@@ -2102,7 +2102,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 3235,114932,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 3236,306768007,2,3,3,,2,3,true,1,true,,,,2,true,true,true,
 3237,134144,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-3238,108167,1,2,3,,2,1,false,,true,,,,2,true,true,true,
+3238,108167,1,2,3,,2,1,false,,true,false,false,false,2,true,true,true,false
 3239,558592022,1,2,3,,2,2,false,,true,false,false,false,2,false,false,false,true
 3240,110839,1,2,3,,2,1,false,,true,,,,1,,,true,
 3241,108536,3,5,2,,2,1,false,,true,,,,1,,,true,
@@ -2387,7 +2387,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 3520,108188,2,3,3,,2,1,false,,true,false,,,2,true,true,true,
 3521,134884,3,3,2,,2,2,false,,true,,,,1,,true,,
 3522,108267,1,2,3,,2,1,false,6,true,,,,1,,,true,
-3523,201290109,5,12,1,,3,3,false,,true,,,,1,,,,true
+3523,201290109,5,12,1,,3,3,false,,true,false,false,false,1,false,false,false,true
 3524,116177,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 3525,102713,4,6,3,,2,1,false,,true,,,,1,,,true,
 3526,116251,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
@@ -3594,7 +3594,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 4727,122900,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 4728,107682,1,2,3,,2,1,false,,true,,,,1,,true,,
 4729,113452,1,2,3,,2,1,false,,true,,,,1,,,true,
-4730,108909,1,2,2,,1,3,false,,true,,,,1,false,true,true,
+4730,108909,1,2,2,,1,3,false,,true,false,false,false,1,false,true,true,false
 4731,115524,4,6,3,,2,1,false,,true,,,,1,,,true,
 4732,202290021,4,2,2,,2,2,false,,true,,,,1,,,,true
 4733,125074,1,2,3,,2,1,false,,true,,,,1,true,true,true,
@@ -3603,7 +3603,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 4736,122742,1,2,2,,2,1,false,,true,,,,1,true,true,true,
 4737,201582031,4,6,3,,2,2,false,,true,,,,1,true,,,false
 4738,138382,3,3,3,,1,3,false,,true,,,,1,,true,,
-4739,120187,4,7,3,,1,1,false,,true,,,true,1,,,true,
+4739,120187,4,7,3,,1,1,false,,true,false,false,true,1,false,false,true,false
 4740,116352,4,7,2,,2,1,false,,true,,,true,1,,,true,
 4741,123526,1,2,3,,2,1,false,,true,,,,1,,,true,
 4742,125328,3,4,3,,2,1,true,3,true,,,,1,true,true,,
@@ -5259,7 +5259,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 6392,107403,4,7,3,,2,1,false,,true,,,,1,true,true,true,false
 6393,304879001,1,2,3,,2,2,false,,true,,,,1,true,true,,
 6394,109391,4,6,3,,2,1,false,,true,false,false,true,1,true,true,true,false
-6395,139586,1,2,3,,2,2,false,,true,,,,2,true,true,true,
+6395,139586,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 6396,115973,1,2,3,,2,1,false,,true,,,,1,false,true,true,
 6397,101801,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 6398,125776,1,2,3,,2,1,true,1,true,,,,1,false,false,true,
@@ -5724,7 +5724,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 6857,116510,1,2,3,,2,1,false,,true,,,,1,,,true,
 6858,127783,1,2,3,,2,1,false,,true,,,,1,,,true,
 6859,114461,1,2,3,,2,1,false,,true,,,,1,,,true,
-6860,117852,1,2,1,,2,1,true,1,true,,,,1,true,true,true,
+6860,117852,1,2,1,,2,1,true,1,true,false,false,false,1,true,true,true,false
 6861,132817,3,3,3,,2,1,false,,true,,,,1,true,true,true,
 6862,139842,1,2,3,,2,2,false,,true,,,,1,true,true,false,
 6863,122944,1,2,2,,2,1,false,,true,,,,1,,,true,
@@ -6797,7 +6797,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 7930,133058,6,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 7931,201918016,1,2,3,,2,2,false,,true,,,,1,,false,false,true
 7932,609023074,4,6,3,,2,2,false,,true,false,false,false,1,true,true,true,false
-7933,137798,2,3,3,,2,2,true,3,true,,,,1,,true,,
+7933,137798,2,3,3,,2,2,true,3,true,false,false,false,1,false,true,false,false
 7934,125695,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 7935,109815,1,2,3,,2,1,false,,true,,,,1,,,true,
 7936,107224,4,8,3,,2,1,false,,true,,,,1,,,true,
@@ -7880,7 +7880,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 9013,456194023,5,14,,,2,3,false,,true,false,false,true,1,false,false,false,true
 9014,609117075,4,1,3,,2,2,false,,true,false,false,true,1,false,false,false,true
 9015,118031,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-9016,122436,4,6,3,,2,1,true,4,true,true,,true,1,,,true,
+9016,122436,4,6,3,,2,1,true,4,true,false,false,false,1,false,false,true,false
 9017,109072,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 9018,123120,1,2,3,,2,1,true,1,true,,,,1,,,true,
 9019,122939,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
@@ -8054,7 +8054,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 9187,122967,4,6,3,,2,1,false,,true,,,,1,true,true,true,
 9188,134821,1,2,3,,2,2,false,,true,,,,2,true,true,false,
 9189,105748,3,4,3,,2,1,false,,true,,,,1,true,true,true,
-9190,603668014,5,15,2,,2,3,false,,true,true,,true,1,true,,false,
+9190,603668014,5,15,2,,2,3,false,,true,true,false,true,1,true,true,false,false
 9191,111109,1,2,3,,2,1,false,,true,,,,1,,,true,
 9192,107895,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 9193,121954,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -8375,7 +8375,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 9528,120441,4,6,3,,2,1,false,,true,,,,1,,,true,
 9529,120400,1,2,3,,1,3,false,,true,false,false,false,2,false,false,true,false
 9530,453958024,4,10,1,,2,3,false,,true,false,false,true,1,true,true,true,false
-9531,114274,2,3,3,,2,1,false,,true,,,,1,,,true,
+9531,114274,2,3,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 9532,453958044,4,2,2,,2,3,false,,true,false,false,true,1,true,true,false,false
 9533,118197,1,2,3,,2,1,false,,true,,,,1,,,true,
 9534,120724,1,2,3,,2,1,true,1,true,,,,2,,true,,
@@ -8538,7 +8538,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 9691,303334069,5,12,1,,2,3,false,,true,true,false,true,1,false,false,false,true
 9692,456172094,5,10,1,,2,2,false,,true,,,true,1,true,true,,
 9693,406552032,5,13,2,,2,2,false,,true,false,,true,1,,,true,
-9694,603668015,5,10,3,,2,2,false,,true,true,,true,1,,true,,
+9694,603668015,5,1,3,,2,2,false,,true,true,false,true,1,true,true,false,false
 9695,105659,4,6,2,,2,1,false,,true,,,true,1,,,true,
 9696,453936135,5,14,3,,4,2,false,,true,true,true,true,3,,,,true
 9697,116435,4,6,3,,2,1,false,,true,,,,1,,,true,
@@ -8718,7 +8718,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 9871,609160014,5,3,1,,2,2,false,,true,,,true,2,,,true,
 9872,207510036,1,15,3,,2,2,false,,true,,,,1,true,false,,
 9873,305984004,4,15,2,,3,2,false,,true,,,true,3,,true,,
-9874,122445,4,6,3,,2,1,false,,true,true,false,true,1,false,false,true,false
+9874,122445,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 9875,113594,1,2,2,,2,1,false,,true,false,false,false,1,true,true,true,false
 9876,102926,1,2,2,,2,1,false,,true,,,,1,,,true,
 9877,113597,1,2,3,,2,1,false,,true,false,,,1,true,true,true,
@@ -8792,7 +8792,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 9945,138454,1,2,3,,2,2,false,,true,,,,1,,,true,
 9946,9f73edbb-78bf-4989-bb2c-3c6657ab31c6,4,6,3,,2,3,false,,true,false,false,true,2,false,true,true,false
 9947,303334009,1,2,3,,2,2,false,,true,true,false,false,1,false,false,false,true
-9948,69dd56d5-3184-4931-9ddf-4398ea59d382,1,2,3,,2,2,false,,true,,,,1,,true,true,
+9948,69dd56d5-3184-4931-9ddf-4398ea59d382,1,2,3,,2,2,false,,true,false,false,false,2,false,true,true,false
 9949,205173003,4,6,3,,3,2,false,,true,true,,true,2,true,true,,
 9950,201557040,1,2,3,,3,2,false,,true,false,false,false,1,false,false,false,true
 9951,309385012,5,12,2,,2,2,false,,true,,,true,1,true,true,true,
@@ -9070,7 +9070,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 10223,110128,4,2,3,,2,1,false,,true,true,false,true,1,false,false,true,false
 10224,101556,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 10225,6cb9493e-d5fa-4522-a47f-d7ade14cdf04,2,2,3,,2,3,false,,true,,,,1,,,,true
-10226,306704145,2,3,3,,2,2,false,,true,,,,2,,,,true
+10226,306704145,2,3,3,,2,2,false,,true,false,false,false,2,false,false,false,true
 10227,453936053,4,10,1,,2,3,false,,true,true,,true,3,true,true,true,
 10228,453936016,5,15,1,,2,1,false,,,,,true,1,,,true,
 10229,457283154,5,13,2,,3,2,false,,true,,,true,2,,,,false
@@ -9096,7 +9096,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 10249,100610,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 10250,201213098,5,9,2,,2,3,false,,false,false,false,true,1,false,true,false,false
 10251,ae4e7060-48de-4002-bf1d-57886aef3468,1,1,3,,2,2,false,,true,,,,2,,true,true,
-10252,603668012,5,1,3,,2,2,false,,true,true,,true,1,true,,,
+10252,603668012,5,1,3,,2,2,false,,true,true,false,true,1,true,true,false,false
 10253,124990,1,2,3,,2,1,true,1,true,false,false,false,1,false,false,true,false
 10254,111651,4,6,3,,2,1,false,,true,,,true,1,,,true,
 10255,302614088,1,2,3,,2,2,false,,true,,,,1,true,true,true,
@@ -9132,7 +9132,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 10285,458988023,1,2,3,,2,2,false,,true,,,,2,,,true,
 10286,109314,4,2,3,,2,1,false,,true,,,,1,,,true,
 10287,0a921ac8-905f-428e-b1a7-726d0d3b0df4,5,,,,2,3,false,,,,,true,1,,,,true
-10288,66bb0779-74fc-401a-b5fc-8bccb342c327,5,14,1,,3,3,false,,,,,true,1,,,,true
+10288,66bb0779-74fc-401a-b5fc-8bccb342c327,5,14,1,,3,3,false,,false,false,false,true,1,false,false,false,true
 10289,684ae8ac-4b30-419c-9c85-0388f1cd07a5,5,13,1,,2,2,false,,true,,,true,1,true,true,,
 10290,117755,1,2,1,,2,1,false,,true,false,false,false,1,true,true,true,false
 10291,305682037,5,1,,,2,2,false,,true,,,true,1,true,true,false,
@@ -9392,10 +9392,10 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 10545,303332108,1,2,3,,2,3,false,,true,false,false,false,2,false,false,false,true
 10546,120159,1,2,3,,2,1,false,,true,,,,1,,,true,
 10547,303332027,1,2,3,,2,3,false,,true,false,false,false,2,false,false,false,true
-10548,120155,1,2,3,,2,1,false,,true,,,,1,,,true,
+10548,120155,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 10549,121663,1,2,2,,2,1,false,,true,,,,1,,true,true,
 10550,116867,3,3,3,,2,1,false,,true,,,,1,,,true,
-10551,134002,1,2,3,,3,2,false,,true,,,,2,true,true,true,
+10551,134002,1,2,3,,3,2,false,,true,false,false,false,2,true,true,true,false
 10552,457283152,5,10,1,,3,2,false,,true,,,true,3,,,,
 10553,108079,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 10554,207583038,4,6,3,,2,3,false,,true,false,false,false,1,false,false,false,true
@@ -9709,7 +9709,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 10862,113239,4,7,3,,2,1,false,,true,,,,1,true,true,true,
 10863,137153,1,1,3,,1,3,false,,true,,,,1,,,true,
 10864,107410,4,6,3,,2,1,false,,true,,,,1,true,true,true,
-10865,112087,1,2,3,,2,1,false,,true,false,,,1,,,true,
+10865,112087,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 10866,124851,1,2,3,,2,1,false,,true,false,false,false,1,false,true,true,false
 10867,453936039,5,5,2,,2,3,false,,true,true,,true,1,true,true,true,
 10868,101659,1,2,3,,2,1,false,,true,,,,1,true,true,true,
@@ -9790,7 +9790,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 10943,136634,1,2,3,,2,1,false,,true,,,,1,,,true,
 10944,108060,1,2,3,,2,1,false,,true,,,,1,,,true,
 10945,101354,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
-10946,117823,1,2,3,,2,1,false,,true,,,,1,,,true,
+10946,117823,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 10947,105209,1,2,3,,2,1,false,,true,,,,1,,,true,
 10948,121022,4,6,3,,2,1,false,,true,false,,false,1,true,true,,
 10949,119863,4,6,3,,2,1,false,,true,,,,1,true,true,true,
@@ -10492,7 +10492,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 11645,456194067,1,2,3,,2,2,true,1,true,,,,1,true,true,,
 11646,113917,3,3,3,,2,1,false,,true,,,,1,true,true,true,
 11647,456172030,4,10,3,,2,2,false,,true,,,true,2,,true,,
-11648,138729,1,2,3,,3,2,false,,,true,,,2,,true,false,
+11648,138729,1,2,3,,3,2,false,,false,true,false,false,2,false,true,false,false
 11649,305682027,1,2,3,,2,2,false,,true,,,,1,true,true,false,
 11650,109746,1,2,3,,2,1,false,,true,true,,,1,true,true,true,
 11651,609120048,1,2,3,,2,3,false,,true,,,,1,true,,,
@@ -10818,7 +10818,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 11971,103874,4,6,3,,2,1,false,,true,,,,1,true,true,true,
 11972,112368,4,6,3,,2,1,false,,true,true,false,true,1,false,false,true,false
 11973,125884,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-11974,137636,3,3,3,,2,1,false,,true,,,,1,,,true,
+11974,137636,3,3,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 11975,101091,4,6,3,,2,1,false,,true,,,true,1,true,true,true,
 11976,118686,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 11977,553267035,1,2,3,,2,2,false,,true,,,,2,true,true,true,
@@ -11546,7 +11546,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 12699,118296,1,2,3,,2,1,true,1,true,,,,1,,,true,
 12700,127599,1,1,2,,2,2,false,,true,,,,1,true,true,true,
 12701,302630025,1,1,3,,2,2,false,,true,,true,,2,,true,,
-12702,401823035,2,3,3,,2,2,false,,true,,,,1,,true,,
+12702,401823035,2,3,3,,2,2,false,,true,false,false,false,1,false,true,false,false
 12703,401831002,1,1,3,,3,3,false,,true,,,,1,,true,,
 12704,125957,4,6,3,,2,1,false,,true,,,,1,,,true,
 12705,609120022,5,14,3,,2,3,false,,true,,true,true,1,,,,true
@@ -11660,7 +11660,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 12813,115961,1,2,3,,3,2,false,,true,false,false,false,1,false,true,true,false
 12814,117676,1,2,2,,2,1,false,,true,,,,1,true,true,true,
 12815,105256,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
-12816,201553023,4,6,3,,3,2,false,,true,,,,1,,,,true
+12816,201553023,4,6,3,,3,2,false,,true,false,false,false,1,false,false,false,true
 12817,113308,1,2,2,,2,1,false,,true,false,false,false,1,true,true,true,false
 12818,105735,4,8,3,,2,1,false,,true,,,,1,true,true,true,
 12819,302662016,1,2,3,,2,2,false,,true,false,false,false,2,true,false,false,false
@@ -11837,7 +11837,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 12990,207510040,5,1,1,,2,3,false,,true,true,,true,3,false,true,,
 12991,121506,4,6,2,,2,1,false,,true,false,false,false,1,true,true,false,false
 12992,110775,4,9,3,,2,1,false,,true,,,,1,,,true,
-12993,112157,4,2,3,,2,1,false,,true,true,,true,1,,,true,
+12993,112157,4,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 12994,100779,1,2,3,,2,1,false,,true,,,,1,,,true,
 12995,127576,1,2,3,,2,1,false,,true,,,,1,,,true,
 12996,205173018,1,1,3,,2,2,false,,true,,,,2,,,true,
@@ -12104,7 +12104,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 13257,129491,4,6,3,,2,1,false,,true,true,,true,1,true,true,true,
 13258,120379,4,6,3,,2,2,false,,true,,,,1,,,true,
 13259,113762,4,6,3,,2,1,false,,true,,,true,1,true,true,true,
-13260,112088,1,2,3,,2,1,true,1,true,,,,1,,,true,
+13260,112088,1,2,3,,2,1,true,1,true,false,false,false,1,false,false,true,false
 13261,101920,1,1,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 13262,116492,1,2,3,,2,1,false,,true,,,,1,,,true,
 13263,123169,1,2,2,,2,1,false,,true,,,,1,,,true,
@@ -12260,7 +12260,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 13413,122706,3,3,3,,2,2,false,,true,,,,1,,,true,
 13414,106448,1,2,2,,2,1,false,,true,,,,1,true,true,true,
 13415,104845,3,4,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-13416,130022,2,3,3,,2,1,false,,true,,,,1,,true,true,
+13416,130022,2,3,3,,2,1,false,,true,false,false,false,1,false,true,false,false
 13417,201520006,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 13418,457247012,1,2,3,,2,2,false,,true,,,,1,true,false,,
 13419,123541,4,6,3,,2,1,false,,true,,,,1,,,true,
@@ -12552,7 +12552,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 13705,110370,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 13706,114139,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 13707,453961010,1,2,3,,2,3,false,,true,,,,1,true,true,,
-13708,112128,1,2,3,,2,1,false,,true,,,,1,,,true,
+13708,112128,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 13709,127464,4,6,3,,2,1,true,4,true,,,,1,,,true,
 13710,305984031,5,14,1,,2,2,false,,true,,,true,1,,true,,
 13711,105965,2,3,3,,1,1,false,,true,,,,1,,true,true,
@@ -12706,7 +12706,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 13859,109826,4,9,3,,2,1,false,,true,,,true,1,true,true,true,
 13860,126444,1,2,3,,2,1,false,,true,,,,1,false,,true,
 13861,100810,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-13862,130023,1,2,1,,1,3,false,,true,,,,2,,,true,
+13862,130023,1,2,1,,1,3,false,,true,false,false,false,2,false,false,true,false
 13863,121083,1,2,2,,2,1,false,,true,true,,,1,,true,,
 13864,102159,4,6,2,,2,1,false,,true,,,,1,,,true,
 13865,124631,1,2,3,,2,1,false,1,true,,,,1,,,true,
@@ -12790,7 +12790,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 13943,115758,1,2,3,,2,1,false,,true,,,,1,false,false,true,
 13944,302614023,1,2,3,,2,2,true,1,true,,,,2,,true,,
 13945,116573,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-13946,130028,1,2,3,,2,1,true,3,true,,,,1,,,true,
+13946,130028,1,2,3,,2,1,true,3,true,false,false,false,1,false,false,true,false
 13947,105022,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 13948,303336001,1,2,3,,2,2,false,,true,,,,1,,,true,
 13949,136116,1,2,3,,2,1,false,,true,,,,1,,true,true,
@@ -12828,7 +12828,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 13981,201972050,1,2,3,,2,2,true,1,true,,,,2,true,true,,
 13982,453961035,1,2,3,,2,3,false,,true,,,,1,,true,,
 13983,104899,1,2,3,,2,1,false,,true,,,,1,,,true,
-13984,120162,1,2,3,,2,1,false,,true,,,,1,,,true,
+13984,120162,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 13985,109021,4,6,3,,2,1,false,,true,,,,1,true,true,true,
 13986,114631,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 13987,132580,2,3,3,,2,1,false,3,true,,,,1,,,true,
@@ -12923,7 +12923,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 14076,134957,1,2,3,,2,1,false,,true,,,,1,,,true,
 14077,306758061,1,1,3,,2,3,false,,true,,,,2,,,,true
 14078,113363,1,2,3,,2,1,false,,true,,,,1,,,true,
-14079,112180,4,2,3,,2,1,false,,true,true,,true,1,,,true,
+14079,112180,4,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 14080,139730,6,16,3,,2,2,true,6,true,false,false,false,1,true,true,true,false
 14081,609120001,1,3,3,,2,2,false,,true,,,,1,,,,true
 14082,122724,2,3,3,,2,1,false,,true,,,,1,true,true,true,
@@ -13219,7 +13219,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 14372,303386008,1,2,3,,2,2,false,,true,,,,2,,true,true,
 14373,456116067,5,15,2,,2,2,false,,true,,,true,1,,true,,
 14374,129318,1,2,3,,2,1,true,1,true,,,,1,,,true,
-14375,603668003,4,6,3,,2,2,false,,true,true,,true,1,true,,,
+14375,603668003,4,6,3,,2,2,false,,true,true,false,true,1,true,true,false,false
 14376,129883,4,6,3,,2,1,false,,true,false,,false,1,true,true,true,
 14377,401807051,5,1,3,,3,3,false,,true,false,false,true,1,false,false,false,true
 14378,401807015,5,13,2,,2,3,false,,true,false,false,true,2,false,true,false,false
@@ -13369,7 +13369,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 14522,457283074,5,10,1,,2,2,false,,true,false,false,true,1,false,true,false,false
 14523,115033,1,2,3,,2,1,true,1,true,false,false,false,1,false,false,true,false
 14524,107524,1,2,3,,2,1,false,,true,,,,1,,,true,
-14525,456188006,5,15,2,,2,2,false,,true,,,,1,,,true,
+14525,456188006,5,15,2,,2,2,false,,true,false,false,false,1,false,false,true,false
 14526,114210,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 14527,123163,1,2,3,,2,1,false,,true,,,,1,,,true,
 14528,b5ff4cae-2fde-4b10-acdb-b738cb5f6e91,4,15,1,,3,3,false,,,,,true,1,,,,true
@@ -14064,7 +14064,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 15217,118578,4,6,3,,2,1,false,,true,,,,1,,,true,
 15218,101458,1,1,3,,2,1,false,,true,,,,1,,,true,
 15219,136555,3,4,3,,2,1,false,,true,,,,1,true,true,true,
-15220,456188007,5,14,2,,2,2,false,,true,,,,1,,,true,
+15220,456188007,5,14,2,,2,2,false,,true,false,false,false,1,false,false,true,false
 15221,129954,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 15222,115894,4,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 15223,103770,1,2,3,,2,1,false,,true,,,,1,true,true,true,
@@ -14345,7 +14345,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 15498,118092,2,3,2,,2,1,true,1,true,false,false,false,1,false,false,true,false
 15499,135925,3,3,3,,3,2,false,,true,,,,1,,true,,
 15500,555202008,5,9,3,,2,2,false,,true,,,true,2,true,true,true,
-15501,201553039,1,1,3,,3,2,false,,true,,,,1,,false,,true
+15501,201553039,1,1,3,,3,2,false,,true,false,false,false,1,false,false,false,true
 15502,108910,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 15503,101030,1,2,1,,2,1,false,,true,,,,1,,,true,
 15504,127917,4,6,3,,2,1,false,,true,,,true,1,true,true,true,
@@ -14407,7 +14407,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 15560,554906033,1,1,3,,2,2,false,,true,true,false,false,1,false,true,false,false
 15561,302696028,4,6,1,,2,3,false,,true,false,false,true,1,false,false,false,true
 15562,121264,1,1,3,,2,1,false,,true,,,,1,,,true,
-15563,112149,4,4,3,,2,1,false,,true,true,,true,1,,,true,
+15563,112149,4,4,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 15564,125316,1,2,3,,2,1,true,1,true,,,,1,true,true,true,
 15565,111317,4,6,3,,2,1,false,,true,true,,true,1,,,true,
 15566,127323,1,2,3,,2,1,false,,true,false,,false,1,true,true,true,
@@ -14419,7 +14419,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 15572,123043,1,2,3,,2,1,false,,true,,,,1,,,true,
 15573,4ccf2ff0-5aa5-4c41-91be-b874f794ed10,5,1,1,,2,2,false,,true,,,true,1,true,true,,
 15574,105282,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-15575,137787,3,3,3,,3,2,false,,true,,,,1,,,true,
+15575,137787,3,3,3,,3,2,false,,true,false,false,false,1,false,false,true,false
 15576,306704049,1,1,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 15577,119310,4,7,2,,2,1,false,,true,,,,1,true,true,true,
 15578,116613,4,6,3,,2,1,true,4,true,,,true,1,,,true,
@@ -15073,7 +15073,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 16226,121467,1,2,2,,2,1,false,,true,,,,1,,,true,
 16227,104860,1,2,3,,2,1,true,1,true,,,,1,,,true,
 16228,132771,6,3,3,,2,1,false,,true,,,,1,,true,true,
-16229,114122,1,2,3,,2,1,true,1,true,false,false,false,1,false,false,true,false
+16229,114122,1,2,3,,2,1,true,1,true,false,false,false,1,true,true,true,false
 16230,119621,1,2,3,,2,1,false,,true,,,,1,,,true,
 16231,121344,3,4,3,,2,1,false,,true,,,,1,,,true,
 16232,105923,4,6,3,,2,1,false,,true,,,true,1,,,true,
@@ -15629,7 +15629,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 16782,105848,2,3,3,,2,1,false,,true,,,,1,,,true,
 16783,118398,1,2,3,,2,1,true,1,true,,,,1,true,true,true,
 16784,120987,1,2,3,,2,1,false,,true,,,,1,,true,true,
-16785,120150,1,2,3,,2,1,false,,true,,,,1,,,true,
+16785,120150,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 16786,127423,2,3,3,,2,1,false,,true,,,,1,,,true,
 16787,102037,1,2,3,,2,1,false,,true,,,,1,,true,,
 16788,126977,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -15885,7 +15885,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 17038,139283,1,2,3,,2,3,false,,true,,,,2,,true,,
 17039,120096,1,2,2,,2,1,false,,true,,,,1,,,true,
 17040,111073,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-17041,112163,4,6,3,,2,1,false,,true,,,,1,,,true,
+17041,112163,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 17042,100822,1,2,2,,2,1,false,,true,,,,1,,true,true,
 17043,112044,4,8,3,,2,1,false,,true,,,,1,,,true,
 17044,124231,3,3,3,,2,2,false,,true,,,,1,,,true,
@@ -16066,7 +16066,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 17219,119511,1,2,3,,2,1,false,,true,,,,1,,,true,
 17220,109715,4,6,3,,2,1,false,,true,true,false,true,1,false,false,true,false
 17221,125828,1,2,3,,2,1,false,,true,true,,,1,,,true,
-17222,130016,1,2,3,,2,1,false,,true,,,,1,,,true,
+17222,130016,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 17223,201553041,1,1,3,,3,2,false,,true,false,false,false,1,false,true,false,false
 17224,120350,4,8,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 17225,109108,4,6,3,,2,1,false,,true,,,,1,,,true,
@@ -16730,7 +16730,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 17883,559494022,1,2,3,,2,2,false,,true,,,,1,,true,,
 17884,128647,4,6,3,,2,2,false,,true,,,,1,true,true,true,
 17885,109284,4,6,2,,2,1,false,,true,,,false,1,,,true,
-17886,112118,1,2,3,,2,1,false,,true,,,,1,,,true,
+17886,112118,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 17887,201213030,1,2,3,,3,3,false,,true,,,,1,true,true,,
 17888,128364,2,3,3,,2,1,false,,true,,,,1,true,true,true,
 17889,605856015,4,6,3,,2,2,false,,true,false,false,true,1,true,false,false,false
@@ -16745,7 +16745,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 17898,306758154,1,2,3,,2,2,false,,true,,,,2,,,,true
 17899,128992,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 17900,302634005,1,2,3,,2,3,false,,true,,,,1,,true,,
-17901,136784,2,3,3,,3,3,false,,true,false,false,false,1,false,false,true,false
+17901,136784,2,3,3,,3,3,false,,true,false,false,false,1,true,false,false,false
 17902,101719,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 17903,120129,3,3,3,,2,1,false,,true,,,,1,,,true,
 17904,127437,1,2,2,,2,1,false,,true,,,,1,,,true,
@@ -17158,7 +17158,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 18311,1bb2aeb5-2335-41c6-8f29-32983d360891,5,12,3,,2,3,false,,true,,,true,1,,,,true
 18312,106427,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 18313,114138,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-18314,130050,3,4,2,,1,3,false,,true,,,,1,,,true,
+18314,130050,3,4,2,,1,3,false,,true,false,false,false,1,false,false,true,false
 18315,114602,1,2,3,,2,1,false,,true,,,,1,,,true,
 18316,116804,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 18317,609120002,1,1,3,,5,3,false,,true,false,false,false,2,false,false,false,true
@@ -17295,7 +17295,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 18448,123264,1,2,2,,2,1,false,,true,false,false,false,1,false,false,true,false
 18449,113139,1,2,2,,2,1,false,,true,false,false,false,1,false,false,true,false
 18450,110142,4,6,3,,2,2,false,,true,true,,,1,,,true,
-18451,112171,4,6,3,,2,1,false,,true,,,,1,,,true,
+18451,112171,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 18452,123507,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 18453,105378,4,7,2,,2,2,false,,true,,,,1,,,true,
 18454,106519,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -17498,7 +17498,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 18651,136159,6,3,2,,2,1,false,,true,,,,1,,,true,
 18652,135040,4,6,3,,3,2,false,,true,,,,1,,,,true
 18653,121154,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-18654,138744,1,2,3,,2,2,false,,true,,,,2,,true,,
+18654,138744,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 18655,101721,1,2,2,,2,1,false,,true,false,false,false,1,false,false,true,false
 18656,507066025,2,2,3,,2,1,false,,true,,,,1,,,true,
 18657,126762,3,4,3,,1,3,true,3,true,,,,1,,,true,
@@ -17615,7 +17615,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 18768,114789,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 18769,117228,4,6,3,,2,1,false,,true,,,,1,,,true,
 18770,118003,3,5,3,,1,3,false,,true,,,,1,,,true,
-18771,112081,1,2,3,,2,1,false,,true,true,,,1,,,true,
+18771,112081,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 18772,120839,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 18773,112486,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 18774,114796,1,2,2,,2,1,false,,true,false,false,false,1,false,false,true,false
@@ -17670,7 +17670,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 18823,114111,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 18824,123072,4,6,3,,2,1,false,,true,true,false,true,1,false,false,true,false
 18825,128951,4,6,3,,2,1,false,,true,,,,1,true,true,true,
-18826,456188036,5,13,2,,2,2,false,,true,,,,1,,,true,
+18826,456188036,5,13,2,,2,2,false,,true,false,false,false,1,false,false,true,false
 18827,104794,1,2,3,,2,1,true,1,true,false,,,1,,,true,
 18828,103862,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 18829,104051,2,4,3,,4,1,false,,true,true,false,false,1,false,false,true,false
@@ -17782,7 +17782,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 18935,609127009,1,2,3,,2,2,false,,true,,,,1,,,,true
 18936,111217,1,2,3,,2,1,false,,true,,,,1,,,true,
 18937,603687004,1,2,3,,2,2,false,,true,,,,1,,true,,
-18938,383a2c0d-2c2a-4b8c-9fd9-49a1f9f6216c,4,2,3,,3,3,false,,true,,,,1,,,,true
+18938,383a2c0d-2c2a-4b8c-9fd9-49a1f9f6216c,4,2,3,,3,3,false,,true,false,false,false,1,false,false,false,true
 18939,107065,2,4,3,,2,1,false,,true,,,,1,,,true,
 18940,114957,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 18941,128625,4,8,3,,2,1,false,,true,,,false,1,true,true,true,
@@ -17931,7 +17931,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 19084,302984003,5,12,1,,2,2,false,,true,,,true,3,true,true,,
 19085,116386,3,4,3,,2,1,true,3,true,,,,1,,,true,
 19086,122870,4,9,3,,2,1,false,,true,false,false,false,1,true,true,true,false
-19087,b0f23e35-1f36-48ca-b71b-1fb228356115,4,1,3,,3,3,false,,true,,,true,1,,,,true
+19087,b0f23e35-1f36-48ca-b71b-1fb228356115,4,1,3,,3,3,false,,true,false,false,true,1,false,false,false,true
 19088,116385,3,4,3,,1,1,false,,true,,,,1,,,true,
 19089,453936025,5,12,1,,2,2,false,,true,true,,true,3,true,true,true,
 19090,0685a6a0-7e02-463e-b104-2324c74a2e07,5,15,2,,2,3,false,,true,,,true,1,true,true,true,
@@ -19410,7 +19410,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 20563,124042,1,2,3,,1,3,true,2,true,,,,1,,,true,
 20564,122301,4,6,3,,2,1,false,,true,,,true,1,,,true,
 20565,137495,1,1,3,,1,3,false,,true,,,,1,,,true,
-20566,134244,3,3,3,,2,1,false,,true,,,,1,,,true,
+20566,134244,3,3,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 20567,127807,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 20568,201506001,1,2,3,,2,2,false,,true,,,,2,true,,,
 20569,117577,1,2,2,,2,1,false,,true,,,,1,true,true,true,
@@ -19500,7 +19500,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 20653,118908,3,4,3,,2,1,false,,true,,,,1,,,true,
 20654,112694,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 20655,106906,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-20656,112083,1,2,3,,2,1,false,,true,true,,,1,,true,true,
+20656,112083,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 20657,130336,3,3,3,,2,1,false,,true,,,,1,false,true,true,
 20658,553224018,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 20659,121583,1,2,2,,2,1,false,,true,,,,1,true,true,true,
@@ -19789,7 +19789,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 20942,113376,1,2,2,,2,2,false,,true,,,,1,,,true,
 20943,119229,4,6,3,,2,1,false,,true,,,,1,,,true,
 20944,105446,1,2,3,,2,1,true,1,,,,,1,,,true,
-20945,1e1bb87a-4396-4438-9d8c-b6cb7c3c27d2,1,1,3,,3,3,false,,true,,,,2,,,,true
+20945,1e1bb87a-4396-4438-9d8c-b6cb7c3c27d2,1,1,3,,3,3,false,,true,false,false,false,2,false,false,false,true
 20946,113516,1,2,2,,2,1,false,,true,,,,1,,,true,
 20947,110576,1,1,3,,2,1,false,,true,,,,1,true,true,true,
 20948,140012,1,1,3,,2,2,false,,true,,,,1,true,true,false,
@@ -20696,7 +20696,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 21849,129216,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 21850,124143,1,2,2,,2,1,false,,true,,,,1,,,true,
 21851,506460033,5,10,1,,2,2,false,,true,true,,true,1,,true,,
-21852,da2fa8b0-dbf0-4338-b45d-cfcdc01cf6de,5,15,2,,3,3,false,,true,,,true,1,,,,true
+21852,da2fa8b0-dbf0-4338-b45d-cfcdc01cf6de,5,15,2,,3,3,false,,true,false,false,true,1,false,false,false,true
 21853,129902,1,2,2,,2,1,false,,true,,,,1,,,true,
 21854,601a4df3-d070-4058-927a-c0812cf4b621,1,2,3,,2,2,false,,true,false,,,2,true,true,,
 21855,109635,4,6,3,,2,1,false,,true,,,,1,,,true,
@@ -20773,7 +20773,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 21926,109863,1,1,3,,2,1,false,,true,,,,1,true,true,false,
 21927,100602,1,2,2,,2,1,false,,true,,,,1,,,true,
 21928,507616021,1,2,3,,2,2,false,,true,,,,2,,true,,
-21929,102668,4,6,3,,2,1,false,,true,,,,1,,true,true,
+21929,102668,4,6,3,,2,1,false,,true,false,false,false,1,false,true,true,false
 21930,453936042,5,12,3,,3,2,false,,true,,,true,1,,true,,
 21931,125160,4,6,3,,2,1,false,,true,,,true,1,,,true,
 21932,107699,1,1,3,,2,1,false,,true,,,,1,,,true,
@@ -20916,7 +20916,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 22069,129598,1,2,3,,2,1,false,,true,,,,1,,,true,
 22070,123119,1,2,3,,2,1,false,,true,,,,1,,,true,
 22071,125433,4,6,3,,2,1,false,,true,false,false,true,1,true,true,true,false
-22072,112080,1,2,3,,2,1,false,,true,true,,,1,,,true,
+22072,112080,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 22073,609023018,4,10,3,,2,2,false,,true,,,true,2,,,true,
 22074,302650082,1,2,3,,2,3,true,1,true,,,,2,,,,true
 22075,101844,4,7,3,,2,1,false,,true,,,,1,true,true,true,
@@ -20963,7 +20963,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 22116,115809,3,3,3,,2,1,false,,true,,,,1,,,true,
 22117,406552027,5,6,2,,2,2,false,,true,,,true,1,,true,,
 22118,105411,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-22119,136890,1,1,3,,2,2,false,,true,,,,1,,,true,
+22119,136890,1,1,3,,2,2,false,,true,false,false,false,1,false,false,true,false
 22120,135257,3,3,3,,2,2,false,,true,,,,1,,,true,
 22121,119821,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 22122,122575,4,2,3,,2,1,false,,true,true,,,1,true,true,true,
@@ -21185,7 +21185,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 22338,111848,1,2,3,,4,3,false,,true,,,,1,,,true,
 22339,121251,1,2,2,,2,1,false,,true,,,,1,,,true,
 22340,113241,4,6,3,,2,1,false,,true,,,,1,true,true,true,
-22341,115366,1,2,3,,2,1,false,,true,,,,1,,,true,
+22341,115366,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 22342,120404,1,2,3,,2,1,true,1,true,false,false,false,1,true,true,true,false
 22343,118049,4,6,3,,2,1,false,,true,,,,1,,,true,
 22344,121248,1,2,2,,2,1,false,,true,,,,1,true,true,true,
@@ -21653,7 +21653,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 22806,306704051,5,10,3,,2,3,false,,true,true,false,true,1,false,true,false,false
 22807,111925,2,3,3,,4,1,false,,true,true,,,2,,false,true,
 22808,121687,1,2,2,,2,1,false,,true,,,,1,,,true,
-22809,456188023,5,15,2,,2,2,false,,true,,,,1,,,true,
+22809,456188023,5,15,2,,2,2,false,,true,false,false,false,1,false,false,true,false
 22810,114359,1,2,3,,2,1,false,,true,,,,1,,,true,
 22811,125255,1,2,3,,2,1,false,,true,true,,,1,true,true,true,
 22812,118479,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -21761,7 +21761,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 22914,100643,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 22915,113652,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 22916,129481,1,2,2,,2,1,false,,true,,,,1,,,true,
-22917,130026,1,2,2,,1,3,false,,true,,,,2,,,true,
+22917,130026,1,2,2,,1,3,false,,true,false,false,false,2,false,false,true,false
 22918,129591,1,2,3,,2,1,true,1,true,,,,1,,,true,
 22919,122159,1,2,2,,2,1,false,,true,,,,1,,true,true,
 22920,129835,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
@@ -21811,7 +21811,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 22964,6da5e9bf-f839-461d-ad86-109654e82d48,1,2,3,,2,3,false,,true,,,,1,,true,,
 22965,129725,4,7,3,,2,1,false,,true,,,,1,,true,true,
 22966,119887,4,6,3,,2,1,false,,true,,,,1,true,true,true,
-22967,12115e4e-fc51-4d22-a3f2-0625322d333a,5,14,2,,3,3,false,,,,,true,,,,,true
+22967,12115e4e-fc51-4d22-a3f2-0625322d333a,5,14,2,,3,3,false,,false,false,false,true,,false,false,false,true
 22968,127538,1,2,3,,2,1,false,,true,,,,1,,,true,
 22969,106091,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 22970,105475,4,9,3,,2,1,false,,true,false,false,false,1,false,false,true,false
@@ -21927,7 +21927,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 23080,138935,1,2,3,,2,2,false,,true,false,false,false,1,false,true,false,false
 23081,109195,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 23082,302674009,6,2,3,,5,1,false,1,true,,,,1,,,true,
-23083,201553040,4,6,3,,2,3,false,,true,,,,1,,,true,
+23083,201553040,4,6,3,,2,3,false,,true,false,false,false,1,false,false,true,false
 23084,130889,1,3,3,,2,2,false,,true,,,,3,false,true,false,
 23085,112050,4,8,3,,2,1,false,,true,true,false,true,1,false,false,true,false
 23086,122331,3,5,3,,1,3,false,,true,,,,1,true,true,true,
@@ -22477,7 +22477,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 23630,132035,3,3,2,,2,2,false,,true,true,,,1,,,true,
 23631,128123,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 23632,127265,1,2,3,,2,1,false,,true,,,,1,,,true,
-23633,103403,1,2,3,,2,1,false,,true,,,,1,,,true,
+23633,103403,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 23634,139981,4,6,3,,2,2,false,,true,false,false,false,1,false,true,true,false
 23635,ff187093-b349-4e6f-be0a-1af3de8fe6e4,5,13,2,,2,3,false,,false,false,false,true,1,false,true,false,false
 23636,5fdbc9bd-0398-4188-b269-6550e213783e,1,2,3,,2,3,false,,true,false,false,false,1,true,false,false,false
@@ -22822,7 +22822,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 23975,2d7e4511-0c86-45c4-a24b-64fc23e46cbf,2,2,3,,2,2,false,,true,,,,2,,true,true,
 23976,117661,1,2,3,,2,1,false,,true,,,,1,,,true,
 23977,139274,1,2,3,,2,2,false,,true,,,,1,,true,,
-23978,112111,1,1,3,,2,1,false,,true,,,,1,,,true,
+23978,112111,1,1,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 23979,5355e51d-fb6b-47fb-a31f-abb5c7e326aa,1,1,3,,2,2,false,,true,,,,2,,true,true,
 23980,204667022,5,15,2,,3,3,false,,true,,,true,1,,,,true
 23981,554908002,5,15,2,,2,2,false,,true,,,true,1,false,false,true,
@@ -22840,7 +22840,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 23993,201263009,5,10,1,,3,3,false,,true,false,false,false,1,false,false,false,true
 23994,302614008,5,6,2,,2,2,false,,true,,,true,2,,,,true
 23995,201290031,5,15,2,,2,3,false,,true,false,,true,1,,,,true
-23996,12d6cce2-3b65-4249-a8a7-2243675863b7,5,14,1,,3,3,false,,,,,true,1,,,,
+23996,12d6cce2-3b65-4249-a8a7-2243675863b7,5,14,1,,3,3,false,,false,false,false,true,1,false,false,false,false
 23997,201290032,5,14,1,,2,3,false,,true,false,,true,2,,,,true
 23998,609162286,5,15,1,,2,2,false,,true,false,,true,1,,,true,
 23999,554906025,4,1,2,,2,2,false,,true,false,false,true,2,false,true,false,false
@@ -22878,7 +22878,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 24031,110238,4,6,3,,2,1,false,,true,,,,1,,,true,
 24032,137831,3,3,3,,2,1,false,,true,,,,1,,,true,
 24033,132749,6,3,3,,2,1,true,1,true,true,,,1,,,true,
-24034,e604805a-acfb-4e77-b1ed-e8f0fb496565,5,14,1,,3,3,false,,,,,true,1,,,,true
+24034,e604805a-acfb-4e77-b1ed-e8f0fb496565,5,14,1,,3,3,false,,false,false,false,true,1,false,false,false,true
 24035,139326,6,5,3,,2,3,false,,true,,,,1,,true,false,
 24036,138980,1,3,3,,2,2,false,,true,true,false,false,2,true,true,true,false
 24037,609131091,5,6,1,,2,2,false,,true,true,false,true,1,true,true,false,false
@@ -23771,10 +23771,10 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 24924,202256028,4,1,3,,2,2,false,,true,,,,1,,,true,
 24925,116943,1,2,2,,2,1,false,,true,,,,1,,,true,
 24926,113364,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-24927,130875,1,2,2,,2,1,false,,true,,,,1,,true,,
+24927,130875,1,2,2,,2,1,false,,true,false,false,false,1,true,true,true,false
 24928,122416,4,8,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-24929,302664001,1,2,3,,2,2,false,,true,true,,,3,,true,,
-24930,108195,1,2,3,,2,1,false,,true,,,,1,,true,,
+24929,302664001,1,2,3,,2,2,false,,true,true,false,false,3,true,true,true,false
+24930,108195,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 24931,138337,1,1,3,,1,3,false,,true,false,false,false,2,true,true,true,false
 24932,117799,4,6,3,,2,1,false,,true,false,false,false,1,false,true,true,false
 24933,113406,4,6,3,,2,1,false,,true,,,,1,,,true,
@@ -25185,7 +25185,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 26338,102799,4,6,3,,2,1,false,,true,,,true,1,,,true,
 26339,f1ff9de5-2f43-4ba1-9fff-654dc359f2f2,4,6,3,,2,2,false,,true,,,true,1,,true,,
 26340,130153,1,2,2,,2,1,false,,true,,,,1,,,true,
-26341,112091,1,2,3,,2,1,false,,true,,,,1,,,true,
+26341,112091,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 26342,118476,1,2,3,,2,1,false,,true,,,,1,,,true,
 26343,201213031,1,2,3,,3,3,false,,true,,,,1,true,true,,
 26344,116528,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,true
@@ -25736,7 +25736,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 26889,109395,4,6,3,,2,1,false,,true,,,,1,true,true,true,
 26890,132663,6,3,3,,1,1,false,,true,false,,,1,false,true,true,
 26891,302618004,1,2,3,,2,2,false,,true,,,,1,,,true,
-26892,108183,1,2,3,,2,1,false,,true,,,,2,,true,,
+26892,108183,1,2,3,,2,1,false,,true,false,false,false,2,true,true,true,false
 26893,116992,1,2,2,,2,1,false,,true,,,,1,,,true,
 26894,127162,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 26895,102350,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -26019,7 +26019,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 27172,131550,4,7,3,,2,1,false,,true,,,,1,true,true,true,
 27173,137950,1,1,3,,1,3,false,,true,false,false,false,1,true,true,true,false
 27174,303386012,1,2,3,,2,2,false,,true,,,,2,true,true,,
-27175,302664004,1,2,3,,2,2,false,,true,,,,1,,true,,
+27175,302664004,1,2,3,,2,2,false,,true,false,false,false,1,true,true,true,false
 27176,201931026,5,13,2,,3,2,false,,true,true,false,true,1,false,false,true,false
 27177,138020,3,3,3,,2,1,false,,true,true,,,1,true,true,true,
 27178,116499,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -26121,7 +26121,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 27274,121508,4,8,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 27275,115344,1,2,2,,2,1,false,,true,,,,1,,,true,
 27276,133203,6,3,3,,2,1,false,1,true,true,,,1,true,true,true,
-27277,112199,1,2,3,,2,1,false,,true,,,,1,,,true,
+27277,112199,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 27278,112217,1,2,2,,2,1,false,,true,,,,1,,,true,
 27279,121353,3,3,3,,2,1,false,,true,,,,1,,true,true,
 27280,121874,4,6,3,,2,1,false,,true,,,,1,true,true,true,
@@ -26658,7 +26658,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 27811,138117,2,3,3,,4,2,false,,true,,,,1,true,true,true,
 27812,138981,1,2,3,,3,2,false,,true,,,,1,,true,true,
 27813,105078,1,2,3,,2,1,true,1,true,,,,1,,,true,
-27814,108326,1,2,3,,2,1,false,,true,,,,2,,true,,
+27814,108326,1,2,3,,2,1,false,,true,false,false,false,2,true,true,true,false
 27815,122231,4,6,3,,2,1,true,1,true,false,false,false,1,true,true,true,false
 27816,115501,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 27817,129378,1,2,2,,2,1,true,1,true,true,,,1,,false,true,
@@ -26954,7 +26954,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 28107,135306,1,2,3,,2,2,false,,true,,,,1,,true,false,
 28108,117206,1,1,2,,2,1,false,,true,,,,1,,,true,
 28109,125681,1,2,2,,2,1,false,,true,,,,1,,,true,
-28110,114110,1,2,3,,2,1,false,,true,,,,1,true,true,true,
+28110,114110,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 28111,100409002,1,1,3,,2,2,false,,true,,,,1,,,,true
 28112,303532022,5,12,2,,2,2,false,,true,,,true,1,,,,true
 28113,303532007,5,14,1,,2,2,false,,true,,,true,1,,,,true
@@ -27415,7 +27415,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 28568,0d2c1bef-a203-4098-beec-4357b9e3064d,4,6,3,,2,3,false,,true,,,,1,,,,true
 28569,126208,1,2,2,,2,1,true,1,true,,,,1,,,true,
 28570,117025,4,6,3,,2,2,false,,true,false,false,false,1,false,false,true,false
-28571,797d596a-e8ce-4a27-b826-6458a38c776f,1,1,3,,2,2,false,,true,,,,2,,true,true,
+28571,797d596a-e8ce-4a27-b826-6458a38c776f,1,1,3,,2,2,false,,true,false,false,false,2,false,true,true,false
 28572,554979019,2,3,3,,2,2,false,,true,,,,1,,true,,
 28573,128166,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 28574,108105,4,7,3,,2,1,false,,true,,,,1,true,true,true,
@@ -27645,7 +27645,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 28798,303532026,1,2,3,,2,2,false,,true,,,,1,true,true,,
 28799,135862,1,2,3,,2,1,false,,true,,,,1,,,true,
 28800,109465,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-28801,302664006,1,2,3,,5,3,false,,true,,,,1,,true,,
+28801,302664006,1,2,3,,5,3,false,,true,false,false,false,1,true,true,true,false
 28802,103407,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 28803,107634,4,6,3,,2,1,false,,true,,,,1,,,true,
 28804,102699,2,3,3,,2,1,true,3,true,,,,1,,,true,
@@ -27777,7 +27777,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 28930,117520,1,2,3,,2,1,false,,true,,,,1,,,true,
 28931,306704162,5,3,1,,3,2,false,,true,true,,true,3,,true,true,
 28932,116256,4,8,3,,2,1,false,,true,,,,1,,,true,
-28933,134893,1,2,3,,2,2,false,,true,,,,1,,,,true
+28933,134893,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 28934,07f8f8a1-6ba0-457c-9d78-cbac5bc25ff3,5,13,,,2,3,false,,true,,,,1,,true,true,
 28935,49afad0d-c961-4e14-bd59-16747e6a026e,1,2,3,,2,3,false,,true,,,,2,,,true,
 28936,115662,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -28022,7 +28022,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 29175,137762,6,3,2,,2,2,false,,true,,,,1,,true,true,
 29176,126748,4,6,3,,2,1,false,,true,,,,1,true,true,true,
 29177,105949,4,6,2,,2,1,false,,true,,,true,1,true,true,true,
-29178,303330152,1,2,3,,2,3,false,,true,,,,1,,,,true
+29178,303330152,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 29179,102962,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 29180,457274157,5,2,2,,2,2,false,,true,true,,true,1,true,true,,
 29181,123254,1,2,2,,2,1,false,,true,false,false,false,1,false,false,true,false
@@ -29270,7 +29270,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 30423,122244,2,3,2,,2,1,false,,true,,,,1,true,true,true,
 30424,103588,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 30425,118777,4,6,3,,2,1,false,,true,,,,1,,,true,
-30426,134475,1,2,3,,2,2,false,,true,,,,2,,true,,
+30426,134475,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 30427,134801,1,2,3,,2,2,false,,true,false,false,false,1,true,true,true,false
 30428,302662005,1,2,3,,2,3,false,,true,false,false,false,1,false,true,false,false
 30429,100290,4,3,3,,2,1,false,,true,,,true,1,,,true,
@@ -29479,7 +29479,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 30632,128412,1,2,3,,2,1,true,1,true,,,,1,true,true,,
 30633,103134,4,6,3,,2,1,true,4,true,,true,true,1,,true,true,
 30634,552712008,5,15,1,,2,2,false,,true,,,true,1,,,true,
-30635,122429,4,6,3,,2,1,false,,true,true,,true,1,,,true,
+30635,122429,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 30636,609162164,1,2,3,,2,3,false,,true,,,,2,,true,,
 30637,128748,4,6,3,,2,1,false,,true,,,true,1,,,true,
 30638,133051,3,3,3,,2,1,false,,true,,,,1,,,true,
@@ -29498,7 +29498,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 30651,100624,1,2,3,,2,1,false,,true,,,,1,,,true,
 30652,107253,3,5,3,,1,3,false,,true,,,,1,,,true,
 30653,102129,2,3,3,,2,1,false,,true,,,,1,,,true,
-30654,138459,6,3,3,,2,2,false,,true,,,,1,,true,,
+30654,138459,6,3,3,,2,2,false,,true,false,false,false,1,false,true,false,false
 30655,122088,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 30656,125106,1,2,2,,2,1,false,,true,false,false,false,1,false,false,true,false
 30657,132059,3,4,3,,2,1,true,3,true,true,,,1,true,true,true,
@@ -29712,7 +29712,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 30865,101360,1,1,3,,2,1,false,,true,,,,1,true,true,true,
 30866,129899,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 30867,106181,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-30868,8ebf23d3-fe29-49bc-8870-34eb5bd8a6ba,1,2,3,,2,2,false,,true,,,,1,,true,,
+30868,8ebf23d3-fe29-49bc-8870-34eb5bd8a6ba,1,2,3,,2,2,false,,true,false,false,false,1,true,true,true,false
 30869,207510012,5,10,1,,2,3,false,,,,,true,1,true,true,,
 30870,126046,4,6,3,,2,2,false,,true,,,true,1,,,true,
 30871,124828,2,3,3,,2,1,false,,true,,,,1,,,true,
@@ -30779,7 +30779,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 31932,553282093,5,10,1,,3,3,false,,true,,,true,1,,true,true,
 31933,127112,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 31934,553282075,5,10,3,,2,2,false,,true,true,,true,1,,true,true,
-31935,108176,1,2,3,,2,2,false,,true,,,,2,,true,,
+31935,108176,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 31936,122865,1,1,3,,2,1,false,,true,,,,1,true,true,true,
 31937,557385008,1,2,3,,2,2,true,1,true,,,,1,true,false,false,
 31938,124317,2,3,3,,2,1,true,1,true,,,,1,true,true,true,
@@ -30830,7 +30830,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 31983,107687,1,2,3,,1,3,false,,true,,,,1,,,true,
 31984,106351,1,2,3,,2,1,false,,true,,,,1,,,true,
 31985,124169,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-31986,302664007,1,2,3,,2,2,false,,true,true,,,3,,true,,
+31986,302664007,1,2,3,,2,2,false,,true,true,false,false,3,true,true,true,false
 31987,113727,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 31988,105218,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 31989,133803,3,3,3,,2,1,false,,true,,,,1,,,true,false
@@ -30847,7 +30847,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 32000,100415,1,2,2,,2,1,false,,true,false,false,false,1,true,true,true,false
 32001,112366,4,8,3,,2,1,false,,true,,,,1,,,true,
 32002,130635,1,2,3,,2,1,false,,true,true,,,1,,,true,
-32003,cfd04a5d-a2e8-4289-84a3-ee5483d39de6,1,2,3,,2,2,false,,true,,,,2,false,true,true,
+32003,cfd04a5d-a2e8-4289-84a3-ee5483d39de6,1,2,3,,2,2,false,,true,false,false,false,1,false,true,true,false
 32004,122584,2,3,3,,2,1,false,,true,,,,1,true,true,true,
 32005,128323,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 32006,456172103,5,15,1,,2,3,false,,true,true,,true,3,,,true,
@@ -32372,7 +32372,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 33526,103207,1,2,3,,2,1,false,,true,true,true,,1,true,true,,
 33527,103477,1,2,3,,2,1,false,,true,,,,1,,,true,
 33528,109416,4,2,3,,2,1,false,,true,,,,1,true,true,true,
-33529,130031,1,2,3,,2,1,false,,true,,,,1,,,true,
+33529,130031,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 33530,125182,4,6,3,,2,2,false,,true,false,false,false,1,false,false,true,false
 33531,108801,3,3,3,,2,2,false,,true,,,,1,,true,true,
 33532,123585,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -33300,7 +33300,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 34454,111447,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 34455,120964,1,2,3,,2,1,false,,true,,,,1,,,true,
 34456,101075,4,4,3,,2,1,false,,true,,,,1,,,true,
-34457,111436,1,2,3,,2,1,false,,true,true,true,,1,true,true,true,
+34457,111436,1,2,3,,2,1,false,,true,true,true,false,1,true,true,true,false
 34458,508172004,1,2,3,,2,2,false,,true,,,,1,,,,true
 34459,109822,1,2,3,,2,1,false,,true,true,,,1,true,true,true,
 34460,456181118,5,12,3,,2,2,false,,true,,,,2,,,true,
@@ -34043,7 +34043,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 35197,137298,1,1,3,,1,3,false,,true,,,,1,,,true,
 35198,609127028,5,14,2,,2,2,false,,true,,,true,1,,,true,
 35199,119927,1,2,3,,2,1,true,1,true,,,,1,,,true,
-35200,134262,1,2,3,,2,2,false,,true,,,,1,,,,true
+35200,134262,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 35201,119819,1,2,3,,1,3,true,1,true,,,,1,,,true,
 35202,124842,1,2,3,,2,1,false,,true,false,false,false,1,false,true,true,false
 35203,113454,1,2,3,,2,1,false,,true,,,,1,true,true,true,
@@ -35680,7 +35680,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 36835,136327,3,3,3,,2,3,false,,true,,,,1,,true,true,
 36836,112967,1,2,3,,2,1,false,,true,true,,,1,true,true,true,
 36837,130632,3,3,3,,2,3,false,,true,,,,1,,true,,
-36838,60ad02d2-aa54-4f02-955f-f7904014b8c3,1,2,3,,2,2,false,,true,,,,2,,true,,
+36838,60ad02d2-aa54-4f02-955f-f7904014b8c3,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 36839,609162293,5,10,3,,2,3,false,,,,,true,1,,true,,
 36840,113968,4,6,3,,2,1,false,,true,,,,1,,,true,
 36841,201967054,4,6,3,,2,1,false,,true,false,false,true,1,false,true,false,false
@@ -36283,7 +36283,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 37438,302667002,2,3,3,,2,3,true,1,true,,,,2,,,true,
 37439,208487004,1,2,3,,2,2,false,,true,,,,2,,,,true
 37440,100965,1,2,3,,2,1,false,,true,,,,1,false,,true,
-37441,ecde8387-8b71-4363-a96b-6c3ed8c9454e,1,2,3,,2,2,false,,true,,,,2,,true,,
+37441,ecde8387-8b71-4363-a96b-6c3ed8c9454e,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 37442,126170,1,2,2,,2,1,false,,true,,,,1,,,true,
 37443,129729,3,5,2,,1,3,false,,true,,,,1,,true,true,
 37444,106636,4,6,3,,2,2,false,,,,,true,1,,true,,
@@ -36775,7 +36775,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 37930,117363,1,2,3,,2,1,true,1,true,,,,1,,,true,
 37931,120880,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 37932,110939,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
-37933,dce61c30-6f4c-42eb-9e29-f5801fba64c5,1,2,3,,2,2,false,,true,,,,2,,true,,
+37933,dce61c30-6f4c-42eb-9e29-f5801fba64c5,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 37934,108414,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 37935,557385013,1,1,3,,2,2,false,,true,false,false,false,2,true,false,false,false
 37936,558592007,1,2,3,,2,2,false,,true,false,false,false,2,false,true,false,false
@@ -36954,7 +36954,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 38109,456124005,5,14,2,,2,2,false,,true,,,true,1,true,true,,
 38110,456124018,5,15,2,,2,2,false,,true,,,true,1,true,,,
 38111,110585,4,9,3,,2,1,false,,true,true,,true,1,,true,,
-38112,c445ebe7-1dd8-4179-ab13-30f5a5868b3d,1,2,3,,2,2,false,,true,,,,1,,,,true
+38112,c445ebe7-1dd8-4179-ab13-30f5a5868b3d,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 38113,112461,4,8,3,,2,2,false,,true,,,,1,false,,true,
 38114,111140,1,2,3,,2,1,false,,true,,,,1,,,true,
 38115,119721,1,2,3,,3,1,false,,true,,,,1,,,true,
@@ -37245,7 +37245,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 38401,137332,1,1,3,,1,3,false,,true,,,,1,true,true,true,
 38402,125099,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 38403,100992,4,6,3,,2,1,false,,true,,,,1,false,,true,
-38404,130015,1,2,3,,2,1,false,,true,,,,1,false,,true,
+38404,130015,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 38405,109814,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 38406,101600,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 38407,112369,3,4,3,,1,3,false,,true,,,,1,,,true,
@@ -37628,7 +37628,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 38784,131063,1,1,3,,2,2,false,,true,,,,1,true,true,true,
 38785,125879,1,2,3,,2,1,false,,true,,,,1,,,true,
 38786,100447006,5,12,3,,2,2,false,,true,,,true,1,true,true,true,
-38787,136491,6,2,3,,5,3,true,6,true,true,,,2,,true,true,
+38787,136491,6,2,3,,5,3,true,6,true,true,false,false,2,true,true,true,false
 38788,425ae848-a08b-4ae4-8f50-aafe687edbc2,5,6,3,,3,3,false,,true,,,true,2,,,true,
 38789,114206,1,2,3,,2,1,false,,true,,,,1,,,true,
 38790,135904,6,2,3,,2,2,false,,true,,,,1,true,true,true,
@@ -38164,7 +38164,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 39320,109371,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 39321,303330112,1,1,3,,2,2,false,,true,,,,1,,false,,true
 39322,115247,4,8,3,,2,1,false,,true,true,,true,1,,,true,
-39323,2d34f4fd-ff39-4f9a-a498-09039183539c,1,2,3,,2,2,false,,true,,,,2,,true,,
+39323,2d34f4fd-ff39-4f9a-a498-09039183539c,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 39324,106236,1,2,3,,2,1,false,,true,,,,1,,,true,
 39325,109188,1,2,2,,2,1,false,,true,,,,1,,,true,
 39326,132066,2,3,3,,1,3,false,,true,,,,1,true,true,true,
@@ -38393,7 +38393,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 39549,109413,4,6,2,,2,1,false,,true,,,,1,true,true,true,false
 39550,107855009,5,12,1,,2,2,false,,true,,,,1,,,true,
 39551,138573,6,3,3,,2,2,true,3,true,,,,1,,true,,
-39552,112139,1,1,3,,2,1,false,,true,true,,,1,,true,true,
+39552,112139,1,1,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 39553,404442003,5,12,1,,2,2,false,,,,,true,3,,,true,
 39554,123786,4,7,3,,2,1,false,,true,,,,1,,,true,
 39555,303332041,1,1,3,,2,3,false,,true,false,false,false,2,false,false,false,true
@@ -38681,7 +38681,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 39837,111393,1,2,3,,2,1,true,1,true,,,,1,true,true,true,
 39838,302693051,1,2,3,,2,2,false,,true,,,,1,,,,true
 39839,137076,1,2,3,,2,1,false,,true,,,,1,,,true,
-39840,130033,1,2,3,,2,1,false,,true,,,,1,,,true,
+39840,130033,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 39841,110212,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 39842,133875,6,16,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 39843,125320,1,2,2,,2,1,false,,true,,,,1,,,true,
@@ -38918,7 +38918,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 40074,ad6ecd54-e7f7-46ae-99e2-d4a39d178013,5,12,3,,2,3,false,,true,,,,1,,true,,
 40075,304827003,1,1,3,,2,2,false,,true,,,,1,,true,true,
 40076,118046,1,1,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-40077,139625,1,1,3,,2,2,false,,true,true,,,1,,,true,
+40077,139625,1,1,3,,2,2,false,,true,false,false,false,1,false,false,true,false
 40078,115576,1,2,3,,2,1,false,,true,,,,1,,true,true,
 40079,118586,4,6,3,,2,1,false,,true,,,,1,,,true,
 40080,302614107,1,2,3,,2,2,true,1,true,,,,1,true,true,,
@@ -38966,7 +38966,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 40122,133218,6,3,3,,1,3,true,2,true,,,,1,true,true,true,
 40123,457274132,5,15,1,,2,2,false,,,,,true,1,,,true,
 40124,123930,1,2,2,,2,1,false,,true,,,,1,,,true,
-40125,90fb4f25-b2fb-4528-8c77-2e6655c8224a,1,2,3,,2,2,false,,true,,,,1,,true,,
+40125,90fb4f25-b2fb-4528-8c77-2e6655c8224a,1,2,3,,2,2,false,,true,false,false,false,1,true,true,true,false
 40126,106137,4,6,3,,2,1,false,,true,,,,1,true,true,true,
 40127,106248,4,7,3,,2,1,false,,true,,,,1,true,true,true,
 40128,120021,3,4,3,,1,3,true,3,true,,,,1,,,true,
@@ -39193,7 +39193,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 40349,112586,1,2,2,,2,1,true,1,true,,,,1,true,true,true,
 40350,101214,2,3,3,,2,1,false,,true,,,,1,,,true,
 40351,122606,1,2,2,,2,1,false,,true,,,,1,,,true,
-40352,140049,1,1,3,,2,3,false,,true,,,,1,,,true,
+40352,140049,1,1,3,,2,3,false,,true,false,false,false,1,false,true,false,false
 40353,134534,1,2,3,,2,1,false,,true,,,,1,,true,,
 40354,552717011,1,1,3,,2,3,false,,true,,,,2,,true,,
 40355,117296,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -39352,7 +39352,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 40508,605865004,4,6,3,,2,2,false,,true,,,,1,,true,,
 40509,137983,1,1,3,,1,3,false,,true,,,,1,,,true,
 40510,132312,3,3,3,,2,2,false,,true,,,,1,,,true,
-40511,456188008,5,15,2,,2,2,false,,true,true,,true,,,true,true,
+40511,456188008,5,15,2,,2,2,false,,false,false,false,true,,false,false,true,false
 40512,137901,1,1,3,,1,3,false,,true,,,,2,,,true,
 40513,117276,1,2,3,,2,1,false,,true,,,,1,,,true,
 40514,140108,6,16,3,,2,2,true,5,true,,,,1,,,true,
@@ -39409,7 +39409,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 40565,110330,1,2,3,,2,1,false,,true,,,,1,,true,true,
 40566,134138,1,2,3,,2,1,false,,true,,,,1,,true,,
 40567,112150,4,7,3,,2,1,false,,true,,,true,1,true,true,true,
-40568,137079,3,3,3,,2,2,false,,true,,,,1,,,true,
+40568,137079,3,3,3,,2,2,false,,true,false,false,false,1,false,false,true,false
 40569,132367,2,3,3,,2,2,false,,true,,true,,2,,true,true,
 40570,104250,1,2,3,,2,1,false,,true,,,,1,,true,true,
 40571,116844,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
@@ -39434,7 +39434,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 40590,109504,1,2,2,,2,1,false,,true,,,,1,true,true,true,
 40591,120916,4,6,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 40592,129658,4,6,3,,2,1,false,,true,,,,1,,,true,
-40593,456188027,5,15,3,,2,2,false,,true,true,,true,1,,true,true,
+40593,456188027,5,15,3,,2,2,false,,false,false,false,true,1,false,false,true,false
 40594,109125,1,2,1,,1,3,false,,true,,,,1,,true,true,
 40595,117208,1,1,3,,2,2,false,,true,,,,1,,,true,
 40596,121939,4,6,3,,2,1,true,4,true,,,,1,true,true,true,
@@ -39565,7 +39565,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 40721,303330165,1,2,3,,2,3,false,,true,,,,1,,,,true
 40722,119259,2,3,3,,2,1,true,3,true,false,false,false,2,false,false,true,false
 40723,137627,3,3,3,,2,1,false,,true,,,,1,true,true,true,
-40724,456188030,5,15,1,,2,2,false,,true,true,,true,1,,true,true,
+40724,456188030,5,15,1,,2,2,false,,false,false,false,true,1,false,false,true,false
 40725,fc43bec3-2440-43f9-a1da-8d701eb7c5dc,5,15,1,,2,3,false,,,,,true,3,,true,true,
 40726,132964,6,16,3,,1,3,false,5,true,false,false,false,1,false,false,true,false
 40727,4b05e0ef-501a-44d1-a96d-e6a2b06d5486,3,3,3,,2,2,false,,true,false,false,false,1,true,true,false,false
@@ -40354,7 +40354,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 41510,137845,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 41511,122080,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 41512,126426,3,4,3,,2,1,false,,true,,,,1,,,true,
-41513,112158,4,6,3,,2,1,false,,true,true,,true,1,,,true,
+41513,112158,4,6,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 41514,113512,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 41515,133077,6,3,3,,2,1,false,,true,,,,1,true,,true,
 41516,122360,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -40452,7 +40452,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 41608,609162261,5,12,1,,2,3,false,,,,,true,1,,true,,
 41609,106682,1,2,3,,2,1,true,1,true,,,,1,true,true,true,
 41610,302672007,1,2,3,,2,2,false,,true,,,,1,,,true,
-41611,bdd67666-d017-43be-b5ec-d2e36dc770ff,1,2,3,,2,2,false,,true,,,,2,,true,,
+41611,bdd67666-d017-43be-b5ec-d2e36dc770ff,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 41612,121643,1,2,2,,2,1,false,,true,,,,1,,,true,
 41613,118171,3,4,3,,2,1,false,,true,,,,1,,,true,
 41614,309309005,4,13,2,,2,3,false,,true,,,,1,,,,true
@@ -40478,7 +40478,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 41634,121609,3,4,3,,2,1,false,,true,,,,1,true,true,true,
 41635,111387,3,4,2,,2,1,false,,true,false,false,false,1,false,false,true,false
 41636,102110,3,4,3,,2,1,true,3,true,,,,1,,true,true,
-41637,120154,1,2,3,,2,1,false,,true,,,,1,,,true,
+41637,120154,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 41638,105987,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 41639,128044,1,2,3,,2,1,false,,true,,,,1,,,true,
 41640,114298,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -40758,7 +40758,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 41914,100678,1,2,2,,2,1,false,,true,,,,1,,true,,
 41915,102892,3,4,3,,2,1,true,3,true,,,,1,,,true,
 41916,201974014,4,1,3,,2,2,false,,true,,,,1,,,,true
-41917,aa999be0-2423-4db3-a449-bedeb3d3f183,1,2,3,,5,3,false,,true,,,,2,,true,,
+41917,aa999be0-2423-4db3-a449-bedeb3d3f183,1,2,3,,5,3,false,,true,false,false,false,2,true,true,true,false
 41918,102036,1,1,2,,2,1,false,,true,,,,1,,true,true,
 41919,102322,4,6,2,,2,2,false,,true,,,,1,,,true,
 41920,116622,4,6,3,,2,1,false,,true,,,,1,,,true,
@@ -40801,7 +40801,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 41957,303387004,1,2,3,,2,3,false,,true,,,,1,,,,true
 41958,111552,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 41959,107942,4,6,3,,2,1,false,,true,,,,1,true,true,true,
-41960,114119,1,2,3,,4,3,false,,true,,,,1,true,true,true,
+41960,114119,1,2,3,,4,3,false,,true,false,false,false,1,true,true,true,false
 41961,108946,1,2,3,,2,2,false,,true,,,,2,,,true,
 41962,125477,4,8,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 41963,108459,2,3,3,,2,1,false,,true,,true,,1,,,true,
@@ -40891,7 +40891,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 42047,121748,4,6,3,,2,2,false,,true,,,,1,,,true,
 42048,105540,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 42049,113746,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-42050,456188002,5,15,2,,2,2,false,,true,true,,true,1,,,true,
+42050,456188002,5,15,2,,2,2,false,,false,false,false,true,1,false,false,true,false
 42051,118922,1,2,3,,2,1,false,,true,,,,1,,,true,
 42052,110327,1,2,2,,2,1,false,,true,,,,1,,true,,
 42053,45f9a820-261b-44a0-8e17-6e9426bb0ef7,1,2,3,,2,2,false,,true,,,,2,,true,,
@@ -41159,7 +41159,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 42315,302630010,1,2,3,,2,2,false,,true,,,,3,,true,,
 42316,120853,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 42317,130543,3,4,3,,2,1,false,,true,,,,1,true,true,true,
-42318,131671,4,6,2,,2,2,false,,true,true,,true,1,,,true,
+42318,131671,4,6,2,,2,2,false,,true,false,false,false,1,false,false,true,false
 42319,111003,3,4,3,,2,1,false,,true,,,,1,,,true,
 42320,557345016,1,2,3,,2,3,false,,true,,,,1,,true,,
 42321,120429,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -41182,7 +41182,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 42338,123717,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 42339,111606,4,8,3,,2,1,false,,true,,,,1,true,true,true,
 42340,129652,1,2,3,,2,1,false,,true,,,,1,,,true,
-42341,85c0bd41-e385-4afb-a20c-abef5f6944f2,1,2,3,,5,3,false,,true,,,,2,false,true,,
+42341,85c0bd41-e385-4afb-a20c-abef5f6944f2,1,2,3,,5,3,false,,true,false,false,false,2,true,true,true,false
 42342,d5a9572d-0121-4b94-9689-51582598b026,5,14,2,,2,2,false,,true,,,true,1,,true,,
 42343,107895001,5,15,1,,4,3,false,,true,false,false,true,1,false,true,false,false
 42344,128242,4,8,3,,2,1,false,,true,true,,true,1,,,true,
@@ -41987,7 +41987,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 43144,136801,1,2,3,,2,2,false,,true,,,,1,,true,,
 43145,123447,1,1,3,,2,1,false,,true,,,,1,,,true,
 43146,127260,1,2,3,,2,1,false,,true,,,,1,,,true,
-43147,ec16ef53-7481-46ab-8f51-da0eb20e1c26,1,2,3,,2,2,false,,true,,,,2,,true,true,
+43147,ec16ef53-7481-46ab-8f51-da0eb20e1c26,1,2,3,,2,2,false,,true,false,false,false,2,false,true,true,false
 43148,306704042,5,7,2,,2,3,false,,true,true,false,true,1,false,true,false,false
 43149,139438,1,1,2,,2,3,false,,true,false,,,1,,false,true,
 43150,126210,1,2,2,,2,1,false,,true,,,,1,,,true,
@@ -42046,7 +42046,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 43203,123440,1,2,3,,2,1,false,,true,,,,1,,,true,
 43204,308669007,1,2,3,,2,2,false,,true,,,,1,,true,,
 43205,204661005,1,2,3,,2,2,false,,true,,,,1,true,,,
-43206,7bdd3eb9-f205-4ffd-a086-9d3278f2c460,4,1,3,,2,3,false,,false,,,true,2,,true,true,
+43206,7bdd3eb9-f205-4ffd-a086-9d3278f2c460,4,1,3,,2,3,false,,true,true,false,true,2,false,true,true,false
 43207,453936015,5,12,3,,3,3,false,,true,false,false,true,1,false,false,false,true
 43208,134383,6,3,3,,2,1,false,,true,,,,1,true,true,true,
 43209,123427,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -42081,17 +42081,17 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 43238,136322,6,3,3,,2,2,true,3,true,,,,1,,,true,
 43239,132912,6,3,3,,2,2,true,3,true,,,,1,,,true,
 43240,105290,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-43241,61ce7446-8a09-45c8-afe8-86c660a00392,1,1,3,,2,3,false,,true,,,,2,,true,true,
+43241,61ce7446-8a09-45c8-afe8-86c660a00392,1,1,3,,2,3,false,,true,false,false,false,2,false,true,true,false
 43242,126086,1,2,2,,2,1,false,,true,,,,1,true,true,true,
 43243,609162150,1,2,3,,2,2,false,,true,,,,1,,,,true
 43244,123411,1,2,3,,2,1,false,,true,,,,1,,,true,
 43245,125449,4,6,2,,2,2,false,,true,false,false,false,1,false,true,false,false
 43246,124884,4,6,3,,2,1,false,,true,false,false,false,1,false,true,true,false
 43247,136033,6,16,3,,2,3,false,,false,true,,,1,,true,,
-43248,92c8b890-bfbe-4d6a-9cfb-0565890f950a,5,1,,,2,3,false,,false,,,true,1,,true,true,
+43248,92c8b890-bfbe-4d6a-9cfb-0565890f950a,4,1,3,,2,3,false,,false,false,false,true,1,false,true,true,false
 43249,131603,4,6,3,,2,2,false,,true,,,,1,true,true,true,
 43250,133094,6,3,3,,2,1,true,3,true,false,false,false,1,false,false,true,false
-43251,a28366a8-8cb8-462c-916c-2ee88168b132,5,8,2,,2,3,false,,true,true,,true,2,,true,true,
+43251,a28366a8-8cb8-462c-916c-2ee88168b132,4,8,2,,2,3,false,,true,true,false,true,2,false,true,true,false
 43252,135503,1,2,3,,2,3,false,,true,false,false,false,1,false,true,false,false
 43253,113661,2,3,3,,2,1,false,,true,,,,1,,,true,
 43254,105139,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -42705,7 +42705,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 43862,138695,1,2,3,,2,2,false,,true,,,,1,,,true,
 43863,119696,2,3,3,,2,1,true,1,true,,,,1,,,true,
 43864,117302,4,6,3,,2,1,false,,true,,true,true,1,,,true,
-43865,112133,1,1,2,,2,2,false,,true,true,,,1,,true,true,
+43865,112133,1,1,2,,2,2,false,,true,false,false,false,1,false,false,true,false
 43866,673b6ff5-0ab2-4368-a612-dc4231900b7b,1,2,3,,2,2,false,,true,,,,2,,,,true
 43867,111462,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 43868,104905,1,2,3,,3,2,false,,true,,,,1,,,true,
@@ -42778,7 +42778,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 43935,125781,4,6,3,,2,1,false,,true,,,,1,,,true,
 43936,116711,1,2,3,,2,1,false,,true,,,,1,,,true,
 43937,554979023,5,15,2,,3,3,false,,true,false,false,true,1,false,false,false,true
-43938,109004,4,8,3,,2,1,false,,true,,,,1,,,true,
+43938,109004,4,8,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 43939,609162117,1,2,3,,2,3,false,,true,,,,2,,,,true
 43940,305646003,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 43941,133069,6,3,3,,2,1,false,2,true,,,,1,false,,true,
@@ -42987,7 +42987,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 44144,138875,1,1,3,,2,2,false,,true,,,,1,,,true,
 44145,b0176599-3548-4cb7-9691-964f1f0a9a5a,5,14,2,,2,2,false,,true,true,,true,1,,,true,
 44146,306807026,5,12,3,,2,2,false,,true,false,false,true,1,false,false,true,false
-44147,aac99f2d-8f82-478e-a4d9-003e9fc685be,1,2,3,,2,2,false,,true,,,,3,,true,,
+44147,aac99f2d-8f82-478e-a4d9-003e9fc685be,1,2,3,,2,2,false,,true,false,false,false,3,true,true,true,false
 44148,f238ab34-a2db-4152-99d5-a6fbd4055fb1,3,2,3,,2,2,false,,false,false,true,false,1,false,false,true,false
 44149,b3ecbc6b-8ed8-40bb-8c55-9ff4eccf877a,5,12,2,,2,3,false,,true,true,,true,1,,true,,
 44150,132430,6,3,3,,2,1,true,1,true,,,,1,,,true,
@@ -43156,7 +43156,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 44313,117012,1,2,3,,2,1,false,,true,,,,1,,,true,
 44314,139350,2,3,3,,1,3,true,2,true,,,,1,,true,true,
 44315,410e0af2-6ed3-42a3-bed8-27ccaf570211,5,14,1,,2,2,false,,,,,true,1,,,,true
-44316,456188042,5,13,2,,2,2,false,,true,true,,true,1,,true,true,
+44316,456188042,5,13,2,,2,2,false,,false,false,false,true,1,false,false,true,false
 44317,106420,4,6,3,,2,2,false,,true,false,false,false,1,false,true,true,false
 44318,201528084,4,2,3,,4,3,false,,true,,true,true,3,,,,true
 44319,139650,6,16,3,,2,3,false,,true,,,,1,,true,,
@@ -43328,7 +43328,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 44485,133900,2,3,2,,2,3,false,,true,,,,1,false,false,true,
 44486,46852216-9b35-4b82-abcf-2184388cba1b,1,2,3,,2,2,false,,true,,,,2,,,,true
 44487,39c236e9-be16-4579-8d5b-d0ebc7dd21a3,5,13,1,,2,3,false,,false,false,false,true,1,true,true,true,false
-44488,b40d4ced-3bd0-4502-b0cb-a374b6233265,1,2,3,,2,2,false,,true,,,,2,,true,,
+44488,b40d4ced-3bd0-4502-b0cb-a374b6233265,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 44489,78243e98-6654-4736-8bbd-ed3b758ef76f,1,2,3,,2,2,false,,true,,,,1,,,,true
 44490,115766,1,2,3,,2,1,false,,true,,,,1,,,true,
 44491,c5bac4b6-38be-4ab6-b882-489cb3585d85,1,1,3,,2,3,false,,true,false,false,false,1,false,false,false,true
@@ -43592,7 +43592,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 44749,104911,4,6,3,,2,2,false,,true,,,true,1,false,true,,
 44750,113923,1,2,3,,2,1,false,,true,,,,1,,,true,
 44751,102399,3,4,3,,2,1,false,,true,,,,1,,,true,
-44752,456188010,5,14,2,,2,2,false,,true,true,,true,1,,true,true,
+44752,456188010,5,14,2,,2,2,false,,false,false,false,true,1,false,false,true,false
 44753,110537,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 44754,126464,1,2,3,,2,1,false,,true,,,,1,,true,true,
 44755,139396,6,16,3,,2,2,false,,true,,,,1,,,true,
@@ -43871,7 +43871,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 45028,117620,1,2,2,,2,1,true,1,true,,,,1,,,true,
 45029,119342,1,2,3,,2,1,false,,true,,,,1,,,true,
 45030,5dbd011f-1b25-443d-8e91-28a669f16dab,5,13,1,,2,2,false,,,,,true,1,,,,true
-45031,456188019,5,13,2,,2,2,false,,true,true,,true,1,,true,true,
+45031,456188019,5,13,2,,2,2,false,,false,false,false,true,1,false,false,true,false
 45032,112571,4,6,3,,2,1,false,,true,,,true,1,,,true,
 45033,116212,1,2,2,,2,1,false,,true,,,,1,,,true,
 45034,138485,1,2,3,,2,2,false,,true,,,,2,,true,true,
@@ -43894,7 +43894,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 45051,137707,3,3,3,,2,1,true,3,true,true,,,1,,,true,
 45052,107810,1,1,3,,2,1,false,,true,,,,1,false,,true,
 45053,105142,1,2,3,,2,1,false,,true,,,,1,,,true,
-45054,120167,1,2,3,,2,1,false,,true,,,,1,,,true,
+45054,120167,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
 45055,123955,4,6,3,,2,1,false,,true,false,false,true,1,false,false,true,false
 45056,120870,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 45057,360b434d-f7aa-4ef8-b2ca-22a5e9a8b73e,1,2,3,,2,2,false,,true,,,,2,,true,true,
@@ -44229,7 +44229,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 45391,138338,1,2,3,,2,2,false,,true,,true,,1,,,true,
 45392,2523c5af-f15f-457e-afe1-62bef44215eb,1,2,3,,2,2,false,,true,,,,2,,true,true,
 45393,fde90630-41b3-4038-800d-644bd13124ea,1,2,3,,3,3,false,,true,,,,1,,,,true
-45394,6ebe8b4d-8948-4cd6-a26a-116023275511,5,13,1,,3,3,false,,,,,true,1,,,,true
+45394,6ebe8b4d-8948-4cd6-a26a-116023275511,5,13,1,,3,3,false,,false,false,false,true,1,false,false,false,true
 45395,138681,1,2,3,,1,3,false,,true,false,false,false,1,false,true,false,false
 45396,126088,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 45397,306704178,5,13,3,,2,3,false,,true,,,true,1,,,,true
@@ -44351,7 +44351,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 45513,122086,1,2,2,,2,1,false,,true,,,,1,true,true,true,
 45514,139627,1,1,2,,2,2,false,,true,,,,1,,true,,
 45515,111385,4,6,3,,2,1,false,,true,true,,true,1,true,true,true,
-45516,a6e1bd91-e595-412b-9657-85db419ee0ce,1,2,3,,2,2,false,,true,,,,1,,true,,
+45516,a6e1bd91-e595-412b-9657-85db419ee0ce,1,2,3,,2,2,false,,true,false,false,false,1,true,true,true,false
 45517,130014,1,2,3,,2,1,false,,true,,,,1,,,true,
 45518,138629,1,1,3,,1,3,false,,true,false,false,false,1,false,false,true,false
 45519,133334,6,16,3,,1,3,false,,true,,,,1,,,true,
@@ -44429,7 +44429,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 45591,137523,1,1,3,,1,3,false,,true,,,,1,,,true,
 45592,109937,1,2,3,,2,1,false,,true,true,,,1,true,true,true,
 45593,9a376f85-66f1-4f10-8ffe-b082c9b2562e,1,2,3,,2,3,false,,true,,,,1,,,,true
-45594,b185741c-da4e-446f-b7cc-a8c3d20d1c85,1,2,3,,2,2,false,,true,,,,2,,true,,
+45594,b185741c-da4e-446f-b7cc-a8c3d20d1c85,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 45595,453936163,1,2,3,,2,2,false,,true,true,false,false,1,true,true,true,
 45596,102933,4,7,3,,2,1,false,,true,,,true,1,,,true,
 45597,ad16df4e-e272-4e65-b2bf-edb172ac0e85,5,12,2,,2,3,false,,true,,,true,1,,true,,
@@ -44502,7 +44502,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 45664,d950d729-b649-4955-b538-18d3e86a26a5,4,6,3,,2,2,false,,true,,,,2,false,,,true
 45665,401807050,5,12,2,,2,2,false,,true,,,,2,true,true,,
 45666,120854,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-45667,ca7df32a-8384-422b-a116-70777debb6b7,5,13,2,,3,3,false,,,,,true,1,,,,true
+45667,ca7df32a-8384-422b-a116-70777debb6b7,5,13,2,,3,3,false,,false,false,false,true,1,false,false,false,true
 45668,609162183,1,2,3,,2,3,false,,true,,true,,1,true,,,
 45669,128616,4,8,3,,2,1,false,,true,true,,true,1,,,true,
 45670,123373,1,1,3,,2,2,false,,true,,,,1,,,true,
@@ -44573,7 +44573,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 45735,109881,1,2,1,,1,3,false,,true,,,,1,,,,true
 45736,456116022,5,13,1,,4,2,false,,true,true,,true,1,true,true,true,
 45737,094b453a-d7a9-4083-9534-900179a917ec,5,12,1,,2,3,false,,true,,,true,1,,,true,
-45738,a28d368c-6993-440d-87b9-1a2dda6f5add,1,2,3,,2,2,false,,true,,true,,2,,true,,
+45738,a28d368c-6993-440d-87b9-1a2dda6f5add,1,2,3,,2,2,false,,true,false,true,false,2,true,true,true,false
 45739,112708,4,7,3,,2,1,false,,true,,,,1,true,true,true,
 45740,134213,2,3,3,,1,1,false,,true,,,,1,,,true,
 45741,122275,1,2,3,,2,1,false,,true,,,,1,true,true,true,
@@ -44635,7 +44635,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 45797,507639005,5,14,1,,2,2,false,,true,,,true,2,,true,,
 45798,302667004,1,2,3,,2,3,false,,true,false,false,false,1,false,false,true,false
 45799,117915,1,2,3,,2,1,false,,true,true,,,1,true,true,true,
-45800,a3c42239-c30e-4ea1-87d8-1f10f06ca7fc,1,6,3,,2,3,false,,true,,,true,1,,true,,
+45800,a3c42239-c30e-4ea1-87d8-1f10f06ca7fc,1,6,3,,2,3,false,,true,false,false,true,1,true,true,true,false
 45801,137558,1,1,3,,1,3,false,,true,,,,1,true,true,true,
 45802,5abaeab3-019d-451a-8394-6a76d0a47660,6,16,3,,2,2,false,,true,,,,2,true,true,,
 45803,900030,2,3,3,,2,3,false,,,true,,,2,true,true,true,
@@ -44728,7 +44728,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 45890,107062,1,2,3,,2,1,false,,true,,,,1,,,true,
 45891,107256,3,4,3,,2,1,false,,true,,,,1,true,true,true,
 45892,201557086,1,2,3,,2,3,false,,true,false,false,false,2,false,false,false,true
-45893,1b956079-8c5f-4448-b94e-79b2d462f157,1,2,3,,2,2,false,,true,,,,2,,true,,
+45893,1b956079-8c5f-4448-b94e-79b2d462f157,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 45894,131890,2,3,3,,3,2,false,,true,,,,1,,true,,
 45895,133027,6,3,3,,1,3,true,2,true,,,,2,,,true,
 45896,131199,1,2,3,,2,1,false,,true,,,,1,,true,true,
@@ -44885,7 +44885,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 46047,108461,2,3,3,,2,1,true,1,true,,true,,1,true,true,true,
 46048,609162029,5,13,3,,2,3,false,,true,,,true,1,,true,true,
 46049,123902,1,2,3,,2,1,true,1,true,,,,1,,,true,
-46050,8ba6177d-bc84-4290-8758-aa70ed76f166,1,2,3,,2,2,false,,true,,,,2,,true,,
+46050,8ba6177d-bc84-4290-8758-aa70ed76f166,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 46051,108781,1,2,3,,2,1,false,,true,,,,1,true,true,false,
 46052,130301,3,4,3,,2,1,false,,true,,,,1,,,true,
 46053,101102,3,3,3,,2,1,true,3,true,,,,1,,,true,
@@ -44944,7 +44944,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 46106,103007,1,1,3,,2,1,false,,true,,,,1,,,true,
 46107,118260,3,4,2,,2,1,false,,true,,,,1,,true,true,
 46108,302693001,1,2,3,,2,3,false,,true,,,,1,,,,true
-46109,603668013,5,6,1,,2,2,false,,true,true,,true,1,true,,,
+46109,603668013,5,6,1,,2,2,false,,true,true,false,true,1,true,true,false,false
 46110,117263,1,2,3,,2,1,false,,true,,,,1,,,true,
 46111,302650081,1,2,3,,2,2,false,,true,,,,1,,false,,true
 46112,853f4a61-76bb-4fe3-9d73-bccda668deff,1,1,3,,2,2,false,,true,,,,1,,,,true
@@ -45744,7 +45744,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 46909,103498,1,2,1,,2,1,false,,true,false,false,false,1,false,false,true,false
 46910,108253,3,3,3,,2,2,false,,true,false,true,false,2,false,true,true,false
 46911,111629,4,6,3,,2,1,false,,true,true,false,true,1,false,false,true,false
-46912,1375a558-cf78-4432-ac6b-fe3cba37b35a,1,2,3,,2,2,false,,true,,,,1,,,,true
+46912,1375a558-cf78-4432-ac6b-fe3cba37b35a,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 46913,903450,1,2,3,,2,2,false,,,true,false,,1,true,true,true,
 46914,104775,4,6,3,,2,1,false,,true,,,,1,,,true,
 46915,408790007,5,12,1,,2,2,false,7,true,true,,true,1,,false,true,
@@ -45834,7 +45834,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 46999,456131016,5,14,1,,2,3,false,,true,true,false,true,1,false,false,false,true
 47000,903442,1,2,3,,2,3,false,,,true,,,1,false,true,true,false
 47001,c979e374-6507-4b2f-a6ab-b4a54a3581d7,1,2,3,,3,2,false,,true,,,,1,,,,true
-47002,6363e4b6-8265-4b45-ac7f-7c656f254e0e,1,2,3,,2,3,false,,true,,,,3,,true,,
+47002,6363e4b6-8265-4b45-ac7f-7c656f254e0e,1,2,3,,2,3,false,,true,false,false,false,3,true,true,true,false
 47003,118980,4,6,2,,2,1,false,,true,false,false,false,1,false,false,true,false
 47004,128676,3,4,3,,1,3,false,,true,false,,,1,,,true,
 47005,302947041,4,15,1,,2,3,false,,,,,true,1,,,true,
@@ -46052,7 +46052,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 47217,128211,1,2,3,,2,1,false,,true,,,,1,,,true,
 47218,138860,2,3,3,,2,2,true,1,true,,,,2,,,true,
 47219,106379,1,2,3,,2,1,false,,true,,,,1,true,true,true,
-47220,32575712-1c31-4bb1-914a-1f27d4f7d1b3,1,2,3,,2,2,false,,true,,,,2,,true,,
+47220,32575712-1c31-4bb1-914a-1f27d4f7d1b3,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 47221,111864,1,2,3,,2,1,false,,true,,,,1,,,true,
 47222,132995,6,16,3,,1,3,false,,true,,,,2,,,,true
 47223,208458003,1,1,3,,3,2,false,,true,,,,1,,,,true
@@ -46141,7 +46141,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 47306,110698,4,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 47307,125235,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 47308,552730004,1,2,3,,3,3,false,,true,,,,1,,true,,
-47309,6d336248-b5e9-4c43-92a8-caa06e25f31e,1,2,3,,2,2,false,,true,,,,1,,,,true
+47309,6d336248-b5e9-4c43-92a8-caa06e25f31e,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 47310,139972,3,3,3,,2,2,false,,true,,,,1,true,true,,
 47311,37de84a9-6092-4738-9ca3-ddabb8b50873,4,6,3,,3,3,false,,true,,,true,1,,,,true
 47312,111556,1,2,1,,2,1,false,,true,,,,1,,,true,
@@ -46210,8 +46210,8 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 47375,178c3929-e369-4e01-8d8f-dee68076dd68,5,1,3,,2,2,false,,true,,,true,2,,,,true
 47376,138889,6,2,3,,2,2,true,1,true,false,false,false,1,true,false,false,false
 47377,125186,4,6,3,,2,2,false,,true,,,,1,true,true,,
-47378,2d2281b7-ad1d-46f8-86f9-514f5edc1f09,2,3,3,,2,2,false,,true,,,,3,,true,,
-47379,a52e3574-d61a-441e-ad55-77f81564ec87,1,2,3,,3,2,false,,true,,,,1,,true,,
+47378,2d2281b7-ad1d-46f8-86f9-514f5edc1f09,2,3,3,,2,2,false,,true,false,false,false,3,true,true,true,false
+47379,a52e3574-d61a-441e-ad55-77f81564ec87,1,2,3,,3,2,false,,true,false,false,false,1,false,true,false,false
 47380,111503,4,6,3,,2,1,false,,true,,,,1,true,true,true,
 47381,138609,1,1,3,,1,3,false,,true,,,,1,true,,,
 47382,107852002,1,3,3,,2,2,false,,true,,,,2,,true,,false
@@ -46261,7 +46261,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 47426,134795,1,2,3,,2,1,false,,true,true,false,false,1,true,true,true,false
 47427,104938,2,3,3,,2,1,false,,true,,,,1,,,true,
 47428,134135,1,2,3,,2,1,false,,true,,,,1,,true,true,
-47429,e4ecc13a-8f33-4466-b265-0db22a2f0935,1,2,3,,3,2,false,,true,,,,1,,true,,
+47429,e4ecc13a-8f33-4466-b265-0db22a2f0935,1,2,3,,3,2,false,,true,false,false,false,1,false,true,false,false
 47430,641f7daf-c11c-444d-9f70-516529bb5fab,1,2,3,,2,2,false,,true,,,,2,,,,true
 47431,132520,6,3,3,,2,2,false,,true,,,,1,,,true,
 47432,111535,1,2,2,,2,1,false,,true,,,,1,,,true,
@@ -46293,7 +46293,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 47458,456181095,1,1,3,,2,2,false,,true,,,,1,true,true,,
 47459,8a7e9738-478b-4b9d-85c3-5a47ce18db50,1,1,3,,3,3,false,,true,,,,2,true,,,
 47460,cca364b3-a767-49f0-8d36-3f75e4752f03,2,2,3,,3,2,false,,true,false,false,false,1,false,false,false,true
-47461,c2164d34-ff23-4ef4-881d-ca2d691a3795,1,2,3,,2,2,false,,true,,,,2,,true,,
+47461,c2164d34-ff23-4ef4-881d-ca2d691a3795,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 47462,38036222-c9ea-48e2-a07a-0f3a44981ff0,4,10,2,,2,2,false,,true,,,true,1,false,true,true,
 47463,131928,3,3,3,,2,1,true,3,true,,,,1,,,true,
 47464,113129,3,4,3,,1,3,false,,true,true,,false,1,,,true,
@@ -46590,7 +46590,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 47757,302694007,2,2,3,,2,3,false,,true,,,,1,,true,,
 47758,111048,1,2,3,,2,1,true,1,true,,,,1,,,true,
 47759,53d2e53e-f688-4be3-9143-50dbcbf07f4b,5,15,2,,2,2,false,,true,false,false,true,1,true,true,false,false
-47760,0e495391-697d-4bc7-a10a-288b3a55e3ae,1,2,3,,2,3,false,,true,,,,3,,true,,
+47760,0e495391-697d-4bc7-a10a-288b3a55e3ae,1,2,3,,2,3,false,,true,false,false,false,3,true,true,true,false
 47761,201504006,4,1,3,,2,2,false,,true,,,,1,,true,,
 47762,106077,1,2,3,,2,1,false,,true,,,,1,,,true,
 47763,108271,4,7,3,,2,1,false,,true,,,,1,,,true,
@@ -46784,7 +46784,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 47951,fc76824b-1ba9-48a8-846a-2e0cd8a0de99,5,14,1,,2,3,false,,true,false,false,true,1,false,false,false,true
 47952,812c7fd8-bbc8-40f8-9e66-0a7707f394c5,5,14,1,,2,1,false,,true,,,true,1,true,true,,
 47953,dbcc0104-0118-47be-a8a7-e695cb8c30a7,4,6,1,,2,2,false,,true,,,,1,,true,false,
-47954,139101,6,4,3,,2,2,false,5,true,,,,1,,,true,
+47954,139101,6,16,3,,2,2,false,5,true,false,false,false,1,false,false,true,false
 47955,108601,1,2,3,,2,1,false,,true,,,,1,,,true,
 47956,e77d0ac6-6c3c-44b8-87e0-cf42b0c0d4f4,5,13,1,,2,3,false,,true,,,true,1,,true,,
 47957,408790004,5,13,1,,2,2,false,,true,,,true,3,,,true,
@@ -46879,7 +46879,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 48046,900458,2,3,3,,2,2,false,,,true,,,1,true,true,true,
 48047,102673,4,6,3,,2,1,false,,true,,,,1,,,true,
 48048,557312013,1,2,3,,1,3,false,,true,,false,,1,,,true,
-48049,132330,6,16,3,,2,2,true,2,true,,,,1,,,true,
+48049,132330,6,16,3,,2,2,true,2,true,false,false,false,1,false,false,true,false
 48050,92c66cf0-18a6-40e0-bb22-d4875e326108,1,1,3,,2,2,false,,true,,,,1,,,,true
 48051,202249012,1,2,3,,3,2,false,,true,,,,2,true,,,
 48052,107637,4,6,3,,2,1,false,,true,,,,1,,,true,
@@ -46940,7 +46940,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 48107,115762,1,2,3,,2,1,false,,true,,,,1,,,true,
 48108,113659,1,2,3,,2,1,false,,true,,,,1,false,false,true,
 48109,139722,3,16,3,,1,3,true,5,true,,,,1,true,true,true,
-48110,1d5ecd62-2a45-4cb9-a25d-f9007fa3fe62,1,1,3,,2,2,false,,true,,,,1,,,,true
+48110,1d5ecd62-2a45-4cb9-a25d-f9007fa3fe62,1,1,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 48111,42004265-11c1-4517-b51f-8d9f90928f8d,4,1,3,,2,2,false,,true,,,,1,,,,true
 48112,136217,1,2,3,,2,2,false,,true,,,,2,true,,,
 48113,126084,1,2,3,,2,1,false,,true,,,,1,true,true,true,
@@ -46956,7 +46956,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 48123,302610022,1,1,3,,2,3,false,,true,,,,1,,,,true
 48124,136226,4,6,3,,2,2,false,,true,,,true,1,,,,true
 48125,112470,4,7,3,,2,2,false,,true,,false,true,1,,,true,
-48126,11cb6cd4-0b01-4647-9820-d77e763d9f8c,1,2,3,,2,3,false,,true,,,,2,,true,,
+48126,11cb6cd4-0b01-4647-9820-d77e763d9f8c,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 48127,134100,1,2,3,,2,2,false,,true,,,,2,,,,true
 48128,552777055,5,10,1,,2,2,false,,,,,true,1,,true,,
 48129,68813601-af7e-4192-b9f1-b9c5cc5402a1,5,15,1,,2,3,false,,true,false,false,true,,,true,,
@@ -47034,7 +47034,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 48201,74eb0eb9-b5de-4bba-8b4c-4aa099dd2557,1,1,3,,2,2,false,,true,,,,1,,,,true
 48202,139903,1,1,3,,2,2,false,,true,,,,1,true,,,
 48203,201528016,1,2,3,,2,3,false,,true,,,,2,,true,,
-48204,a4a2b2dc-893e-414c-85df-306aff8f9049,1,2,3,,2,2,false,,true,,,,1,,true,,
+48204,a4a2b2dc-893e-414c-85df-306aff8f9049,1,2,3,,2,2,false,,true,false,false,false,1,true,true,true,false
 48205,135608,1,2,3,,2,1,false,,true,false,false,false,1,false,true,true,false
 48206,201512005,4,6,3,,2,2,false,,true,,false,true,1,,,,true
 48207,306704120,5,14,1,,2,3,false,,true,false,false,false,2,true,true,true,false
@@ -47098,7 +47098,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 48265,119268,1,2,3,,4,3,false,,true,,,,1,true,true,true,
 48266,112236,1,2,3,,2,1,false,,true,,,,1,,,true,
 48267,d3486bba-2972-41e7-a2f7-afcd4bed6f44,5,10,1,,2,3,false,,true,,,true,1,,true,,
-48268,a524ecd2-b0de-425a-a427-f02ebd6bca9e,1,1,3,,2,2,false,,true,,,,1,,,,true
+48268,a524ecd2-b0de-425a-a427-f02ebd6bca9e,1,1,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 48269,100404,1,2,3,,2,1,false,,true,,,,1,true,true,true,
 48270,137647,6,3,3,,2,3,true,3,true,,,,1,,,true,
 48271,122190,1,2,3,,2,1,false,,true,false,,false,1,true,true,true,
@@ -47220,7 +47220,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 48387,121673,1,2,2,,2,1,false,,,,,,1,,,true,
 48388,83db11b2-5170-4188-b63d-dc2556992227,5,15,,,2,3,false,,true,,,,1,,,,true
 48389,116285,4,6,2,,2,1,false,,true,,,,1,,,true,
-48390,0d89d4d5-be75-4e0a-9e89-eabe17754b28,1,2,3,,2,3,false,,true,,,,2,,true,,
+48390,0d89d4d5-be75-4e0a-9e89-eabe17754b28,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 48391,106003,1,2,3,,2,1,true,1,true,,,,1,true,true,true,
 48392,124087,1,1,3,,2,2,false,,true,true,,,1,true,true,true,
 48393,110616,4,4,2,,2,1,true,3,true,true,,,1,true,true,true,
@@ -47254,7 +47254,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 48421,bc874e08-7e07-4173-8812-905127ca5923,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 48422,42349567-42d5-467f-b623-c71942ae9ebe,1,2,3,,2,3,false,,true,,,,1,true,,,
 48423,4d64501c-2f29-4150-b5cf-c08f9576c89e,5,13,3,,3,3,false,,true,,,true,2,,,,true
-48424,4cb4f52c-87a0-4ccf-975a-0399dd5e09e1,5,12,2,,2,3,false,,true,,,true,1,,true,,
+48424,4cb4f52c-87a0-4ccf-975a-0399dd5e09e1,5,12,2,,2,3,false,,true,false,false,true,1,false,true,false,false
 48425,2b41139f-ef9c-4621-926b-f1b499d0572e,1,1,3,,2,2,false,,true,true,,,1,,true,,
 48426,133188,6,16,3,,2,2,true,5,true,,,,1,,false,true,
 48427,32442b1f-6191-41cb-98af-d9fe71c4b828,5,14,2,,2,3,false,,true,,,,1,,,,true
@@ -47395,7 +47395,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 48562,127454,4,9,3,,2,1,false,,true,,,,1,,,true,
 48563,119081,4,6,3,,2,1,false,,true,true,,true,1,,,true,
 48564,130816,1,2,3,,2,2,false,,true,,,,2,,,,true
-48565,e287d8a7-3c44-4681-9a72-92d6e52f96ba,2,2,3,,2,2,false,,true,,,,1,,,,true
+48565,e287d8a7-3c44-4681-9a72-92d6e52f96ba,2,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 48566,456131024,5,15,1,,2,2,false,,false,false,false,true,1,false,true,false,false
 48567,131695,4,6,3,,2,1,false,,true,,,,1,,,true,
 48568,125158,4,6,3,,2,1,false,,true,,,true,1,true,true,true,
@@ -47499,7 +47499,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 48666,609162124,2,3,3,,2,2,false,,true,,,,1,,true,,
 48667,458937046,5,13,1,,2,2,false,,true,false,false,true,1,true,true,false,false
 48668,201994013,1,2,3,,2,2,false,,true,,,,1,,true,,
-48669,302baa00-717d-4640-8783-8c4213c15326,1,2,3,,2,2,false,,true,,,,1,,,,true
+48669,302baa00-717d-4640-8783-8c4213c15326,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 48670,107858,2,3,3,,3,1,false,,true,,true,,2,,,true,
 48671,125063,1,2,3,,2,1,false,,true,true,,false,1,true,true,true,
 48672,408704004,5,13,1,,4,2,false,,true,true,,true,1,,,true,
@@ -47835,7 +47835,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49002,9bfdc582-073a-4715-b4a7-6c02b3efb4a3,4,2,3,,3,3,false,,true,false,,true,1,,,,true
 49003,113650,1,2,3,,2,1,false,,true,,,,1,,,true,false
 49004,201967064,4,2,3,,2,2,false,,true,false,false,false,2,false,false,true,false
-49005,138500,6,2,3,,2,2,false,,true,,,,1,true,true,,
+49005,138500,6,2,3,,2,2,false,,true,false,false,false,1,true,true,false,false
 49006,a198de2c-d3a7-425c-837a-cccaa5b46cc3,5,12,1,,2,3,false,,true,,,,1,,true,,
 49007,135560,6,3,2,,2,2,false,,true,,,,1,,,true,
 49008,108582,1,2,2,,2,1,false,,true,,,,1,,,true,
@@ -47902,7 +47902,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49069,115931,4,6,3,,2,1,false,,true,,,true,1,,,true,
 49070,109448,1,2,2,,1,2,false,,true,,,,2,,true,true,
 49071,132309,6,3,3,,2,2,true,5,true,,,,2,true,true,true,
-49072,e32313a0-8b2c-4f8e-ac87-c7e3cb5069c8,1,2,3,,2,2,false,,true,,,,2,,true,,
+49072,e32313a0-8b2c-4f8e-ac87-c7e3cb5069c8,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 49073,201537038,5,2,1,,2,2,false,,true,,,true,2,,true,true,
 49074,86237654-9a9a-4b8c-a7c6-07d3d41dd8de,4,2,3,,2,2,false,,true,false,false,true,2,false,false,false,true
 49075,c68906bc-4c24-4d84-a36f-c9e5445184c0,1,2,3,,3,3,false,,true,,,,1,,,,true
@@ -47938,7 +47938,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49105,205133021,5,14,3,,2,2,false,,true,,,,1,,,,true
 49106,120578,1,1,3,,2,2,false,,true,,,,1,,,true,
 49107,456194130,5,12,2,,2,3,false,,true,,true,true,,false,false,false,true
-49108,cefed34a-5c60-4b5a-91d5-f906f1fe6207,1,1,3,,2,2,false,,true,,,,1,,,,true
+49108,cefed34a-5c60-4b5a-91d5-f906f1fe6207,1,1,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 49109,6c81d5ff-6855-4497-b7a7-c71e9e97af47,5,15,1,,2,3,false,,true,true,,true,3,,true,true,
 49110,ad81adc9-0baf-46df-849e-1d2aa1bed89a,3,16,3,,2,3,false,,true,,,,1,,true,,
 49111,609162132,2,3,3,,2,3,false,,true,true,,,2,true,true,,
@@ -48090,7 +48090,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49257,dab261f0-503e-4a02-9287-8e15c0e9fbd8,5,13,3,,3,3,false,,true,,,true,1,,,true,
 49258,4544211a-4ddd-4ad0-a2c2-fa4d28386b75,4,2,3,,2,3,false,,true,false,false,false,2,false,false,false,true
 49259,113662,1,2,3,,2,1,false,,true,,,,1,,,true,
-49260,faf8385d-9be4-47ff-8ebe-047e7e255cfd,1,2,3,,2,2,false,,true,,,,1,,,,true
+49260,faf8385d-9be4-47ff-8ebe-047e7e255cfd,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 49261,111169,1,2,3,,2,1,false,,true,,,,1,,,true,
 49262,123751,1,2,3,,2,1,false,,true,false,,,1,true,true,true,
 49263,120823,3,4,3,,2,1,true,3,true,,,,1,,,true,
@@ -48149,7 +48149,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49316,101326,2,3,3,,2,1,false,,true,,,,1,,,true,
 49317,558503008,1,1,3,,2,2,false,,true,,,,1,true,true,,
 49318,113670,4,9,3,,2,1,false,,true,,,,1,,,true,
-49319,132366,6,3,3,,2,1,true,3,true,,,,1,,,true,
+49319,132366,6,3,3,,2,1,true,3,true,false,false,false,1,false,false,true,false
 49320,104681,4,9,3,,2,1,false,,true,,,,1,true,true,true,
 49321,061cc56e-acd7-4274-924d-ab8d98c8d097,2,3,3,,2,3,false,,true,,,,2,,,,true
 49322,131022,1,2,3,,2,1,true,1,true,,,,1,,,true,
@@ -48172,7 +48172,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49339,133025,6,16,3,,2,2,false,,true,,,,1,,,true,
 49340,d864c731-a788-49f0-8de3-9872b61247d4,5,10,1,,2,3,false,,true,,,true,2,,,,true
 49341,104301,3,5,3,,1,3,false,,true,false,false,false,2,false,true,false,false
-49342,0aa9be07-ecc1-4884-b986-6434eec8fbef,2,3,3,,2,2,false,,true,false,true,,1,,true,,
+49342,0aa9be07-ecc1-4884-b986-6434eec8fbef,2,3,3,,2,2,false,,true,false,true,false,1,true,true,true,false
 49343,c3fa692f-235c-415f-99b4-032c7ea9e774,5,12,2,,2,3,false,,true,,,true,1,true,true,true,
 49344,456194100,5,12,2,,2,3,false,,true,true,,true,,,,,true
 49345,609138026,5,1,3,,1,3,false,,true,,,true,1,,,,true
@@ -48183,7 +48183,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49350,117627,1,2,3,,2,1,true,1,true,,,,1,,,true,
 49351,903452,1,3,3,,2,2,false,,,true,,,1,,true,,
 49352,976fc4ee-becc-45c1-a2af-a85e1a8a032c,1,2,3,,2,2,false,,true,,,,1,,,,true
-49353,456188012,5,14,1,,2,2,false,,true,,,,1,,,true,
+49353,456188012,5,14,1,,2,2,false,,true,false,false,false,1,false,false,true,false
 49354,28fd510a-8110-4606-9258-74719e026218,1,2,3,,2,2,false,,true,,,,1,,,,true
 49355,111009,1,2,3,,2,1,true,1,true,,,,1,,,true,
 49356,201213101,5,14,1,,3,2,false,,,,,true,3,,true,true,false
@@ -48198,7 +48198,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49365,93572d23-4562-48ea-90e9-fcb8c8fb70d2,5,13,1,,2,3,false,,true,false,false,true,1,false,false,false,true
 49366,201574014,5,6,2,,2,3,false,,true,false,false,true,1,false,false,false,true
 49367,ccfdf44d-7582-482b-913e-6bf11c1eae76,5,10,2,,2,2,false,,true,false,false,true,2,false,false,false,true
-49368,6a503fb4-d4e1-4402-879c-6dbb01ff292c,1,1,3,,2,2,false,,,,,true,1,,,,true
+49368,6a503fb4-d4e1-4402-879c-6dbb01ff292c,1,1,3,,2,2,false,,false,false,false,true,1,false,false,false,true
 49369,120942,3,3,3,,1,3,false,,true,false,false,false,1,false,false,true,false
 49370,102653,4,9,3,,2,1,false,,true,,,,1,,,true,
 49371,558503010,1,1,3,,2,2,false,,true,,,,1,false,true,,
@@ -48300,7 +48300,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49467,111277,1,2,3,,2,1,false,,true,,,,1,,,true,
 49468,456131043,5,15,2,,2,2,false,,true,false,false,true,1,false,false,true,false
 49469,117640,1,2,2,,2,2,false,,true,,,,1,,,true,
-49470,456188016,5,14,2,,2,2,false,,true,,,,1,,,true,
+49470,456188016,5,14,2,,2,2,false,,true,false,false,false,1,false,false,true,false
 49471,0b1e6832-480e-45f2-a948-f5dfa72db0f3,1,1,3,,3,3,false,,true,,,,2,,,,true
 49472,457247017,5,9,2,,2,2,false,,false,false,false,true,1,false,false,true,false
 49473,558558027,1,2,3,,2,3,false,,true,,,,2,,,,true
@@ -48344,7 +48344,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49511,111099,1,2,3,,2,1,false,,true,,,,1,,,true,
 49512,302650033,1,2,3,,2,3,false,,true,false,true,,2,,,,true
 49513,103204,3,3,3,,2,1,false,,true,,,,1,true,true,true,
-49514,835cc515-202a-447b-a522-ecbc5397ed1c,1,2,3,,2,2,false,,true,,,,1,,,,true
+49514,835cc515-202a-447b-a522-ecbc5397ed1c,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 49515,8994e66a-a1cd-4035-967c-394c26c86537,4,6,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 49516,27e3677b-8e24-4f75-b045-d97c2b3f1a39,1,1,3,,4,2,false,,true,,,,2,true,false,,
 49517,302657003,1,2,3,,2,3,false,,true,,,,2,,,,true
@@ -48363,7 +48363,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49530,132433,6,2,3,,1,3,false,,true,,,,2,,,true,
 49531,302650094,1,2,3,,2,3,false,,true,,,,2,true,,,false
 49532,111192,4,6,3,,2,1,false,,true,,,,1,,,true,
-49533,fe57f43c-23dc-425b-8355-e1c14decdadf,1,2,3,,2,2,false,,true,,,,2,,true,,
+49533,fe57f43c-23dc-425b-8355-e1c14decdadf,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 49534,4249951c-eaf3-4730-891c-c0bf863088c9,5,14,1,,2,3,false,,true,,,true,1,true,true,,
 49535,e3c394b8-3942-40b2-a140-5cf6f1ef5b13,1,1,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 49536,138468,1,2,3,,2,2,false,,true,,,,1,,,true,
@@ -48384,7 +48384,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49551,133623,6,3,3,,2,3,false,,true,false,false,false,1,true,true,false,false
 49552,128700,2,3,3,,2,1,false,,true,,,,1,,true,true,
 49553,39374353-f517-4687-bb98-af2bf14ab030,1,1,3,,2,2,false,,true,,,,1,false,,,true
-49554,456188017,5,13,2,,2,2,false,,true,,,,1,,,true,
+49554,456188017,5,13,2,,2,2,false,,true,false,false,false,1,false,false,true,false
 49555,b9c834d5-2927-4864-a2b2-27b51afce584,1,2,3,,2,2,false,,true,,,,1,,,,true
 49556,205143081,4,2,3,,2,2,false,,true,,,,1,,,true,
 49557,c1638f9a-835a-44c3-b5d3-e7649bd4c5fd,5,14,3,,2,2,false,,true,,,true,1,,true,true,
@@ -48426,7 +48426,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49593,139614,6,3,3,,1,3,true,2,true,,,,1,,,true,
 49594,4277e0f9-ec65-4624-9425-700a4e68655c,3,2,3,,2,2,false,,true,,,,1,,,,true
 49595,140062,1,2,3,,2,2,false,,true,,,,1,,true,,
-49596,3737000c-2250-4aa1-af42-dd24f636a031,1,2,3,,2,2,false,,true,,,,1,,,,true
+49596,3737000c-2250-4aa1-af42-dd24f636a031,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 49597,609162174,5,2,1,,2,2,false,,true,,,true,1,true,true,,
 49598,119182,1,3,3,,2,1,false,,true,false,,,1,,,true,
 49599,111731,2,3,3,,2,1,false,,true,,,,1,,,true,
@@ -48528,7 +48528,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49695,506469027,5,13,1,,2,3,false,,true,,,true,3,,,,true
 49696,ded2b108-5f5f-46b9-a445-26c2833a92d4,5,12,1,,2,2,false,,false,false,false,true,1,true,true,true,false
 49697,114093,1,2,3,,2,1,true,1,true,,,,1,true,true,true,
-49698,94dbad2b-dc6d-464d-a062-19b748214a1d,1,2,3,,2,2,false,,true,,,,1,,,,true
+49698,94dbad2b-dc6d-464d-a062-19b748214a1d,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 49699,127188,1,2,3,,2,1,true,1,true,,,,1,true,true,true,
 49700,6bd0b56f-c2cb-4812-874c-78f80a69acbe,1,1,3,,2,2,false,,true,,,,1,,,,true
 49701,116855,1,2,3,,2,1,false,,true,,,,1,true,true,true,
@@ -48582,7 +48582,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49749,8bae5f9b-1c1d-4238-a6dc-96f5cf0e0682,4,13,1,,2,3,false,,,,,true,1,true,true,,
 49750,304827018,5,15,2,,2,2,false,,true,,,,1,,,true,
 49751,858968de-9761-4865-b57f-81c40b08006f,5,15,2,,3,3,false,,true,true,,true,1,false,true,,
-49752,138075,4,1,3,,3,3,false,,true,,,,1,,,true,
+49752,138075,4,1,3,,3,3,false,,true,false,false,false,1,false,true,false,false
 49753,124852,1,2,3,,2,2,false,,true,,,,1,,true,true,
 49754,4a333474-9ebb-4f46-a12a-ecbfeab6e783,1,2,3,,2,2,false,,true,false,false,false,1,true,true,false,false
 49755,201586010,1,1,3,,2,2,false,,true,,,,2,,,,true
@@ -48624,7 +48624,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49791,132049,2,3,3,,2,2,false,,true,,false,,1,,true,,
 49792,302637013,1,2,3,,2,2,false,,true,,,,2,,true,,
 49793,119360,1,2,2,,2,1,false,,true,,,,1,,,true,
-49794,456188003,5,13,,,2,2,false,,true,,,,1,,,true,
+49794,456188003,5,13,,,2,2,false,,true,false,false,false,1,false,false,true,false
 49795,456131055,5,14,2,,2,2,false,,true,false,false,true,1,false,false,true,false
 49796,303387050,1,2,3,,2,3,false,,true,,,,1,,,,true
 49797,135574,2,3,3,,2,2,false,,,,true,,1,,,true,
@@ -48744,7 +48744,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 49911,111321,4,6,3,,2,1,false,,true,,,true,1,,,true,
 49912,04f88df8-c8fb-47f4-b617-46ad4914c90a,5,13,,,2,3,false,,true,,,,2,,true,,
 49913,609162141,4,2,3,,2,2,false,,true,,,true,1,true,true,,
-49914,93b06dd2-2d6c-49e1-9fc5-1a71e6847381,5,12,1,,3,3,false,,,,,true,1,,,,true
+49914,93b06dd2-2d6c-49e1-9fc5-1a71e6847381,5,12,1,,3,3,false,,false,false,false,true,1,false,false,false,true
 49915,d8103aa4-7bb5-44da-bbaf-0e78c53a7023,5,12,2,,2,2,false,,true,false,false,true,1,false,false,true,false
 49916,5ff1ab99-7d96-4a4a-a181-938409f3fcaa,5,12,3,,2,2,false,,true,false,false,true,1,false,false,false,true
 49917,df1e9904-3e64-4be8-b1ed-d7d4e57fa89d,5,12,,,2,3,false,,true,,,true,2,,true,,
@@ -48985,7 +48985,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 50152,87a4d643-eaf6-48cc-9f92-c66a2ad149db,5,10,2,,3,3,false,,true,,,true,2,true,,,true
 50153,febaf0fe-5856-4a14-ac06-d6d44f273ec2,5,14,1,,2,3,false,,,,,true,3,,true,,
 50154,127195,1,2,3,,2,1,false,,true,,,,1,,true,true,
-50155,303330141,1,2,3,,2,2,false,,true,,,,1,,,,true
+50155,303330141,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 50156,39bc8052-cdbf-46b5-a79e-dce8951ce8ca,4,6,2,,2,3,false,,true,,,,1,,,,true
 50157,128072,4,6,3,,2,1,false,,true,,,,1,,,true,
 50158,1084ae0e-e6df-4b7b-89df-c4d946611c36,1,2,3,,3,2,false,,true,,,,1,,,,true
@@ -49001,7 +49001,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 50168,20cd765b-28ce-4f8c-9da2-3f5f151ff9ea,5,13,2,,4,3,false,,true,true,,true,2,,true,,
 50169,302637001,1,1,3,,2,3,false,,true,,,,2,,,,true
 50170,0bb46c40-442c-4576-ae43-0099fc706b24,5,14,1,,3,3,false,,true,,,true,1,,,,true
-50171,883b06c9-15af-4293-b429-6920b07270ff,1,2,3,,2,3,false,,true,,,,1,,,,true
+50171,883b06c9-15af-4293-b429-6920b07270ff,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 50172,115848,1,2,3,,2,1,false,,true,,,,1,,,true,
 50173,139087,3,3,3,,2,2,false,,true,,,,1,,true,,
 50174,a4096b53-a767-461f-917a-8f79a4e175fc,1,2,3,,2,3,false,,true,,,,2,,,,true
@@ -49046,7 +49046,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 50213,47d99433-890f-459a-a2b6-feeff51011f7,5,12,1,,2,3,false,,true,,,true,1,,true,,
 50214,111328,4,6,3,,2,1,false,,true,,,true,1,,,true,
 50215,f2295575-8bdf-4203-97d4-69ce04e10ef1,5,12,3,,2,3,false,,true,,,,1,,,true,
-50216,5545fe2c-4eb8-4dad-8d09-bf51374b55ea,1,2,3,,2,3,false,,true,true,true,,2,,true,,
+50216,5545fe2c-4eb8-4dad-8d09-bf51374b55ea,1,2,3,,2,3,false,,true,true,true,false,2,true,true,true,false
 50217,d6747d26-26ac-4c18-8a1c-c1b61514383b,4,3,1,,2,3,false,,false,false,false,true,1,true,true,true,false
 50218,7069b2b2-7ec2-4229-8013-a9072ea95e09,5,15,2,,2,3,false,,true,,,true,2,,,,true
 50219,ce0f59f8-55f9-4446-9fba-76ead20467d6,4,6,1,,2,2,false,,true,,,,1,,true,,
@@ -49172,7 +49172,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 50339,12525fb3-314e-43b7-82a0-86e5bf7eba47,5,13,2,,2,3,false,,true,,,true,1,,true,,
 50340,a5cc9bd3-4f89-4dd2-bc5c-3bbfa64600dd,5,13,,,2,3,false,,true,false,false,true,1,false,false,true,false
 50341,7c44fcfe-a089-4a07-9d68-513cad660b9f,5,13,2,,2,2,false,,true,,,true,1,true,true,,
-50342,303330187,6,3,3,,2,2,false,1,true,,,,1,,,,true
+50342,303330187,6,3,3,,2,2,false,1,true,false,false,false,1,false,false,false,true
 50343,406f982d-ec3b-4a30-8bb2-f327589d3862,4,1,2,,2,3,false,,true,false,false,true,1,false,true,false,false
 50344,a997b827-d2f8-4d94-899d-ba30ef05475b,5,12,1,,2,3,false,,,,,true,1,,true,,
 50345,0b602c74-ad46-4a5b-8116-5e18206e6ae2,5,12,1,,2,2,false,,true,,,,1,false,,,
@@ -49182,7 +49182,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 50349,6ae3ebb8-2600-43a7-8c7d-18fc3645e875,5,12,1,,2,2,false,,true,false,false,true,1,false,false,false,true
 50350,e5314192-742d-4c7b-9180-4015b62355a1,5,6,1,,2,2,false,,true,false,false,true,1,false,true,false,false
 50351,449d0cfe-1267-446f-ab33-5eb933e79ef0,4,12,1,,2,3,false,,,,,true,1,true,true,true,
-50352,303330046,1,2,3,,2,2,false,,true,,,,1,,,,true
+50352,303330046,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 50353,5feba742-70dc-4473-8fc0-aa2ea4715979,5,14,1,,2,2,false,,true,,,true,1,,,,true
 50354,4a0fa159-cee5-4f85-b1ca-f9ae41780d2f,4,6,3,,2,3,false,,true,,,,1,,,,true
 50355,9e101b73-c84b-4c75-9f95-3092100eb6ff,1,2,3,,2,2,false,,true,,,,1,,,,true
@@ -49673,7 +49673,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 50840,72e07fc9-77b0-4562-b807-1c49c6c8f586,4,7,3,,2,3,false,,true,,,,1,,,,true
 50841,c84262d3-4833-4630-bc5a-4e928b7e3bd9,5,13,1,,2,3,false,,,,false,true,1,true,,,
 50842,6cbbdb9c-8dd5-4584-8946-d5d5823a9bbd,1,2,3,,2,3,false,,true,,,,1,,,,true
-50843,135763,1,2,3,,2,2,false,,true,,,,1,,,,true
+50843,135763,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 50844,6a48a199-297a-4f68-892f-43273ee0555e,3,3,3,,2,3,false,,true,,,,1,false,,,true
 50845,507655001,1,2,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 50846,104147,4,6,3,,2,1,false,,true,,,,1,,,true,
@@ -49833,7 +49833,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51000,401807083,1,2,3,,3,3,false,,true,false,false,false,2,false,true,false,false
 51001,110423,4,6,3,,2,1,false,,true,,,,1,true,true,true,
 51002,a00ada6c-cc73-4104-94b5-a8715b286f47,5,15,2,,2,2,false,,true,true,,true,3,,true,,
-51003,2e328c59-863f-4f68-bc69-7db3a46a715a,1,2,3,,3,3,false,,true,,,,1,,,,true
+51003,2e328c59-863f-4f68-bc69-7db3a46a715a,1,2,3,,3,3,false,,true,false,false,false,1,false,false,false,true
 51004,456181124,5,15,2,,2,1,false,,true,true,,true,1,,,true,
 51005,100651009,5,15,1,,2,3,false,,true,,,true,2,,,,true
 51006,201213020,4,6,2,,2,2,false,,true,true,false,true,1,,true,,
@@ -49848,7 +49848,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51015,a1de0d49-ffc0-487a-ac55-c39bb24da34a,4,1,3,,2,2,false,,true,,,true,1,,,,true
 51016,5813a4e2-8beb-43d6-8376-8fad34ba90f3,1,1,3,,2,2,false,,true,,,,1,,,,true
 51017,112166,4,6,3,,2,1,false,,true,true,,true,1,,,true,
-51018,303330233,1,2,3,,2,2,false,,true,,,,1,,,,true
+51018,303330233,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 51019,201555018,1,2,3,,2,3,false,,true,,,,1,,true,,
 51020,8cc7c56f-7e69-4a16-bbed-0d5a445e6478,5,5,1,,2,3,false,,true,true,false,true,3,false,false,false,true
 51021,0f97d594-107d-4ac5-9e58-191d9b627c4d,4,6,3,,2,2,false,,true,,,,2,,,,true
@@ -50000,7 +50000,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51167,132288,6,3,3,,2,1,false,3,true,false,false,false,1,false,false,true,false
 51168,2efedaf3-6b02-4b64-85b1-ce7c2507a8c4,5,15,1,,3,2,false,,true,false,false,true,1,false,true,false,false
 51169,532b84dd-8eec-4a09-9f8d-0decdf288035,6,3,3,,2,2,false,7,true,true,false,false,2,true,true,true,false
-51170,c2bc941f-1fd4-40f2-8d9a-bb219c22d554,1,2,3,,2,3,false,,true,,,,2,,true,false,
+51170,c2bc941f-1fd4-40f2-8d9a-bb219c22d554,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51171,b0d8ae5b-4ebd-4284-bd4a-3794b9ccfe1c,5,14,1,,2,3,false,,true,false,false,true,1,false,false,false,true
 51172,089bb395-a8a1-499a-a63b-cf91a8aed91f,1,1,3,,3,3,false,,true,false,false,false,1,false,false,false,true
 51173,102317,4,7,3,,2,1,false,,true,,,,1,false,,true,
@@ -50017,7 +50017,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51184,8638d6c6-7fe6-4f58-a840-ddf6c2158a3b,5,12,1,,2,2,false,,true,false,false,true,1,false,false,false,true
 51185,128060,4,7,3,,2,1,false,,true,true,,true,1,,,true,
 51186,85e8534b-4c47-41ae-aca1-f93d9ebd1ecb,4,10,1,,2,3,false,,true,true,,true,3,,true,true,
-51187,d5208051-6bb9-439f-9b2d-6d9492dddb2a,1,2,3,,2,3,false,,true,,,,2,,true,,
+51187,d5208051-6bb9-439f-9b2d-6d9492dddb2a,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51188,c99d30fe-d79e-4982-b6eb-a87f63b6d8ba,1,2,3,,2,2,false,,true,,,,1,,,true,
 51189,03f46382-f626-498d-97dc-78a356ce8975,5,14,2,,,3,false,,true,,,,1,true,true,true,
 51190,117619,1,2,3,,2,1,true,1,true,,,,1,,,true,
@@ -50032,7 +50032,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51199,36a9bebb-e47e-4ea6-86ed-56d560df94ae,5,10,1,,2,2,false,,true,,,,1,true,,,
 51200,4e603b18-4e41-4cd1-b747-7acefb65b32a,4,1,3,,2,2,false,,true,,,,1,,,,true
 51201,119732,1,2,3,,2,1,false,,true,false,false,false,1,false,false,true,false
-51202,8421b656-f3a9-4b36-bdc0-c85be88666a1,1,2,3,,2,3,false,,true,,,,2,,true,,
+51202,8421b656-f3a9-4b36-bdc0-c85be88666a1,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51203,603605009,5,13,2,,2,3,false,,true,false,false,true,1,false,false,false,true
 51204,498b9fd1-1ebd-4d08-bb3f-5279e657897a,1,2,3,,2,2,false,,true,,,,1,,,,true
 51205,128046,1,2,3,,2,1,false,,true,,,,1,,,true,
@@ -50068,7 +50068,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51235,603605024,5,12,1,,2,3,false,,true,false,false,true,1,false,false,false,true
 51236,110517,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 51237,201512010,4,1,3,,2,2,false,,true,,,,1,true,,,
-51238,887c58ac-cdb4-4262-9c9a-c5fb38695a29,1,3,3,,2,2,false,,true,,,,2,false,true,true,
+51238,887c58ac-cdb4-4262-9c9a-c5fb38695a29,1,3,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 51239,102318,4,6,3,,2,1,false,,true,,,,1,,,true,
 51240,140444,1,2,3,,2,2,false,,true,,,,1,true,true,,
 51241,132740,6,3,3,,2,1,false,,,,,,1,,,true,
@@ -50159,7 +50159,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51326,4359d760-c01d-46ac-8fff-32c81ddbda04,3,3,2,,2,2,false,,true,,,,1,true,true,,
 51327,24e093be-4925-44ce-90e7-10a780a518ec,5,12,2,,4,2,false,,true,,,,1,,true,,
 51328,588dd5fb-6e67-4f4e-b819-c6f00c8dc51e,5,15,2,,2,3,false,,true,true,false,true,1,false,false,false,true
-51329,709277ce-0a48-441a-85bd-b3f27346df9f,1,2,3,,2,3,false,,true,,,,2,false,true,,
+51329,709277ce-0a48-441a-85bd-b3f27346df9f,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51330,456116071,5,12,2,,4,2,false,,true,true,,true,1,true,true,true,
 51331,f259cdce-022d-4a06-8d02-d7efb731bc66,5,2,1,,2,3,false,,true,,,true,3,,,true,
 51332,ae322cd8-0e2b-49f9-9020-a7565aaa5102,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
@@ -50178,7 +50178,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51345,c005f6db-d01e-4cc5-b636-91f24f5cfae8,5,12,2,,2,3,false,,true,,,true,1,,,true,
 51346,c5d6e9cc-ffeb-46c4-92d8-585ffa8e6257,4,6,3,,2,3,false,,true,,,,1,,,,true
 51347,404161004,5,10,3,,3,2,false,,true,,,true,1,true,true,true,
-51348,56a3a85b-1758-4d86-9886-417f6467e039,1,2,3,,2,3,false,,true,,,,2,true,true,,
+51348,56a3a85b-1758-4d86-9886-417f6467e039,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51349,aecf4efa-d41e-4b9b-91b9-abf6aa246f7a,5,13,1,,2,2,false,,false,false,false,true,1,false,true,false,false
 51350,4d719a46-d7f4-437b-b223-33590bbab40c,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 51351,e1087d7c-d4a6-46f3-a00a-39d8294e85f0,2,1,3,,2,3,false,,true,,,,1,,,,true
@@ -50200,11 +50200,11 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51367,603605013,4,1,3,,2,2,false,,true,false,false,true,1,false,false,false,true
 51368,128052,1,2,3,,2,1,false,,true,,,,1,,,true,
 51369,d0ff3412-a0f9-4445-ab68-6b18a67ab658,5,15,1,,2,3,false,,true,,,,1,true,true,true,
-51370,e962566b-7803-450a-8278-ec0ac8e97d1a,1,2,3,,2,3,false,,true,,,,2,false,true,true,
+51370,e962566b-7803-450a-8278-ec0ac8e97d1a,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51371,f59b26ca-3fe1-46a2-9310-eb127070ac25,1,2,3,,2,2,false,,true,,,,1,,true,,
 51372,303330008,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 51373,201512012,4,6,3,,2,2,false,,true,,,,1,true,,,
-51374,4fa6f9b9-0b6e-4420-ae6d-e1e5cc6e260d,1,2,3,,2,3,false,,true,false,false,false,2,false,true,true,false
+51374,4fa6f9b9-0b6e-4420-ae6d-e1e5cc6e260d,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51375,03ab72f1-e267-40a1-b616-a14801588682,1,1,3,,2,2,false,,true,,,,1,,,,true
 51376,404161005,5,10,1,,3,2,false,,true,,,true,2,true,true,true,
 51377,55e8a3af-ce8c-4cad-8a5a-5d50658f83da,1,2,3,,2,2,false,,true,,,,1,false,,,true
@@ -50223,16 +50223,16 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51390,226e7110-d8c5-43b1-b433-ec250485526a,1,1,3,,3,3,false,,true,,,,1,,true,,
 51391,9651a35b-21ba-4f3c-9237-675c40aa15db,1,2,3,,2,2,false,,true,,,,1,,true,,
 51392,52b6ee74-2c54-43d9-8ac7-447b7213ed28,1,2,3,,2,2,false,,true,,,,1,,true,,
-51393,135472,1,2,3,,2,1,false,,true,,,,1,true,true,true,
+51393,135472,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 51394,558549005,1,2,3,,2,2,false,,true,,,,2,,,,true
 51395,6282a757-709e-41b4-9536-6bd05dc3611f,4,6,2,,2,2,false,,true,,,,1,,,,true
 51396,128045,1,2,3,,2,1,false,,true,,,,1,,,true,
 51397,131557,4,6,3,,2,2,false,,true,,,,1,,true,,
-51398,44c3fa76-ad6c-4625-bffa-31b2a838342c,1,2,3,,2,3,false,,true,,,,3,false,true,true,
+51398,44c3fa76-ad6c-4625-bffa-31b2a838342c,1,2,3,,2,3,false,,true,false,false,false,3,true,true,true,false
 51399,139737,3,3,3,,2,3,false,,true,,,,1,true,true,,
 51400,140480,4,6,3,,2,2,false,,true,,,,1,true,true,true,
 51401,4c223a67-8edd-4e03-8842-54a26b523ad2,5,9,2,,2,3,false,,true,,,true,2,,,,true
-51402,6f51b273-697f-41d2-97d6-8ab1557a7556,1,1,3,,3,3,false,,true,,,,1,,true,,
+51402,6f51b273-697f-41d2-97d6-8ab1557a7556,1,1,3,,3,3,false,,true,false,false,false,1,false,false,false,true
 51403,78e37c23-df8f-4d91-b66c-89bf9efb5339,5,14,3,,2,3,false,,true,true,,true,1,,,,true
 51404,609117098,5,1,3,,2,3,false,,true,,,,1,,,,true
 51405,140110,6,16,3,,2,2,false,,true,,,,1,,true,true,
@@ -50307,7 +50307,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51474,abec6475-22ff-4688-9464-91ab69c97228,4,1,3,,1,2,false,,true,,,,1,true,,,
 51475,202266046,4,6,2,,2,2,false,,true,,,,1,,,,true
 51476,137942,1,1,3,,1,3,false,,true,,,,1,true,true,true,
-51477,977a40f1-1e5f-49f1-80e0-495f57205054,1,2,3,,2,3,false,,true,,,,2,,true,true,
+51477,977a40f1-1e5f-49f1-80e0-495f57205054,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51478,ac38632b-58b9-47b6-97b2-de4aea2ec612,1,2,3,,2,2,false,,true,false,false,false,1,true,true,false,false
 51479,e3693846-c56a-4ae1-8aa8-6579781dbc03,5,15,1,,2,3,false,,true,,,true,2,,,,true
 51480,209239f2-3e98-4a6f-88a2-ac090465c138,5,13,1,,3,3,false,,true,,,true,1,true,true,,
@@ -50318,7 +50318,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51485,dc67e541-d450-408a-8392-3c4e83ddcd2c,4,6,3,,2,3,false,,true,false,false,true,1,true,false,false,false
 51486,76b7ec8b-4887-4f5a-8466-ce4d2ec6cf71,5,14,1,,3,3,false,,true,,,true,1,true,true,,
 51487,69b266ff-6b34-4e33-9127-7c41260e35ee,4,7,3,,2,3,false,,true,false,true,true,2,false,false,false,true
-51488,cefc116b-46e7-496c-8eb9-b2f6c28cd856,5,13,1,,2,3,false,,true,,,true,1,,true,,
+51488,cefc116b-46e7-496c-8eb9-b2f6c28cd856,5,13,1,,2,3,false,,true,false,false,true,1,false,true,false,false
 51489,88a41743-ee04-4db6-a4fe-ff1d51081fe8,5,12,1,,3,3,false,,true,false,false,true,1,true,true,false,false
 51490,306768173,5,13,2,,2,3,false,,true,false,false,true,1,true,true,true,false
 51491,cbc6642b-d14b-49c4-907c-0c9ba1c0405f,5,13,2,,3,2,false,,true,false,false,true,1,false,true,false,false
@@ -50355,11 +50355,11 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51522,685b1eea-2fdc-486b-8ea7-3974a875b31f,5,15,2,,2,3,false,,true,false,false,true,1,false,false,false,true
 51523,110519,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 51524,4f589d23-2df4-452d-be73-b43fd7eea736,5,15,2,,2,2,false,,true,false,false,true,1,true,false,false,false
-51525,41df39b6-e118-4658-927e-b04323481911,1,2,3,,2,3,false,,true,,,,2,,true,true,
+51525,41df39b6-e118-4658-927e-b04323481911,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51526,fba0b287-26a0-4666-b4ba-3847a08d84ed,4,2,3,,2,3,false,,true,true,false,true,2,true,true,false,false
 51527,e82c80cb-4dda-4231-9869-e9f63e1ad9c0,5,12,2,,2,3,false,,true,,,true,1,,,,true
 51528,228fc731-4d7a-4672-b857-9353245a3457,1,2,3,,2,3,false,,true,,,,2,,true,,
-51529,5dad714f-d3e1-4616-a9d7-313f31f3c51a,5,15,2,,2,3,false,,true,,,true,1,,true,,
+51529,5dad714f-d3e1-4616-a9d7-313f31f3c51a,5,15,2,,2,3,false,,true,false,false,true,1,false,true,false,false
 51530,bfce747f-7f26-4b06-bbc6-ef54dd58a1eb,5,12,1,,2,2,false,,true,,,true,1,true,true,,
 51531,95128a7f-65f7-4804-8715-e275610838d9,5,12,1,,3,3,false,,true,,,true,1,true,true,,
 51532,4f51a90e-b838-4394-9c02-b67c39b348b0,5,15,1,,2,3,false,,true,,,true,1,,true,,
@@ -50372,9 +50372,9 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51539,553291016,1,2,3,,2,2,false,,true,,,,1,,false,,true
 51540,a097e8e1-b274-4d27-a971-3cefc51d6b66,5,14,2,,2,3,false,,true,,,true,1,,,,true
 51541,108543,2,3,3,,4,2,false,,true,,true,,2,,,true,
-51542,91a0af9a-1dc1-4efb-b153-a872e2f55dae,4,6,3,,2,3,false,,true,,,,2,true,true,false,
+51542,91a0af9a-1dc1-4efb-b153-a872e2f55dae,4,6,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51543,0f462bb6-58cc-4256-bed6-9dff050b0886,1,2,3,,2,2,false,,true,,,,1,,,,true
-51544,9c3ee942-aa38-4bb2-8f86-21fac5288a10,5,14,1,,2,3,false,,true,,,true,1,,true,,
+51544,9c3ee942-aa38-4bb2-8f86-21fac5288a10,5,14,1,,2,3,false,,true,false,false,true,1,false,true,false,false
 51545,135646,1,1,3,,2,2,false,,true,,,,1,true,false,,
 51546,137186,1,1,3,,1,3,false,,true,,,,1,true,true,true,
 51547,df1f4db6-3758-4078-8403-45f64dc9fa23,5,8,2,,2,3,false,,true,true,,true,1,,true,,
@@ -50399,7 +50399,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51566,a03b4cef-096e-45dc-b249-d9f0f1fd9758,5,12,1,,2,3,false,,true,false,,true,1,true,true,true,
 51567,110513,1,2,3,,2,1,true,1,true,,,,1,true,true,true,
 51568,df3222d0-3ded-48f5-8b80-b64eb849fb56,1,2,3,,2,3,false,,true,,,,1,,,,true
-51569,cf2cf7a1-e0dc-4864-967c-f007c48576ce,5,15,2,,2,3,false,,true,,,true,2,,true,,
+51569,cf2cf7a1-e0dc-4864-967c-f007c48576ce,5,15,2,,2,3,false,,true,false,false,true,2,false,true,false,false
 51570,ab7db97c-6efb-4f55-a0bb-c388d82c3e2c,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 51571,cddb0481-f529-442a-9341-2f823b22ed0b,5,12,3,,2,3,false,,true,true,,true,1,,true,,
 51572,456188004,4,15,2,,2,2,false,,true,,,,1,,,true,
@@ -50502,7 +50502,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51669,0c137d7e-613f-41a2-87d1-fcab194923d1,4,2,2,,2,3,false,,true,false,false,true,1,true,true,false,false
 51670,130891,1,2,3,,2,2,false,,true,,,,1,true,true,true,
 51671,d4d4011a-0f01-4811-b239-09ce5f1d5cf6,5,10,1,,2,3,false,,,,,,1,,,,true
-51672,a2b93e71-40e0-492f-b1f6-8dd8c25b35ca,1,2,3,,2,3,false,,true,,,,2,true,true,,
+51672,a2b93e71-40e0-492f-b1f6-8dd8c25b35ca,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51673,111148,1,2,3,,2,1,false,,true,false,false,false,1,true,true,true,false
 51674,32c9c7dc-3fbe-465c-a659-1f632e8b1e0c,5,12,,,3,3,false,,true,false,false,true,1,true,true,false,false
 51675,33d30361-ea22-454a-aefd-d6ab865965d2,5,12,1,,3,3,false,,true,,,true,1,true,true,,
@@ -50527,7 +50527,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51694,25bd9f30-3421-44d0-a613-062c5d8fa737,5,12,1,,3,3,false,,true,,,true,1,,true,true,
 51695,7d687951-baf9-427b-8631-de3d6eb31457,4,6,3,,2,3,false,,true,,,true,2,,true,,
 51696,f8ac002d-e315-49b6-8239-c2d32ad9c1d2,5,9,2,,2,2,false,,true,,,,1,true,true,,
-51697,233b4bf4-84e9-465e-bc8d-951055b13d6e,1,2,3,,2,3,false,,true,,,,3,true,true,,
+51697,233b4bf4-84e9-465e-bc8d-951055b13d6e,1,2,3,,2,3,false,,true,false,false,false,3,true,true,true,false
 51698,130833,1,1,3,,2,2,false,,true,,,,1,,,true,
 51699,7b8a5801-5354-4ae3-b6a4-99ac57fa34df,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 51700,131858,4,6,3,,2,1,false,,true,,,,1,true,true,true,
@@ -50600,7 +50600,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51767,7646718e-96a0-4575-b6d6-a5f92e178fcf,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 51768,a4530274-1595-462e-bdc4-43748fa89733,5,13,2,,2,3,false,,true,,,true,1,,,true,
 51769,4b760b42-6b28-49ac-8fb4-3ee52283b3a1,5,15,2,,2,3,false,,true,false,false,true,1,false,false,false,true
-51770,e9531e09-22a4-4a5e-9202-bca3083771e3,5,15,1,,2,3,false,,true,,,true,1,false,true,,
+51770,e9531e09-22a4-4a5e-9202-bca3083771e3,5,15,1,,2,3,false,,true,false,false,true,1,false,true,false,false
 51771,fd6ec624-26b8-4753-a0c8-8824358feceb,5,14,3,,2,2,false,,true,true,true,true,1,false,true,false,false
 51772,9d45b8d6-cbaf-4d45-ab8a-ec3438e06d73,5,15,1,,2,3,false,,true,,,true,1,,,true,
 51773,48be89a4-ac55-4047-b315-eafd1fa61fcb,5,12,1,,3,3,false,,true,false,,true,1,true,true,,
@@ -50656,17 +50656,17 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51823,805702e3-bbdf-4b07-8837-ef22c77e35e4,1,2,3,,2,3,false,,true,,,,2,,,,true
 51824,a22fb240-78c8-411e-ab40-746d75d05d85,4,6,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 51825,ce85bdf1-5501-4178-8c46-9642974d5c6c,2,2,3,,2,2,false,,true,,,,2,,true,,
-51826,d78a6fa0-dce4-410b-a443-23084e21f2a9,5,12,2,,3,3,false,,false,,,true,1,,,,false
+51826,d78a6fa0-dce4-410b-a443-23084e21f2a9,5,12,2,,3,3,false,,false,false,false,true,1,false,false,false,false
 51827,5c863e45-6e99-4573-8f05-31ae58062ee1,5,15,2,,2,2,false,,true,,,true,2,,true,true,
-51828,a3eea5d5-fd14-40e5-834d-ae21af807205,1,3,3,,2,3,false,,true,false,false,false,2,true,true,false,false
+51828,a3eea5d5-fd14-40e5-834d-ae21af807205,1,3,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51829,6fe136c9-e8d7-4765-b72d-d89e84c7518f,5,13,3,,2,3,false,,true,true,,true,3,,,,true
 51830,3f08f860-6967-4c61-9fc7-eae7bc2ea7d7,5,13,2,,2,3,false,,true,false,false,true,1,true,true,false,false
 51831,9d70bfd1-eeb4-4ad8-b718-dc8c699a459d,5,14,3,,2,3,false,,true,true,,true,1,,,,true
 51832,5a84b0d8-7e93-4b72-85eb-4adeaca74b15,5,12,1,,2,3,false,,true,,,true,1,true,true,true,
 51833,e8a08871-4e99-4ddf-aa91-9e56b6e189e8,1,2,3,,2,3,false,,true,,,,1,,,,true
 51834,201347014,4,1,3,,2,3,false,,true,,,,1,,,,true
-51835,76379c4d-f607-437d-ba7e-826d46b4a558,1,1,3,,2,2,false,,true,,,,1,,,,true
-51836,0c87dbd8-47c1-4ce4-bae6-f0f1a22bd280,1,2,3,,2,3,false,,true,false,false,false,2,true,true,false,false
+51835,76379c4d-f607-437d-ba7e-826d46b4a558,1,1,3,,2,2,false,,true,false,false,false,1,false,false,false,true
+51836,0c87dbd8-47c1-4ce4-bae6-f0f1a22bd280,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51837,c8d34f2c-7218-4417-b061-ce86819a0b88,5,9,3,,2,3,false,,true,,,true,1,,,,true
 51838,95beccf6-2c07-454a-9461-d28e23af51f7,5,10,1,,2,3,false,,true,true,,true,1,,true,,
 51839,85c668c7-c85d-41dd-82cb-fb739a05e1e9,5,12,2,,3,3,false,,,,,true,1,,,,true
@@ -50695,7 +50695,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51862,609159012,1,2,3,,2,3,false,,true,,,,1,,,,true
 51863,da876cba-464a-4653-94cc-5cc8c2aae72b,1,1,3,,2,3,false,,true,,,,1,,,,true
 51864,456188034,4,13,2,,2,2,false,,true,,,,1,,,true,
-51865,6b378abe-d3d2-4255-8c13-dc22ab31cdc1,1,2,3,,2,3,false,,true,,,,2,true,true,,
+51865,6b378abe-d3d2-4255-8c13-dc22ab31cdc1,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51866,9d74a961-7d28-4ba3-8883-5a911c8931d7,1,2,3,,2,3,false,,true,false,false,false,2,false,false,false,true
 51867,d9ac1dcc-57d9-4ec1-a615-0ecb59b2d1dc,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 51868,db098172-0af7-41cd-a991-8a2be6319b45,5,12,3,,2,3,false,,true,false,false,false,1,false,false,false,true
@@ -50715,14 +50715,14 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51882,581900e7-b965-4315-99e5-a360e3a7827f,1,2,3,,2,3,false,,true,,,,2,,,,true
 51883,131725,4,6,3,,2,2,false,,true,false,,true,1,,,,true
 51884,ba9b039a-b166-4b9e-a3f1-3ccfaab7f157,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
-51885,53682a0a-0ff4-42ec-9a5d-0513e7ba3213,1,2,3,,2,3,false,,true,,,,2,true,true,,
+51885,53682a0a-0ff4-42ec-9a5d-0513e7ba3213,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 51886,b638cf71-d7cd-4d6d-a21f-5b6bdd77059f,5,13,2,,2,2,false,,true,false,false,true,1,true,true,false,false
 51887,32c693cb-8dab-4432-b2c8-73b72b392da5,5,12,2,,2,3,false,,true,true,,true,1,,true,,
 51888,609162310,5,12,3,,2,2,false,,,,,true,1,,true,,
 51889,a0e8a19d-7076-4b51-b9a1-b63b63dc0626,5,6,1,,2,3,false,,true,,,,1,,,,true
 51890,a0f87335-7b92-48bf-80b6-6bfb0025c06d,5,15,1,,2,3,false,,true,false,false,true,2,false,false,false,true
 51891,83d229d3-87e1-489c-b523-3a81ba6a04c0,5,7,3,,2,3,false,,true,,,true,1,,,,true
-51892,75103fe7-216b-46ee-acfc-c58c67d2c5ed,4,6,3,,2,2,false,,true,,,,1,,true,,
+51892,75103fe7-216b-46ee-acfc-c58c67d2c5ed,4,6,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 51893,913043a4-5938-4d6e-8727-c77196624de2,5,10,1,,2,3,false,,false,false,false,true,1,true,true,false,false
 51894,e82b65a9-4b7f-4730-a2a8-756a368f397b,5,15,2,,2,3,false,,true,true,,true,1,,,true,
 51895,38b28628-aaba-442f-a440-5e3c8d8c5d8d,5,12,3,,2,2,false,,true,,,true,3,,,true,
@@ -50740,8 +50740,8 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51907,fb661f60-8c15-46cc-a1c3-4ca444903288,5,10,1,,2,3,false,,true,,,,1,,,,true
 51908,267e35d4-2573-4712-9304-43c9f5d7c292,5,13,,,2,3,false,,true,true,,true,1,,,true,
 51909,8166963a-7280-469b-bf23-77a609dc2fd1,1,2,3,,2,3,false,,true,,,,1,,,,true
-51910,135324,1,2,3,,2,2,false,,true,,,,1,,,,true
-51911,1867a804-c9bf-49e9-afe5-266c2fb8fea1,5,12,2,,2,3,false,,true,,,,1,,,,true
+51910,135324,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
+51911,1867a804-c9bf-49e9-afe5-266c2fb8fea1,5,12,2,,2,3,false,,true,false,false,false,1,false,false,false,true
 51912,1ffe2064-fcc9-4112-a88f-fbacead77d4e,5,15,2,,2,2,false,,true,,,true,2,,true,true,
 51913,e68cebcc-e9e5-45d4-8353-db1035f05c9c,1,2,3,,2,3,false,,true,,,,1,,,,true
 51914,c9a13e9c-0a54-4936-9d04-3e3ae53d90e8,5,12,2,,3,2,false,,true,,,true,1,,,,true
@@ -50769,7 +50769,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51936,3b639cc0-1336-49ee-aba7-dd70aa150cba,5,13,1,,2,3,false,,true,,,true,1,,,,true
 51937,37961b15-b364-433c-9a00-b580cd77e795,1,2,3,,2,3,false,,true,,,,2,,,,true
 51938,0e853092-40b5-48be-bba4-03216555f998,4,6,3,,2,2,false,,true,true,,true,1,true,,,
-51939,7f6e14ea-d111-46cc-b7bd-fe8f84216c35,5,12,2,,2,3,false,,true,,,true,2,,true,,
+51939,7f6e14ea-d111-46cc-b7bd-fe8f84216c35,5,12,2,,2,3,false,,true,false,false,true,2,false,true,false,false
 51940,5ea4432b-3dcd-4e87-b7a6-19cb52403752,1,1,3,,3,3,false,,true,,,,1,true,,,
 51941,ee80b3da-a8db-4627-936f-57403c204168,5,12,1,,3,3,false,,false,false,false,true,1,false,false,false,true
 51942,1e59072d-f5b3-4964-88d6-77f8b494d49e,1,1,3,,2,2,false,,true,,,,1,true,true,,
@@ -50830,7 +50830,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 51997,134098,3,3,3,,2,2,false,,true,,,,2,,true,,
 51998,507619007,2,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 51999,6625a3e0-0aa7-4025-a0ef-e5aa94bac472,1,1,3,,3,3,false,,true,,,,1,,true,,
-52000,507619018,1,2,3,,2,2,false,,true,,,,1,false,,,true
+52000,507619018,1,2,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 52001,108276,3,3,3,,2,1,false,,true,,,,1,,,true,
 52002,108268,1,2,3,,1,3,false,,true,,,,1,,,true,
 52003,7a195399-1a33-4987-9409-1eb9e2553a9a,5,12,2,,2,2,false,,true,,,true,1,true,true,,
@@ -50842,8 +50842,8 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52009,e88f58e4-99d5-4768-9fec-4b6eb09b3b87,4,1,3,,2,2,false,,true,,,,1,,,,true
 52010,d7655fd1-8e6f-403d-9ee6-555fb6794406,1,1,3,,2,2,false,,true,,,,1,,,,true
 52011,76368c04-2c08-4cba-937e-f8900fa56d32,1,1,3,,2,2,false,,true,,,,1,,false,,true
-52012,e49979ff-9f03-4445-8c17-3e811812ea15,1,1,3,,2,3,false,,true,,,,1,,,,true
-52013,ada04a18-ab92-48c4-9006-3400eae233c8,4,6,3,,3,3,false,,true,,,,1,true,,,
+52012,e49979ff-9f03-4445-8c17-3e811812ea15,1,1,3,,3,3,false,,true,false,false,false,1,false,false,false,true
+52013,ada04a18-ab92-48c4-9006-3400eae233c8,4,6,3,,3,3,false,,true,false,false,false,1,false,false,false,true
 52014,0f3c5d1a-f4ff-471d-9090-4a26dd53057e,4,6,3,,2,2,false,,true,false,false,false,1,false,false,false,true
 52015,132169,3,3,3,,2,2,false,,true,,,,1,,true,,
 52016,eb5db61e-af71-48d7-aaff-8e77ea5cb5cb,5,12,1,,3,3,false,,false,false,false,true,1,false,false,false,true
@@ -50866,7 +50866,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52033,134705,2,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 52034,f9b6945e-fe8b-43dd-95de-4eb17027bfeb,1,2,3,,2,2,true,1,true,,,,2,,true,true,
 52035,9e813a76-54e1-470e-aafb-0bbb45c4beb0,2,2,3,,2,2,false,,true,,,,2,,,,true
-52036,ffe5492c-e2f5-4274-b6ba-cf0a81afcd0f,1,2,3,,2,3,false,,true,,,,2,true,true,,
+52036,ffe5492c-e2f5-4274-b6ba-cf0a81afcd0f,1,2,3,,2,3,false,,true,false,false,false,2,true,true,true,false
 52037,03d24c32-807b-4eb5-a90d-fea0d4a69ac4,5,14,1,,4,3,false,,true,true,false,true,3,,true,,
 52038,a9060823-a448-4749-9475-55b7700ceac1,5,12,3,,2,2,false,,true,,,true,2,,,true,
 52039,306768215,5,12,2,,2,3,false,,true,,,true,2,,true,,
@@ -50894,19 +50894,19 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52061,139285,6,16,3,,2,3,false,,true,,,,1,true,true,true,
 52062,efa08006-baa8-4ec9-9875-3a74067b2535,2,2,3,,2,3,false,,true,,,,3,,,,true
 52063,b6210939-02bb-40f9-83de-6f30a73c7a27,5,13,2,,2,3,false,,true,,,,2,true,true,,
-52064,6f1ffa88-58c4-4fe8-9d2f-cf4761318002,1,2,3,,2,2,false,,true,,,,1,true,true,,
+52064,6f1ffa88-58c4-4fe8-9d2f-cf4761318002,1,2,3,,2,2,false,,true,false,false,false,1,true,true,true,false
 52065,fd96d499-8cd3-4645-95eb-7342ab66840a,5,1,3,,2,3,false,,true,,,true,1,,,,true
 52066,140412,6,16,3,,2,2,false,,true,true,,,2,true,true,,
 52067,4a473da3-f9bf-4275-bb6c-1a53dea27543,5,12,3,,2,2,false,,true,false,false,true,2,false,true,false,false
 52068,bedf4585-c870-45a7-843c-9fe506397de9,5,12,2,,2,3,false,,,,,true,1,,,,true
 52069,ec2d1af1-6864-4ff9-8fba-317c25c61f21,4,6,3,,2,2,false,,true,true,,false,1,,,,true
-52070,223a1607-0cc6-4be0-9359-d31a2e1a5f0e,5,14,2,,2,3,false,,true,,,true,1,,,,true
+52070,223a1607-0cc6-4be0-9359-d31a2e1a5f0e,5,14,2,,2,3,false,,true,false,false,true,1,false,false,false,true
 52071,b5aa3e1e-5a07-4620-b9cb-f5697698a46e,1,2,3,,2,3,false,,true,,,,1,,,,true
 52072,201555014,4,6,3,,2,3,false,,true,true,false,true,1,false,true,false,false
 52073,6fe2a2f1-8c33-4f78-8b67-286fbfb141fc,1,2,3,,2,3,false,,true,,,,1,,,,true
-52074,62d02598-145f-4623-9ba2-8ded43aa9598,1,1,3,,2,3,false,,true,,,,1,true,,,
+52074,62d02598-145f-4623-9ba2-8ded43aa9598,1,1,3,,3,3,false,,true,false,false,false,1,false,false,false,true
 52075,134667,1,2,3,,2,2,false,,true,,,,1,,true,,
-52076,d8255753-43eb-4ddc-8b63-f680c00e82a3,1,2,3,,2,3,false,,true,,,,2,true,,,
+52076,d8255753-43eb-4ddc-8b63-f680c00e82a3,1,2,3,,3,3,false,,true,false,false,false,2,false,false,false,true
 52077,3231c4be-f3f4-456b-a19a-9d7bbaf9607e,4,6,2,,2,3,false,,true,false,false,false,1,false,false,false,true
 52078,0911e111-4a5b-4848-b7f9-c7ab8c518060,5,2,3,,2,3,false,,true,,,true,1,,,,true
 52079,5f37a386-ea62-4859-86b0-3587be137d72,1,2,3,,2,3,false,,true,,,,1,,,,true
@@ -50946,7 +50946,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52113,35a6eb2b-8bb9-48ae-8daa-feb689bdf3db,1,2,3,,2,3,false,,true,,,,2,false,,,true
 52114,bd79fdf2-67d2-430e-8c5b-6fb66d700c61,1,2,3,,2,3,false,,true,,,,1,,,,true
 52115,609162017,1,2,3,,2,2,false,,true,,,,2,,true,,
-52116,a48d4097-f5c5-429a-87d5-e61cb88cd7d8,4,6,3,,2,3,false,,true,,,,3,true,true,,
+52116,a48d4097-f5c5-429a-87d5-e61cb88cd7d8,4,6,3,,2,3,false,,true,false,false,false,3,true,true,true,false
 52117,355939cc-0c88-426f-930c-4d52d2bbc03d,5,6,,,2,3,false,,true,,,true,1,,,,true
 52118,70a21d07-0ca2-445a-a28f-c26556a5652c,5,12,3,,2,3,false,,false,false,false,true,1,false,false,false,true
 52119,76b35288-06b6-4171-9436-8c959fd9de27,5,6,2,,2,3,false,,true,,,,1,,,,true
@@ -50958,7 +50958,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52125,cf2cb98e-6e3d-4a3f-82a2-1691630bfe68,5,12,2,,2,2,false,,true,,,,1,,,true,
 52126,5dc0a720-26b6-479b-b298-e1c863c5be0d,5,14,1,,2,3,false,,true,,,true,1,,,true,
 52127,609159006,1,1,3,,2,3,false,,true,,,,1,,,,true
-52128,2497cba1-18b3-46cd-a7e7-595586cfed7c,1,2,3,,3,2,false,,true,,,,1,,true,,
+52128,2497cba1-18b3-46cd-a7e7-595586cfed7c,1,2,3,,3,2,false,,true,false,false,false,1,false,true,false,false
 52129,456194034,5,10,1,,2,3,false,,true,,,true,3,,true,,
 52130,e5d09fae-b965-4269-927f-f7e8db79483a,4,6,3,,2,3,false,,true,,true,true,2,,true,,
 52131,be78107b-2de0-4e07-82aa-fd40b2bf7a20,5,12,1,,2,2,false,,true,,,,1,,,true,
@@ -50971,7 +50971,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52138,139616,6,16,3,,2,2,true,5,true,false,true,,1,,true,true,
 52139,140385,2,3,3,,3,2,false,,true,,,,1,true,true,true,
 52140,140063,6,4,3,,2,2,true,5,true,,,,1,,,true,false
-52141,a1663e01-3169-482e-a544-a29c8f0dab60,4,6,3,,2,3,false,,true,,,,1,,,,true
+52141,a1663e01-3169-482e-a544-a29c8f0dab60,4,6,3,,2,3,false,,true,false,false,false,1,false,false,false,true
 52142,903424,1,2,3,,2,3,false,,,true,,,1,true,,,
 52143,b8bfe36e-3ca8-47ba-ac19-fcf138ddaf14,5,12,2,,2,2,false,,true,,,,1,,,true,
 52144,609159004,1,1,3,,2,3,false,,true,,,,1,,,,true
@@ -50990,7 +50990,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52157,609159017,1,1,3,,2,3,false,,true,,,,1,,,,true
 52158,c9c832a1-5c3e-4b88-82ca-5a3330421f83,1,1,3,,2,2,false,,true,false,false,false,1,true,false,false,false
 52159,109b085c-2684-43b7-b257-a2c359a8bf25,1,2,3,,2,3,false,,true,,,,2,,,,true
-52160,dff1c204-808b-4fb1-9f87-62dde485ef05,4,2,3,,2,2,false,,true,,,true,1,true,,,
+52160,dff1c204-808b-4fb1-9f87-62dde485ef05,4,2,3,,3,2,false,,true,false,false,true,1,false,false,false,true
 52161,6dc223bc-4a55-4e8f-96ab-7ba5b5a06f5e,5,6,1,,2,3,false,,true,false,false,false,1,false,false,false,true
 52162,3408ecbb-d490-4677-9c9c-8aab975546db,1,2,3,,2,3,false,,true,,,,1,,,,true
 52163,15703e26-e581-4573-aff3-ce3fe293cd7d,5,14,1,,2,2,false,,true,true,,true,1,,false,true,
@@ -51012,7 +51012,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52179,9beee087-4f69-45e6-a1a0-158b1e83a867,4,6,3,,2,2,false,,true,,,,2,true,true,true,
 52180,48d3c5fb-e4cd-43d7-9628-7e9ef4669df1,4,6,3,,2,2,false,,true,,,,2,true,true,true,
 52181,b5ba0e56-2229-4055-9e4d-c48a1f9bed3f,1,2,3,,2,3,false,,true,,,,2,,,,true
-52182,625a294e-7e2e-44bc-ac0c-645adef3c335,1,1,3,,2,2,false,,true,,,,2,true,true,true,
+52182,625a294e-7e2e-44bc-ac0c-645adef3c335,1,1,3,,2,2,false,,true,false,false,false,2,true,true,true,false
 52183,664dbbfd-0e18-4d4d-bb8a-69c2e550d605,4,6,3,,3,2,false,,true,true,,true,1,,true,,
 52184,a54aab6e-636c-4514-abbd-2fb88b00a881,5,12,2,,2,3,false,,,,,true,1,,true,,false
 52185,c84be463-02ff-49b5-96fc-0c162c9257e3,1,2,3,,2,3,false,,true,false,false,false,1,false,false,false,true
@@ -51025,12 +51025,12 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52192,3fe4792d-f01e-4299-8144-722e5fd7140e,4,6,3,,2,2,false,,true,,,,1,,,,true
 52193,13650ceb-6407-407c-9585-1ba0e32618ff,5,12,3,,3,2,false,5,true,,,true,1,false,,true,
 52194,d0d3ebe3-1290-4818-a564-6dcb7d9967ec,4,1,3,,3,2,false,,true,,,true,1,true,,,false
-52195,86fe250f-5576-4028-8f35-55d4198d2863,5,10,1,,3,3,false,,true,,,true,1,true,,true,
+52195,86fe250f-5576-4028-8f35-55d4198d2863,5,12,1,,3,3,false,,true,false,false,true,1,true,false,true,false
 52196,cd959eb0-5d37-48b9-b467-c0fc76346c5a,5,12,,,3,3,false,,true,,,true,1,true,,true,
-52197,9210b1b4-68a8-474a-b446-c3fab22291c8,5,10,1,,3,3,false,,true,,,true,1,false,true,,
+52197,9210b1b4-68a8-474a-b446-c3fab22291c8,5,12,1,,3,3,false,,true,false,false,true,1,false,true,false,false
 52198,ceae6122-0a20-44b5-a1c4-74cd1e24db7b,5,10,3,,3,2,false,,true,,,true,1,false,,true,
 52199,3382dd14-5276-4ba4-ac01-adaa1d2a9022,5,13,1,,3,2,false,,true,,,true,,true,true,false,
-52200,d4082c14-f132-4e51-904d-8e781b1d974a,5,12,1,,3,2,false,,true,,,true,1,,true,true,
+52200,d4082c14-f132-4e51-904d-8e781b1d974a,5,12,1,,3,2,false,,true,false,false,true,1,false,true,true,false
 52201,59d501eb-6e4c-477f-a312-be64cbab553d,5,12,2,,3,2,false,,true,,,true,1,false,true,true,
 52202,7ff426c7-29e8-4a54-a56c-2c631ea6951c,1,2,3,,2,3,false,,true,,,,2,,,,true
 52203,849d805e-1837-4850-af39-a444f48cb7f3,5,12,1,,2,2,false,,true,,,,1,true,true,,
@@ -51056,7 +51056,7 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52223,702ebda6-f58e-4f32-8a0f-8bb37558d954,4,6,3,,2,3,false,,true,,,,1,,,,true
 52224,921a4013-9381-4469-9eaf-6e7e06dd1e53,1,1,3,,2,3,false,,true,,,,2,,true,true,
 52225,66b9e832-2336-4872-a39a-d6e2dab10d84,1,2,3,,2,2,false,,true,,,,2,true,true,true,
-52226,40dce74b-0e99-4055-9b55-5c3c6e9e718e,1,2,3,,2,3,false,,true,,,,3,true,true,,
+52226,40dce74b-0e99-4055-9b55-5c3c6e9e718e,1,2,3,,2,3,false,,true,false,false,false,3,true,true,true,false
 52227,6ee57c36-4e09-4af9-aa4c-f5ca52e8199f,1,2,3,,2,3,false,,true,,,,3,true,true,true,
 52228,48e58c63-5932-41a2-8b10-d6b061c7c5ec,1,2,3,,2,2,false,,true,,,,2,true,true,true,
 52229,302637012,1,2,3,,2,3,false,,true,,,,2,,true,,
@@ -51069,3 +51069,31 @@ id,eiin,institution_type,maximum_level,student_type,approval_status,management_t
 52236,4656010f-3a68-4754-ac16-f1abb87b61fb,1,1,3,,2,2,false,,true,,,,1,true,true,,
 52237,7192f2dd-92d9-4ce9-a492-e9eb8f9d0526,5,12,3,,2,2,false,,true,,,true,1,,,true,
 52238,108332,1,2,3,,4,3,false,,true,,,,1,,true,true,
+52239,b883b683-5b26-47e1-8610-01ae4741c84a,1,2,3,,2,2,false,,true,,,,1,,true,,
+52240,6c00a2b4-957b-49e4-9d68-0413251a3484,5,13,1,,2,2,false,,true,,,true,1,,,true,
+52241,db4b3f43-a7e3-405a-a2c4-1bd82b2a1989,1,2,3,,2,2,false,,true,,,,2,,,,true
+52242,ec92463f-b350-45a6-ab0e-d2db17add0be,5,12,3,,2,2,false,,true,,,true,1,,,true,
+52243,5880183a-c7ed-40b8-9859-c1cd60eb7307,1,2,3,,2,3,false,,true,false,false,false,2,false,false,false,true
+52244,1eb24868-6234-4289-889e-3e3d59fbd0b7,4,2,1,,2,3,false,,true,false,false,true,2,false,true,false,false
+52245,37f40403-ba05-41ff-8b99-b317552a9684,4,12,3,,2,3,false,,,,,true,1,,,,true
+52246,b7a80233-843b-4a7e-ba9d-9d0daa62da99,4,12,3,,2,3,false,,,,,true,2,,,,true
+52247,202266060,5,12,2,,2,3,false,,,,,true,1,,,,true
+52248,137411,1,1,3,,1,3,false,,true,,,,1,,true,true,
+52249,d9961af6-216d-4fe6-a88d-d037b9b962dc,4,2,2,,2,3,false,,true,false,false,true,1,false,true,false,false
+52250,c1bdf48a-558b-4a72-b656-2789fe60e57f,4,8,3,,2,3,false,,,,,true,2,,,,true
+52251,106390,4,8,3,,2,1,false,,true,,,true,1,true,true,true,
+52252,61e04989-ce30-49bc-b7ec-3a7d41d56084,1,1,3,,2,3,false,,true,,,,2,,,,true
+52253,f6bd980b-5f0b-4dec-95bf-157e5284b407,1,2,3,,3,3,false,,true,,,,1,true,,,
+52254,3db49c94-5ea2-4a71-ae0c-bd5c938c3777,2,3,3,,2,3,false,,true,,,,2,,,,true
+52255,1544cef5-fb26-4c7b-bbae-3c0fece0a9a2,1,1,3,,2,2,false,,true,,,,1,,,,true
+52256,903455,2,3,3,,2,3,false,,,true,,,1,,,,true
+52257,882a9866-425d-477c-a412-83c70bbc0738,5,10,2,,2,2,false,,true,,,true,1,true,true,true,
+52258,201909005,5,3,1,,2,3,false,,true,,,,1,,true,,
+52259,f012900b-7633-44b8-904c-7b59024328ca,5,13,1,,2,3,false,,true,false,false,true,1,true,true,true,false
+52260,cdf2864e-d5d4-46d9-a424-8de802d5492c,4,6,3,,2,3,false,,true,,,,1,,,,true
+52261,306758078,1,2,3,,2,2,false,,true,,,,1,,,true,
+52262,f527a8ce-5473-4114-bfc9-5798f7ebb89a,4,6,3,,2,3,false,,true,,,,1,,,,true
+52263,8c8da699-fcca-447a-b48b-a2992316950e,4,6,3,,2,3,false,,,,,true,2,,true,true,
+52264,5024155c-0a1a-4af2-bb71-fc33d7a6bd2b,4,6,3,,2,3,false,,,,,true,2,,true,true,
+52265,9aa0b24e-2a82-403c-b900-637855f87156,1,2,3,,2,2,false,,true,,,,1,,true,,
+52266,302636001,1,2,3,,2,3,false,,true,false,true,false,1,false,true,false,false

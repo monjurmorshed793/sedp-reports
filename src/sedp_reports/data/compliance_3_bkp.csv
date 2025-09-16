@@ -890,7 +890,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 1991,109726,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 1992,106812,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 1993,120704,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-1994,456188029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1994,456188029,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 1995,609162275,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 1996,101739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1997,123924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1484,7 +1484,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 2585,103516,,false,0,false,false,false,false,0,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
 2586,125634,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 2587,558576044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2588,112097,,true,16,true,true,true,true,24446,125629,true,true,,6,9,true,,7,false,0,0,0,0,0,0,true,false,,,,,true
+2588,112097,false,true,16,true,true,true,true,24446,125629,true,true,,6,9,true,,7,false,0,0,0,0,0,0,true,false,,,,,true
 2589,114126,false,false,,false,false,false,false,,,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
 2590,117249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2591,123174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1694,7 +1694,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 2795,129396,,true,23,true,true,true,true,134250,111875,true,true,,8,7,false,,,false,,,,,,,true,false,,,,,true
 2796,111468,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 2797,106242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2798,111030,,true,15,true,true,true,true,150000,125000,true,true,,11,4,true,,6,true,38000,0,0,5000,0,7000,true,false,0,,,,true
+2798,111030,false,true,15,true,true,true,true,150000,125000,true,true,,11,4,true,,6,true,38000,0,0,5000,0,7000,true,false,0,,,,true
 2799,126557,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2800,123482,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 2801,125142,,true,26,true,true,true,true,300000,600000,false,false,,,,false,,,false,,,,,,,true,true,0,0,1,0,true
@@ -1711,7 +1711,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 2812,122514,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2813,109545,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2814,101820,false,true,10,true,true,true,true,15000,125000,true,true,,2,13,false,,0,true,50000,23500,5250,0,0,21250,true,false,,,,,true
-2815,111044,,true,14,true,true,true,true,150000,125000,true,true,,2,13,false,,,true,24000,6000,0,0,0,20000,true,false,,,,,true
+2815,111044,false,true,14,true,true,true,true,150000,125000,true,true,,2,13,false,,0,true,24000,6000,0,0,0,20000,true,false,,,,,true
 2816,112855,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2817,114047,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 2818,104236,false,false,0,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -2102,7 +2102,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 3203,114932,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 3204,306768007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3205,134144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3206,108167,,true,23,true,true,true,false,4200,25000,true,true,,8,7,false,,,true,15000,0,0,0,0,3000,true,false,,,,,true
+3206,108167,false,true,23,true,true,true,false,4200,25000,true,true,,8,7,false,,0,true,15000,0,0,0,0,3000,true,false,,,,,true
 3207,558592022,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 3208,110839,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3209,108536,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2387,7 +2387,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 3488,108188,,true,0,false,false,false,false,200000,150000,true,true,,100,0,false,,,false,,,,,,,true,false,,,,,true
 3489,134884,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3490,108267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3491,201290109,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3491,201290109,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 3492,116177,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 3493,102713,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3494,116251,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -3594,7 +3594,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 4695,122900,,true,13,true,true,true,true,25000,150000,true,true,,9,11,true,,5,false,,,,,,,true,false,,,,,true
 4696,107682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4697,113452,,true,11,true,true,true,true,,,true,false,,,,true,,1,true,0,0,0,0,0,,true,false,,,,,true
-4698,108909,,false,0,false,false,false,false,0,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
+4698,108909,false,false,0,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 4699,115524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4700,202290021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4701,125074,,true,14,true,true,true,true,150000,125000,true,true,,5,10,false,,,true,0,0,0,0,1,0,true,false,,,,,true
@@ -3603,7 +3603,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 4704,122742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4705,201582031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4706,138382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4707,120187,,true,21,true,true,true,true,42820,,true,true,,13,7,false,,2,true,0,0,0,0,18000,7000,true,true,0,0,2,1,true
+4707,120187,false,true,21,true,true,true,true,42820,0,true,true,,13,7,false,,2,true,0,0,0,0,18000,7000,true,true,0,0,2,1,true
 4708,116352,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4709,123526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4710,125328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5259,7 +5259,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 6360,107403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6361,304879001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6362,109391,false,true,9,true,true,true,true,41715.95,111875,true,true,,5,10,false,,0,true,12500,0,1100,0,28863.75,7536.75,true,false,,,,,true
-6363,139586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6363,139586,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 6364,115973,,true,18,true,true,true,true,44800,125000,true,true,,9,6,false,,,true,50000,0,0,0,0,150000,true,false,,,,,true
 6365,101801,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 6366,125776,,true,16,true,true,true,true,150000,125000,true,true,,8,7,false,,,true,0,0,0,0,50000,0,true,false,,,,,false
@@ -5724,7 +5724,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 6825,116510,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6826,127783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6827,114461,,true,17,true,true,true,true,43000,71832,true,true,,12,8,true,,2,true,0,0,0,0,10000,19970,true,false,,,,,true
-6828,117852,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6828,117852,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 6829,132817,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6830,139842,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6831,122944,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6797,7 +6797,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 7898,133058,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 7899,201918016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7900,609023074,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-7901,137798,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7901,137798,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 7902,125695,false,true,14,true,true,true,true,100000,125000,true,true,,6,9,false,,0,true,0,0,0,0,50000,0,true,false,,,,,true
 7903,109815,,false,4,true,true,true,true,9500,5000,false,false,,,,false,,,false,,,,,,,true,false,,,,,true
 7904,107224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7880,7 +7880,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 8981,456194023,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 8982,609117075,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 8983,118031,,true,18,true,true,true,true,150000,150000,true,true,,7,8,true,,8,false,,,,,,,true,false,,,,,true
-8984,122436,,true,3,true,true,true,true,36050,111875,true,true,,9,6,false,,,true,7000,0,0,0,33550,4200,true,true,0,0,0,0,true
+8984,122436,false,true,3,true,true,true,true,36050,111875,true,true,,9,6,false,,0,true,7000,0,0,0,33550,4200,true,true,0,0,0,0,true
 8985,109072,false,true,11,true,true,true,true,134250,111875,true,true,,5,10,true,,1,true,9000,6000,0,3500,21250,0,true,false,,,,,true
 8986,123120,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8987,122939,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -8054,7 +8054,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 9155,122967,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9156,134821,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9157,105748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9158,603668014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9158,603668014,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9159,111109,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9160,107895,false,true,14,true,true,false,false,134250,111875,true,true,,1,8,true,,3,true,19760,0,0,0,14490,10500,false,false,,,,,true
 9161,121954,,true,13,true,true,true,true,22375,137400,true,true,,12,8,false,,,false,,,,,,,true,true,2022,2023,2022,2023,true
@@ -8123,7 +8123,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 9224,113546,,true,36,true,true,true,true,140000,130000,true,true,,5,15,true,,5,true,0,0,0,0,55000,0,true,true,0,0,3,2,true
 9225,129415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9226,104348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9227,120144,false,true,13,true,true,true,true,5000,50000,true,true,,10,10,true,,1,false,0,0,0,0,0,0,true,false,,,,,true
+9227,120144,false,true,13,true,true,true,true,25000,150000,true,true,,10,10,true,,1,true,0,5000,0,0,0,100000,true,false,,,,,true
 9228,105425,false,true,11,true,true,true,true,0,0,true,true,,5,15,false,,0,true,0,0,0,0,0,0,true,true,0,1,0,0,true
 9229,104284001,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9230,111129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8375,7 +8375,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 9496,120441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9497,120400,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9498,453958024,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-9499,114274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9499,114274,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9500,453958044,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9501,118197,,true,14,true,true,true,true,150000,125000,true,true,,7,8,true,,5,false,,,,,,,true,false,,,,,true
 9502,120724,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8538,7 +8538,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 9659,303334069,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9660,456172094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9661,406552032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9662,603668015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9662,603668015,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9663,105659,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9664,453936135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9665,116435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8789,7 +8789,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 9926,138454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9927,9f73edbb-78bf-4989-bb2c-3c6657ab31c6,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9928,303334009,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-9929,69dd56d5-3184-4931-9ddf-4398ea59d382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9929,69dd56d5-3184-4931-9ddf-4398ea59d382,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9930,205173003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9931,201557040,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 9932,309385012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9063,7 +9063,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 10348,110128,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 10349,101556,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 10350,6cb9493e-d5fa-4522-a47f-d7ade14cdf04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10352,306704145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10352,306704145,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 10353,453936053,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10354,453936016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10355,457283154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9089,7 +9089,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 10381,100610,false,true,11,true,true,true,true,125000,150000,true,true,,4,16,false,,0,true,0,0,0,0,25000,0,true,false,,,,,true
 10382,201213098,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 10383,ae4e7060-48de-4002-bf1d-57886aef3468,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10384,603668012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10384,603668012,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 10385,124990,false,true,8,true,true,true,false,80000,42000000,true,true,,9,11,false,,0,false,0,0,0,0,0,0,true,true,5,7,0,0,true
 10387,111651,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10388,302614088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9124,7 +9124,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 10487,458988023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10488,109314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10489,0a921ac8-905f-428e-b1a7-726d0d3b0df4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10490,66bb0779-74fc-401a-b5fc-8bccb342c327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10490,66bb0779-74fc-401a-b5fc-8bccb342c327,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 10491,684ae8ac-4b30-419c-9c85-0388f1cd07a5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10492,117755,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 10493,305682037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9387,10 +9387,10 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 10769,303332108,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 10770,120159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10771,303332027,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-10772,120155,,true,12,true,true,true,true,10150,92600,true,true,,4,16,false,,,false,,,,,,,true,false,,,,,true
+10772,120155,false,true,12,true,true,true,true,25000,150000,true,true,,4,16,true,,1,true,16000,0,0,0,0,100000,true,false,,,,,true
 10773,121663,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10774,116867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10775,134002,,false,0,false,true,true,true,0,0,false,false,,,,false,,,false,,,,,,,true,false,,,,,false
+10775,134002,false,false,0,false,true,true,true,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,true,false,,,,,false
 10776,457283152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10777,108079,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 10778,207583038,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -9704,7 +9704,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 11106,113239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11107,137153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11108,107410,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11109,112087,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11109,112087,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 11110,124851,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 11111,453936039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11112,101659,,true,0,true,true,true,true,0,340000,true,true,,5,15,true,,1,false,,,,,,,true,false,,,,,true
@@ -9784,7 +9784,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 11192,136634,,true,10,true,true,true,true,12500,175000,true,true,,4,16,false,,,true,10500,0,12000,2500,0,0,true,false,,,,,true
 11193,108060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11194,101354,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-11195,117823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11195,117823,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 11196,105209,,true,9,true,true,true,true,25000,150000,true,true,,6,14,true,,3,true,5000,5000,5000,5000,500,5000,true,false,,,,,false
 11197,121022,,true,11,true,true,true,true,50000,131000,true,true,,4,6,true,,20000,false,,,,,,,true,false,,,,,true
 11198,119863,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -10485,7 +10485,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 11909,456194067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11910,113917,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11911,456172030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11912,138729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11912,138729,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 11913,305682027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11914,109746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11915,609120048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -10811,7 +10811,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 12242,103874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12243,112368,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 12244,125884,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12245,137636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12245,137636,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 12246,101091,,true,12,true,true,true,true,125000,150000,true,true,,5,15,false,,,true,0,0,0,0,23556,0,true,false,,,,,true
 12247,118686,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12248,553267035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -11021,7 +11021,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 12455,100569,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12456,114924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12457,105683,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12458,120133,false,true,15,true,true,true,true,25000,150000,true,true,,13,7,true,,5,true,6500,0,0,0,0,18000,true,true,0,1,0,0,true
+12458,120133,false,true,15,true,true,true,true,25000,150000,true,true,,13,7,true,,5,true,1500,0,0,0,0,100000,true,true,0,1,0,0,true
 12459,124100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12460,125044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12461,110160,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -11538,7 +11538,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 13015,118296,,true,16,true,true,true,true,22605,125000,true,true,,4,11,true,,24,false,43500,0,0,0,,,true,false,,,,,true
 13016,302630025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13017,127599,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-13018,401823035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13018,401823035,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 13019,401831002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13020,125957,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13021,609120022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -11652,7 +11652,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 13143,115961,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 13144,117676,,true,19,true,true,true,true,60000,75000,true,true,,0,20,true,,5,false,,,,,,,true,true,1,1,0,0,true
 13145,105256,false,false,0,false,true,false,true,80000,0,true,true,,10,10,false,,0,false,0,0,0,0,0,0,true,false,,,,,true
-13146,201553023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13146,201553023,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 13147,113308,false,true,14,true,true,true,true,15000,125000,true,true,,5,7,true,,50000,true,30000,0,0,0,0,0,true,false,,,,,true
 13148,105735,,true,21,true,true,true,true,134250,111875,true,true,,6,9,true,,2,true,20000,0,0,0,0,24750,true,true,0,1,0,0,true
 13149,302662016,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -11829,7 +11829,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 13338,207510040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13340,121506,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 13341,110775,,true,20,true,true,true,true,135000,112000,true,true,,25,30,false,,,false,,,,,,,true,false,,,,,true
-13342,112157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13342,112157,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 13343,100779,,true,8,true,true,true,true,4650,72160,true,true,,4,11,false,,,true,6500,700,900,2400,0,39500,true,false,,,,,true
 13344,127576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13345,205173018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -12097,7 +12097,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 13633,129491,,true,10,true,true,true,true,18000,100000,true,true,,10,5,false,,,false,,,,,,,true,true,0,2,0,0,true
 13634,120379,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13635,113762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-13636,112088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13636,112088,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 13637,101920,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 13638,116492,,true,14,true,true,true,true,50000,125000,true,true,,4,6,true,,10,true,7000,1800,0,0,9950,31250,true,false,,,,,true
 13639,123169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -12253,7 +12253,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 13789,122706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13790,106448,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13791,104845,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-13792,130022,,true,13,true,true,true,true,134250,111875,true,true,,0,15,true,,6,false,,,,,,,true,false,,,,,true
+13792,130022,false,true,13,true,true,true,true,134250,111875,true,true,,0,15,true,,6,false,0,0,0,0,0,0,true,false,,,,,true
 13793,201520006,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 13794,457247012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13795,123541,,true,13,true,true,true,true,29900,125000,true,true,,7,8,false,,,true,0,5000,0,1600,0,43400,true,true,0,1,0,0,true
@@ -12545,7 +12545,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 14085,110370,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14086,114139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14087,453961010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14088,112128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14088,112128,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14089,127464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14090,305984031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14091,105965,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -12699,7 +12699,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 14245,109826,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14246,126444,,true,12,true,true,true,true,134250,111875,true,true,,10,5,true,,1,true,8650,0,0,0,35590,0,true,false,,,,,true
 14247,100810,false,true,7,false,false,false,false,134250,44750,true,true,,4,11,false,,0,false,0,0,0,0,0,0,true,false,,,,,true
-14248,130023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14248,130023,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14249,121083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14250,102159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14251,124631,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -12782,7 +12782,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 14340,115758,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14341,302614023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14342,116573,,true,18,true,true,true,true,50000,75000,true,true,,13,24,true,,1,false,,,,,,,true,false,,,,,true
-14343,130028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14343,130028,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14344,105022,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14345,303336001,,false,0,false,false,false,false,0,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
 14346,136116,,true,9,true,true,true,true,111487,125000,true,true,,1,14,true,,10,true,0,0,0,0,0,50000,true,false,,,,,true
@@ -12820,7 +12820,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 14378,201972050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14379,453961035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14380,104899,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14381,120162,,true,12,true,true,true,true,42180,134250,true,true,,5,15,false,,,true,0,0,2000,0,10000,13000,true,false,,,,,true
+14381,120162,false,true,12,true,true,true,true,25000,134250,true,true,,5,15,true,,1,true,0,0,2000,0,10000,130000,true,false,,,,,true
 14382,109021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14383,114631,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14384,132580,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -12915,7 +12915,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 14473,134957,,true,10,true,true,true,true,25000,150000,true,true,,10,10,true,,8,true,6700,900,0,0,0,5400,true,false,,,,,true
 14474,306758061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14475,113363,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14476,112180,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14476,112180,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14477,139730,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14478,609120001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14479,122724,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -13211,7 +13211,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 14771,303386008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14772,456116067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14773,129318,,true,12,true,true,true,true,150000,125000,true,true,,6,9,false,,,false,,,,,,,true,false,,,,,true
-14774,603668003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14774,603668003,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14775,129883,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14776,401807051,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14777,401807015,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -13361,7 +13361,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 14941,457283074,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14942,115033,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14943,107524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14944,456188006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14944,456188006,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 14945,114210,false,true,15,true,true,true,true,150000,125000,true,true,,8,7,true,,5,true,0,0,0,0,30000,0,true,true,2,0,0,0,true
 14950,123163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14951,b5ff4cae-2fde-4b10-acdb-b738cb5f6e91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -14058,7 +14058,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 15656,118578,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 15657,101458,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 15658,136555,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-15659,456188007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15659,456188007,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 15660,129954,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 15661,115894,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 15662,103770,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -14338,7 +14338,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 15938,118092,false,true,14,true,true,true,true,15000,125000,true,true,,0,15,true,,2,true,0,0,0,0,10000,0,true,true,2,0,0,1,true
 15939,135925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 15940,555202008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-15941,201553039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15941,201553039,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 15942,108910,,true,18,true,true,true,true,150000,125000,true,true,,4,11,true,,5,false,,,,,,,true,false,,,,,true
 15943,101030,,true,16,true,true,true,true,150000,125000,true,true,,15,0,true,,9,true,1,5000,0,25000,55000,5000,true,false,,,,,true
 15944,127917,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -14400,7 +14400,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 16001,554906033,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 16002,302696028,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 16003,121264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-16004,112149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16004,112149,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 16005,125316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16006,111317,,false,0,false,true,true,true,10000,,false,false,,,,false,,,false,,,,,,,true,false,,,,,true
 16007,127323,,true,10,true,true,true,true,150000,125000,true,true,,6,9,true,,1,true,12800,0,8,0,37200,0,true,false,,,,,true
@@ -14412,7 +14412,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 16013,123043,,true,11,true,true,true,true,17531,125000,true,true,,4,11,true,,1,true,9430,0,0,0,11070,0,true,false,,,,,true
 16014,4ccf2ff0-5aa5-4c41-91be-b874f794ed10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16015,105282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-16016,137787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16016,137787,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 16017,306704049,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 16018,119310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16019,116613,,true,15,true,true,true,true,150000,125000,true,true,,4,11,true,,7,false,,,,,,,true,false,,,,,true
@@ -15623,7 +15623,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 17234,105848,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 17235,118398,,true,20,true,true,true,true,25000,127500,true,true,,6,14,true,,1,true,0,0,0,0,0,22375,true,true,0,2,0,0,true
 17236,120987,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17237,120150,,true,13,true,true,true,true,25000,0,true,true,,6,14,true,,3,true,22625,875,1500,0,0,0,true,false,,,,,true
+17237,120150,false,true,13,true,true,true,true,25000,150000,true,true,,6,14,true,,3,true,22625,875,1500,0,0,50000,true,false,,,,,true
 17238,127423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 17239,102037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 17240,126977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -15878,7 +15878,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 17489,609117080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 17490,139283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 17491,120096,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17492,112163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17492,112163,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 17493,111073,,true,9,true,true,true,true,40475,156625,true,true,,4,11,false,,,true,0,0,0,0,44750,0,true,false,,,,,true
 17494,100822,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 17495,112044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -16059,7 +16059,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 17684,119511,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 17685,109715,false,true,8,true,true,true,true,25000,150000,true,true,,8,12,true,,2,true,0,5000,0,0,0,0,true,false,,,,,true
 17686,125828,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17687,130016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17687,130016,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 17688,201553041,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 17689,120350,false,true,27,true,true,true,true,0,0,true,true,,6,9,true,,2,true,0,0,0,0,0,0,true,true,0,3,0,0,true
 17690,109108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -16726,7 +16726,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 18357,559494022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 18358,128647,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 18359,109284,,false,0,false,true,true,true,20000,5000,true,true,,0,30,false,,,false,,,,,,,true,false,,,,,true
-18360,112118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18360,112118,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 18361,201213030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 18362,128364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 18363,605856015,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -17154,7 +17154,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 18785,1bb2aeb5-2335-41c6-8f29-32983d360891,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 18786,106427,,true,7,true,true,true,true,80235,111875,true,true,,3,12,true,,2,true,7500,0,0,0,44750,255640,true,false,,,,,true
 18787,114138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18788,130050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18788,130050,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 18789,114602,,true,13,true,true,true,true,30000,125000,true,true,,8,7,false,,,true,0,0,0,0,50000,0,true,false,,,,,true
 18790,116804,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 18791,609120002,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -17291,7 +17291,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 18922,123264,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 18923,113139,false,true,13,true,true,true,true,52415,72585,true,true,,0,15,true,,15,true,10000,750,0,0,39250,0,true,true,0,0,0,0,true
 18924,110142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18925,112171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18925,112171,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 18926,123507,,true,12,true,true,true,true,150000,125000,true,true,,5,10,false,,,false,,,,,,,true,false,,,,,true
 18927,105378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 18928,106519,,true,13,true,true,true,true,134250,108750,true,true,,8,7,false,,,true,0,0,0,0,44750,0,true,false,,,,,true
@@ -17494,7 +17494,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 19125,136159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19126,135040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19127,121154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19128,138744,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19128,138744,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 19129,101721,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 19130,507066025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19131,126762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -17611,7 +17611,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 19242,114789,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 19243,117228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19244,118003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19245,112081,,true,11,true,true,true,true,106000,108750,true,true,,8,7,false,,,true,0,0,0,0,45000,0,true,false,,,,,true
+19245,112081,false,true,11,true,true,true,true,106000,108750,true,true,,8,7,false,,0,true,0,0,0,0,45000,0,true,false,,,,,true
 19246,120839,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19247,112486,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19248,114796,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -17666,7 +17666,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 19297,114111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19298,123072,false,true,7,true,true,true,true,40740,110000,true,true,,5,10,false,,0,true,0,0,0,0,50000,0,true,false,,,,,true
 19299,128951,,true,0,false,true,true,true,500,0,true,true,,13,10,false,,,false,,,,,,,true,true,10000,10000,0,0,false
-19300,456188036,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19300,456188036,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 19301,104794,,true,12,true,true,true,true,125000,150000,true,true,,4,16,false,,,true,12000,0,0,0,0,13000,true,false,,,,,true
 19302,103862,,true,10,true,true,true,true,30000,111875,true,true,,4,11,true,,2,true,12000,0,0,0,29000,0,true,false,,,,,true
 19303,104051,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -17778,7 +17778,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 19409,609127009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19410,111217,,true,11,true,true,true,true,134250,111875,true,true,,24,43,true,,11,false,,,,,,,true,false,,,,,true
 19411,603687004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19412,383a2c0d-2c2a-4b8c-9fd9-49a1f9f6216c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19412,383a2c0d-2c2a-4b8c-9fd9-49a1f9f6216c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 19413,107065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19414,114957,false,true,15,true,true,true,true,150000,125000,true,true,,7,8,true,,17,false,0,0,0,0,0,0,true,true,0,2,0,0,true
 19415,128625,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -17928,7 +17928,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 19559,302984003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19560,116386,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19561,122870,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-19562,b0f23e35-1f36-48ca-b71b-1fb228356115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19562,b0f23e35-1f36-48ca-b71b-1fb228356115,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 19563,116385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19564,453936025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 19565,0685a6a0-7e02-463e-b104-2324c74a2e07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -19406,7 +19406,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 21055,124042,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 21056,122301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 21057,137495,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-21058,134244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21058,134244,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 21059,127807,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 21060,201506001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 21061,117577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -19496,7 +19496,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 21145,118908,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 21146,112694,false,true,13,true,true,true,true,75000,200000,true,true,,5,10,false,,0,false,0,0,0,0,0,0,true,true,1,1,0,0,true
 21147,106906,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-21148,112083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21148,112083,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 21149,130336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 21150,553224018,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 21151,121583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -19785,7 +19785,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 21434,113376,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 21435,119229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 21436,105446,,true,11,true,false,true,true,125000,150000,true,true,,10,10,true,,2,true,25000,0,0,0,0,0,true,false,,,,,true
-21437,1e1bb87a-4396-4438-9d8c-b6cb7c3c27d2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21437,1e1bb87a-4396-4438-9d8c-b6cb7c3c27d2,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 21438,113516,,true,5,true,true,true,true,150000,125000,true,true,,0,15,false,,,true,0,0,0,0,50000,0,true,false,,,,,true
 21439,110576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 21440,140012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -20692,7 +20692,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 22341,129216,false,true,12,true,true,true,true,150000,125000,true,true,,8,7,false,,0,true,40000,1800,2800,1600,0,3800,true,false,,,,,true
 22342,124143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22343,506460033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22344,da2fa8b0-dbf0-4338-b45d-cfcdc01cf6de,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22344,da2fa8b0-dbf0-4338-b45d-cfcdc01cf6de,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 22345,129902,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22346,601a4df3-d070-4058-927a-c0812cf4b621,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22347,109635,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -20768,7 +20768,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 22420,109863,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22421,100602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22422,507616021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22423,102668,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22423,102668,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 22424,453936042,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22425,125160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22426,107699,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -20911,7 +20911,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 22564,129598,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22565,123119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22566,125433,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-22567,112080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22567,112080,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 22568,609023018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22569,302650082,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22570,101844,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -20958,7 +20958,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 22617,115809,,false,0,false,false,false,true,12000,8000,false,true,,8,7,false,,,false,,,,,,,true,false,,,,,false
 22618,406552027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22619,105411,false,true,11,true,true,true,true,150000,125000,true,true,,7,8,true,,2,true,10000,10050,13000,4000,0,8950,true,false,,,,,true
-22620,136890,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22620,136890,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 22621,135257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22622,119821,,true,15,true,true,true,true,60000,150000,true,true,,11,9,false,,,true,0,0,0,0,25000,0,true,true,1,1,0,0,true
 22623,122575,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -21180,7 +21180,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 22844,111848,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22845,121251,,true,13,true,true,true,true,57718,125000,true,true,,0,15,true,,1,true,0,0,0,35000,0,0,true,false,,,,,true
 22846,113241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22847,115366,,false,0,false,false,false,false,0,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
+22847,115366,false,false,0,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 22848,120404,false,false,15,true,true,false,true,53500,125000,true,true,,7,8,true,,4,false,0,0,0,0,0,0,false,false,,,,,true
 22849,118049,,true,14,true,true,true,true,150000,125000,true,true,,6,9,false,,,true,50000,0,0,0,0,0,true,true,0,1,0,0,true
 22850,121248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -21648,7 +21648,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 23315,306704051,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 23316,111925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 23317,121687,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23318,456188023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23318,456188023,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 23319,114359,,true,14,true,true,true,true,25000,100000,true,true,,10,10,true,,2,false,,,,,,,true,false,,,,,false
 23320,125255,,true,15,true,true,true,true,150000,125000,true,true,,7,8,true,,10,false,,,,,,,true,false,,,,,true
 23321,118479,,true,15,true,true,true,true,25000,150000,true,true,,6,14,true,,2,true,10000,0,0,0,10000,5000,true,false,,,,,true
@@ -21756,7 +21756,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 23423,100643,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 23424,113652,,true,0,false,true,true,true,10000,390000,true,true,,5,15,false,,,false,,,,,,,true,false,,,,,true
 23425,129481,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23426,130026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23426,130026,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 23427,129591,,true,0,false,true,true,true,10000,12000,true,true,,5,10,true,,5,true,8000,0,0,0,0,0,true,false,,,,,true
 23428,122159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 23429,129835,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -21806,7 +21806,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 23473,6da5e9bf-f839-461d-ad86-109654e82d48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 23474,129725,,true,7,true,true,true,true,75000,1250000,true,true,,10,5,false,,,false,,,,,,,true,false,,,,,true
 23475,119887,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23476,12115e4e-fc51-4d22-a3f2-0625322d333a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23476,12115e4e-fc51-4d22-a3f2-0625322d333a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 23477,127538,,true,13,true,true,true,true,50000,100000,true,true,,7,8,true,,10,true,0,0,0,0,50000,75000,true,false,,,,,true
 23478,106091,,true,13,true,true,true,true,125000,150000,true,true,,5,15,true,,4,false,,,,,,,true,false,,,,,true
 23479,105475,false,true,9,true,true,true,true,150000,125000,true,true,,6,4,false,,0,true,50000,0,0,0,0,0,true,true,0,0,0,1,true
@@ -21922,7 +21922,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 23589,138935,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 23590,109195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 23591,302674009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23592,201553040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23592,201553040,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 23593,130889,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 23594,112050,false,true,25,true,true,true,true,135300,111875,true,true,,9,9,true,,10000,true,20000,10750,0,4000,0,10000,true,false,,,,,true
 23595,122331,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -22473,7 +22473,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 24140,132035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24141,128123,false,true,18,true,true,true,true,0,0,true,true,,12,18,true,,30,false,0,0,0,0,0,0,true,false,,,,,true
 24142,127265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-24143,103403,,true,10,true,true,true,true,139841,112500,true,true,,6,9,false,,,true,8500,0,0,0,0,0,true,false,,,,,false
+24143,103403,false,true,10,true,true,true,true,139841,112500,true,true,,6,9,false,,0,true,8500,0,0,0,0,0,true,false,,,,,false
 24144,139981,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 24145,ff187093-b349-4e6f-be0a-1af3de8fe6e4,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 24146,5fdbc9bd-0398-4188-b269-6550e213783e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -22818,7 +22818,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 24485,2d7e4511-0c86-45c4-a24b-64fc23e46cbf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24486,117661,,true,10,true,true,true,true,24405,18000,true,true,,3,12,true,,6,true,0,0,0,0,31500,0,true,false,,,,,true
 24487,139274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-24488,112111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24488,112111,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 24489,5355e51d-fb6b-47fb-a31f-abb5c7e326aa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24490,204667022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24491,554908002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -22836,7 +22836,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 24503,201263009,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 24504,302614008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24505,201290031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-24506,12d6cce2-3b65-4249-a8a7-2243675863b7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24506,12d6cce2-3b65-4249-a8a7-2243675863b7,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 24507,201290032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24508,609162286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24509,554906025,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -22874,7 +22874,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 24541,110238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24542,137831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24543,132749,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-24544,e604805a-acfb-4e77-b1ed-e8f0fb496565,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24544,e604805a-acfb-4e77-b1ed-e8f0fb496565,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 24545,139326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24546,138980,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 24547,609131091,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -23767,10 +23767,10 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 25438,202256028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 25439,116943,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 25440,113364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25441,130875,,true,12,true,true,true,true,15600,85000,true,true,,0,15,true,,3,true,17500,0,0,32500,0,0,true,false,,,,,true
+25441,130875,false,true,12,true,true,true,true,15600,85000,true,true,,0,15,true,,3,true,17500,0,0,32500,0,0,true,false,,,,,true
 25442,122416,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-25443,302664001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25444,108195,,true,11,true,true,true,true,136737,129895,true,true,,3,12,false,,,true,0,0,0,0,16200,36498,true,false,,,,,true
+25443,302664001,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
+25444,108195,false,true,11,true,true,true,true,136737,129895,true,true,,3,12,false,,0,true,0,0,0,0,16200,36498,true,false,,,,,true
 25445,138337,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 25446,117799,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 25447,113406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -24511,7 +24511,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 26191,120623,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 26192,136220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26193,122747,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26194,114159,false,true,4,true,true,true,true,25000,150000,true,true,,3,17,false,,0,true,15000,0,0,10000,0,0,true,true,0,10000,0,0,true
+26194,114159,false,true,8,true,true,true,true,25000,150000,true,true,,3,17,false,,0,true,15000,0,0,10000,0,0,true,true,0,10000,0,0,true
 26195,120117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26196,110746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26197,121590,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -25181,7 +25181,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 26865,102799,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26866,f1ff9de5-2f43-4ba1-9fff-654dc359f2f2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26867,130153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26868,112091,,true,13,true,true,true,true,90000,40000,true,true,,12,8,false,,,true,1,1,1,1,1,3,true,true,1,0,0,0,true
+26868,112091,false,true,13,true,true,true,true,90000,40000,true,true,,12,8,false,,0,true,1,1,1,1,1,3,true,true,1,0,0,0,true
 26869,118476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26870,201213031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26871,116528,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -25735,7 +25735,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 27419,109395,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 27420,132663,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 27421,302618004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-27422,108183,,true,26,true,true,true,true,134239,27055,true,true,,7,8,true,,44750,false,,,,,,,true,false,,,,,true
+27422,108183,false,true,26,true,true,true,true,134239,27055,true,true,,7,8,true,,44750,false,0,0,0,0,0,0,true,false,,,,,true
 27423,116992,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 27424,127162,false,true,12,true,true,true,true,61800,125000,true,true,,5,10,false,,0,true,9000,0,0,0,41000,0,true,false,,,,,true
 27425,102350,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -26018,7 +26018,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 27702,131550,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 27703,137950,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 27704,303386012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-27705,302664004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27705,302664004,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 27706,201931026,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 27707,138020,,false,0,false,true,true,true,20000,30000,false,false,,,,false,,,false,,,,,,,true,false,,,,,true
 27708,116499,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -26120,7 +26120,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 27804,121508,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 27805,115344,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 27806,133203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-27807,112199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27807,112199,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 27808,112217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 27809,121353,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 27810,121874,,true,12,true,true,true,true,125000,150000,true,true,,11,9,true,,5,false,,,,,,,true,false,,,,,true
@@ -26657,7 +26657,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 28341,138117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 28342,138981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 28343,105078,,true,13,true,true,true,true,25000,80000,true,true,,5,15,true,,3,true,25000,0,0,0,0,0,true,false,,,,,true
-28344,108326,,true,15,true,true,true,true,111875,134250,true,true,,5,15,false,,,true,0,0,0,0,0,22475,true,false,,,,,true
+28344,108326,false,true,15,true,true,true,true,111875,134250,true,true,,5,15,false,,0,true,0,0,0,0,0,22475,true,false,,,,,true
 28345,122231,false,true,14,true,true,true,true,30432,125000,true,true,,4,11,true,,5,true,32640,0,0,0,12110,0,true,true,1,1,0,0,true
 28346,115501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 28347,129378,,true,11,true,true,true,true,150000,125000,true,true,,0,15,true,,10,false,,,,,,,true,false,,,,,true
@@ -26953,7 +26953,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 28637,135306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 28638,117206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 28639,125681,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-28640,114110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28640,114110,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 28641,100409002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 28642,303532022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 28643,303532007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -27414,7 +27414,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 29098,0d2c1bef-a203-4098-beec-4357b9e3064d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29099,126208,,true,22,true,true,true,true,,,true,true,,0,20,true,,2,true,,0,600,1500,,0,true,true,2,1,0,0,true
 29100,117025,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-29101,797d596a-e8ce-4a27-b826-6458a38c776f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29101,797d596a-e8ce-4a27-b826-6458a38c776f,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 29102,554979019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29103,128166,false,false,17,true,true,true,true,0,0,true,true,,13,12,true,,10,false,0,0,0,0,0,0,true,false,,,,,true
 29104,108105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -27644,7 +27644,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 29328,303532026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29329,135862,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29330,109465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-29331,302664006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29331,302664006,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 29332,103407,,true,10,true,true,true,true,150000,125000,true,true,,3,12,false,,,true,0,0,0,0,50000,0,true,false,,,,,true
 29333,107634,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29334,102699,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -27776,7 +27776,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 29460,117520,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29461,306704162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29462,116256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-29463,134893,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29463,134893,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 29464,07f8f8a1-6ba0-457c-9d78-cbac5bc25ff3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29465,49afad0d-c961-4e14-bd59-16747e6a026e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29466,115662,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -28021,7 +28021,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 29705,137762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29706,126748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29707,105949,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-29708,303330152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29708,303330152,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 29709,102962,,true,10,true,true,true,true,20000,50000,true,true,,10,5,true,,2,true,0,0,0,0,30000,0,true,true,0,1,0,0,true
 29710,457274157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 29711,123254,false,false,0,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -29269,7 +29269,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 30967,122244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 30968,103588,,true,10,true,true,true,true,132000,111875,true,true,,8,7,true,,1,false,,,,,,,true,true,1,0,0,0,true
 30969,118777,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-30970,134475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30970,134475,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 30971,134801,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 30972,302662005,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 30973,100290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -29478,7 +29478,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 31176,128412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 31177,103134,,true,12,true,true,true,true,150000,125000,true,false,,,,true,,1,true,0,0,0,0,45000,75000,true,false,,,,,true
 31178,552712008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-31179,122429,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31179,122429,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 31180,609162164,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 31181,128748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 31182,133051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -29497,7 +29497,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 31195,100624,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 31196,107253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 31197,102129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-31198,138459,,false,0,false,false,false,false,0,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
+31198,138459,false,false,0,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 31199,122088,,true,15,true,true,true,true,5000,21500,true,true,,8,7,false,,,false,,,,,,,true,false,,,,,true
 31200,125106,false,false,0,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 31201,132059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -29711,7 +29711,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 31409,101360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 31410,129899,false,true,9,true,true,true,true,150000,125000,true,true,,4,11,true,,3,true,20000,4475,4475,4475,0,1575,true,false,,,,,true
 31411,106181,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-31412,8ebf23d3-fe29-49bc-8870-34eb5bd8a6ba,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31412,8ebf23d3-fe29-49bc-8870-34eb5bd8a6ba,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 31413,207510012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 31414,126046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 31415,124828,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -30778,7 +30778,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 32476,553282093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32477,127112,false,true,13,true,true,true,true,150000,125000,true,true,,10,5,false,,0,true,15000,5000,0,10000,0,20000,true,false,,,,,true
 32478,553282075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-32479,108176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32479,108176,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 32480,122865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32481,557385008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32482,124317,,true,15,true,true,true,true,134250,111875,true,true,,8,7,true,,2,true,26750,6000,0,0,0,8250,true,false,,,,,true
@@ -30829,7 +30829,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 32527,107687,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32528,106351,,true,10,true,true,true,true,12500,150000,true,true,,4,5,true,,1,false,,,,,,,true,true,1,0,0,0,true
 32529,124169,false,true,17,true,true,true,true,30550,111875,true,true,,10,5,true,,15,false,0,0,0,0,0,0,true,true,0,10000,0,0,true
-32530,302664007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32530,302664007,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 32531,113727,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 32532,105218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32533,133803,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -30846,7 +30846,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 32544,100415,false,true,7,true,true,true,true,25000,150000,true,true,,0,20,true,,1,true,0,0,0,0,17840,0,false,false,,,,,true
 32545,112366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32546,130635,,false,1,false,true,true,true,30000,15000,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
-32547,cfd04a5d-a2e8-4289-84a3-ee5483d39de6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32547,cfd04a5d-a2e8-4289-84a3-ee5483d39de6,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 32548,122584,,true,33,true,true,true,true,77644,125000,true,true,,9,6,true,,6,true,0,0,0,0,53200,0,true,false,,,,,false
 32549,128323,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 32550,456172103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -32371,7 +32371,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 34070,103207,,true,14,true,true,true,true,0,0,false,false,,,,false,,,true,1000,0,0,0,0,0,false,false,,,,,true
 34071,103477,,true,11,true,true,true,true,25000,150000,true,true,,7,13,false,,,true,13200,0,0,0,11800,0,true,false,,,,,true
 34072,109416,,true,13,true,true,true,false,27730,125000,true,true,,4,10,true,,50000,false,,,,,,,true,false,,,,,true
-34073,130031,,true,9,true,true,true,true,134250,111875,true,true,,7,8,true,,2,true,0,0,0,0,44750,111875,true,false,,,,,false
+34073,130031,false,true,9,true,true,true,true,134250,111875,true,true,,7,8,true,,2,true,0,0,0,0,44750,111875,true,false,,,,,false
 34074,125182,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 34075,108801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 34076,123585,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -33299,7 +33299,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 34998,111447,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 34999,120964,,true,12,true,true,true,true,120000,15000,false,false,,,,true,,1,false,,,,,,,false,false,,,,,true
 35000,101075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-35001,111436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35001,111436,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 35002,508172004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 35003,109822,,false,0,false,true,true,true,5000,500000,false,false,,,,false,,,false,,,,,,,true,false,,,,,true
 35004,456181118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -34042,7 +34042,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 35741,137298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 35742,609127028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 35743,119927,,true,13,true,true,true,true,15850,125000,true,true,,8,7,true,,1,true,0,0,0,0,50000,0,true,false,,,,,true
-35744,134262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35744,134262,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 35745,119819,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 35746,124842,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 35747,113454,,true,0,false,true,true,true,0,,true,true,,7,13,true,,2,true,0,0,0,0,,0,true,false,,,,,true
@@ -35679,7 +35679,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 37379,136327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 37380,112967,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 37381,130632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-37382,60ad02d2-aa54-4f02-955f-f7904014b8c3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37382,60ad02d2-aa54-4f02-955f-f7904014b8c3,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 37383,609162293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 37384,113968,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 37385,201967054,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -36282,7 +36282,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 37982,302667002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 37983,208487004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 37984,100965,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-37985,ecde8387-8b71-4363-a96b-6c3ed8c9454e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37985,ecde8387-8b71-4363-a96b-6c3ed8c9454e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 37986,126170,,true,8,true,true,true,true,150000,125000,true,true,,0,15,false,,,true,7000,1400,0,3600,0,38000,true,false,,,,,true
 37987,129729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 37988,106636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -36774,7 +36774,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 38474,117363,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38475,110939,false,true,12,true,true,true,true,25000,125000,true,true,,5,10,false,,0,true,24000,8400,1740,6600,0,9260,true,false,,,,,true
 38476,120880,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-38477,dce61c30-6f4c-42eb-9e29-f5801fba64c5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38477,dce61c30-6f4c-42eb-9e29-f5801fba64c5,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 38478,108414,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38479,557385013,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 38480,558592007,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -36953,7 +36953,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 38653,456124005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38654,456124018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38655,110585,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-38656,c445ebe7-1dd8-4179-ab13-30f5a5868b3d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38656,c445ebe7-1dd8-4179-ab13-30f5a5868b3d,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 38657,112461,,true,22,true,true,true,true,20374,40893,true,true,,4,11,false,,,false,,,,,,,true,true,0,0,0,1,true
 38658,111140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38659,119721,,false,0,false,false,false,false,0,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
@@ -37244,7 +37244,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 38945,137332,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38946,125099,false,true,12,true,true,true,true,90000,168600,true,true,,16,4,false,,0,true,12100,2500,1400,6500,26900,0,true,false,,,,,true
 38947,100992,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-38948,130015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38948,130015,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 38949,109814,,true,10,true,true,true,true,150000,125000,true,true,,11,4,true,,3,false,,,,,,,true,false,,,,,true
 38950,101600,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38951,112369,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -37627,7 +37627,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 39328,131063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 39329,125879,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 39330,100447006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-39331,136491,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39331,136491,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 39332,425ae848-a08b-4ae4-8f50-aafe687edbc2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 39333,114206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 39334,135904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -38163,7 +38163,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 39864,109371,,true,7,true,true,true,true,45500,125000,true,true,,3,12,true,,0,true,10500,1500,3100,0,25400,9500,true,false,,,,,true
 39865,303330112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 39866,115247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-39867,2d34f4fd-ff39-4f9a-a498-09039183539c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39867,2d34f4fd-ff39-4f9a-a498-09039183539c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 39868,106236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 39869,109188,,false,0,false,false,false,true,5000,0,true,true,,0,5,false,,,false,,,,,,,true,false,,,,,true
 39870,132066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -38392,7 +38392,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 40093,109413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40094,107855009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40095,138573,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40096,112139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40096,112139,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 40097,404442003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40098,123786,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40099,303332041,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -38681,7 +38681,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 40382,111393,,true,22,true,true,true,true,110000,132000,true,true,,9,11,true,,22600,true,8500,3000,0,0,0,0,true,false,,,,,true
 40383,302693051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40384,137076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40385,130033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40385,130033,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 40386,110212,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 40387,133875,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 40388,125320,,true,11,true,true,true,true,3000,103155,true,true,,0,15,false,,,true,7250,0,0,0,33700,0,true,false,,,,,true
@@ -38918,7 +38918,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 40619,ad6ecd54-e7f7-46ae-99e2-d4a39d178013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40620,304827003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40621,118046,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-40622,139625,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40622,139625,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 40623,115576,,true,10,true,true,true,true,5000,100000,true,true,,20,20,false,,,true,9000,1000,0,0,20000,0,true,false,,,,,false
 40624,118586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40625,302614107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -38966,7 +38966,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 40667,133218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40668,457274132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40669,123930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40670,90fb4f25-b2fb-4528-8c77-2e6655c8224a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40670,90fb4f25-b2fb-4528-8c77-2e6655c8224a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 40671,106137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40672,106248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40673,120021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -39193,7 +39193,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 40894,112586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40895,101214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40896,122606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40897,140049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40897,140049,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 40898,134534,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40899,552717011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 40900,117296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -39352,7 +39352,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 41053,605865004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41054,137983,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41055,132312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41056,456188008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41056,456188008,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 41057,137901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41058,117276,,true,9,true,true,true,true,150000,125000,true,true,,8,7,true,,5,true,0,0,0,0,0,25000,true,false,,,,,true
 41059,140108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -39409,7 +39409,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 41110,110330,,true,14,true,true,true,true,150000,125000,true,true,,6,9,true,,4,true,12500,15000,0,13000,0,0,true,true,3,0,0,0,true
 41111,134138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41112,112150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41113,137079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41113,137079,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 41114,132367,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41115,104250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41116,116844,false,true,11,true,true,true,true,30500,150000,true,true,,11,9,true,,0,true,0,0,0,0,0,25000,true,false,,,,,true
@@ -39434,7 +39434,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 41135,109504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41136,120916,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 41137,129658,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41138,456188027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41138,456188027,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 41139,109125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41140,117208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41141,121939,,true,0,false,true,true,true,20000,47190,true,true,,5,15,true,,2,false,,,,,,,true,false,,,,,true
@@ -39565,7 +39565,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 41266,303330165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41267,119259,false,true,21,true,true,true,true,24631,175000,true,true,,9,11,true,,100000,false,0,0,0,0,0,100000,true,false,,,,,true
 41268,137627,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41269,456188030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41269,456188030,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 41270,fc43bec3-2440-43f9-a1da-8d701eb7c5dc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 41271,132964,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 41272,4b05e0ef-501a-44d1-a96d-e6a2b06d5486,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -40354,7 +40354,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 42055,137845,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42056,122080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42057,126426,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42058,112158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42058,112158,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42059,113512,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42060,133077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42061,122360,,true,12,true,true,true,true,150000,125000,true,true,,7,8,true,,1,true,6800,1150,0,850,50000,166200,true,false,,,,,true
@@ -40452,7 +40452,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 42153,609162261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42154,106682,,true,20,true,true,true,true,56985,125000,true,true,,0,15,false,,,true,46000,3200,0,0,0,840,true,false,,,,,true
 42155,302672007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42156,bdd67666-d017-43be-b5ec-d2e36dc770ff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42156,bdd67666-d017-43be-b5ec-d2e36dc770ff,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42157,121643,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42158,118171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42159,309309005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -40478,7 +40478,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 42179,121609,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42180,111387,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42181,102110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42182,120154,,true,11,true,true,true,true,30375,150000,true,true,,6,14,true,,1,true,0,0,0,0,0,25000,true,false,,,,,true
+42182,120154,false,true,11,true,true,true,true,30375,150000,true,true,,6,14,true,,1,true,25000,0,0,0,25000,500000,true,false,,,,,true
 42183,105987,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42184,128044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42185,114298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -40758,7 +40758,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 42459,100678,,true,0,false,false,false,false,0,150000,true,true,,0,20,true,,1,false,,,,,,,true,false,,,,,true
 42460,102892,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42461,201974014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42462,aa999be0-2423-4db3-a449-bedeb3d3f183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42462,aa999be0-2423-4db3-a449-bedeb3d3f183,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42463,102036,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42464,102322,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42465,116622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -40801,7 +40801,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 42502,303387004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42503,111552,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42504,107942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42505,114119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42505,114119,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42506,108946,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42507,125477,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42508,108459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -40891,7 +40891,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 42592,121748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42593,105540,false,true,14,true,true,true,true,125000,135000,true,true,,1,1,true,,2,true,0,0,0,0,50000,750000,true,false,,,,,true
 42594,113746,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-42595,456188002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42595,456188002,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42596,118922,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42597,110327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42598,45f9a820-261b-44a0-8e17-6e9426bb0ef7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -41159,7 +41159,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 42860,302630010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42861,120853,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42862,130543,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42863,131671,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42863,131671,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42864,111003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42865,557345016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42866,120429,,true,16,true,true,true,true,130500,108750,true,true,,10,5,false,,,false,,,,,,,true,false,,,,,true
@@ -41182,7 +41182,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 42883,123717,false,true,12,true,true,true,true,150000,125000,true,true,,4,11,true,,6,true,7200,0,0,0,0,37800,true,false,,,,,true
 42884,111606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42885,129652,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42886,85c0bd41-e385-4afb-a20c-abef5f6944f2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42886,85c0bd41-e385-4afb-a20c-abef5f6944f2,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42887,d5a9572d-0121-4b94-9689-51582598b026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 42888,107895001,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 42889,128242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -41987,7 +41987,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 43689,136801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43690,123447,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43691,127260,,true,10,true,true,true,true,150000,125000,true,true,,7,8,true,,1,true,0,0,0,0,50000,0,true,false,,,,,false
-43692,ec16ef53-7481-46ab-8f51-da0eb20e1c26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43692,ec16ef53-7481-46ab-8f51-da0eb20e1c26,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43693,306704042,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43694,139438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43695,126210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -42046,7 +42046,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 43748,123440,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43749,308669007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43750,204661005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-43751,7bdd3eb9-f205-4ffd-a086-9d3278f2c460,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43751,7bdd3eb9-f205-4ffd-a086-9d3278f2c460,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43752,453936015,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43753,134383,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43754,123427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -42081,17 +42081,17 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 43783,136322,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43784,132912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43785,105290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-43786,61ce7446-8a09-45c8-afe8-86c660a00392,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43786,61ce7446-8a09-45c8-afe8-86c660a00392,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43787,126086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43788,609162150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43789,123411,,true,12,true,true,true,true,6500,125000,true,true,,8,7,false,,,false,,,,,,,true,false,,,,,true
 43790,125449,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43791,124884,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43792,136033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-43793,92c8b890-bfbe-4d6a-9cfb-0565890f950a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43793,92c8b890-bfbe-4d6a-9cfb-0565890f950a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43794,131603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 43795,133094,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-43796,a28366a8-8cb8-462c-916c-2ee88168b132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43796,a28366a8-8cb8-462c-916c-2ee88168b132,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43797,135503,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 43798,113661,,true,17,true,true,true,true,30000,125000,true,true,,4,11,true,,4,true,37500,0,0,0,7250,5250,true,false,,,,,true
 43799,105139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -42705,7 +42705,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 44407,138695,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44408,119696,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44409,117302,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-44410,112133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44410,112133,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 44411,673b6ff5-0ab2-4368-a612-dc4231900b7b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44412,111462,,false,0,false,false,false,false,0,0,false,false,,8,12,false,,2,false,0,0,0,0,30000,,false,false,,,,,false
 44413,104905,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -42778,7 +42778,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 44480,125781,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44481,116711,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44482,554979023,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-44483,109004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44483,109004,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 44484,609162117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44485,305646003,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 44486,133069,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -42987,7 +42987,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 44689,138875,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44690,b0176599-3548-4cb7-9691-964f1f0a9a5a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44691,306807026,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-44692,aac99f2d-8f82-478e-a4d9-003e9fc685be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44692,aac99f2d-8f82-478e-a4d9-003e9fc685be,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 44693,f238ab34-a2db-4152-99d5-a6fbd4055fb1,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 44694,b3ecbc6b-8ed8-40bb-8c55-9ff4eccf877a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44695,132430,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -43156,7 +43156,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 44858,117012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44859,139350,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44860,410e0af2-6ed3-42a3-bed8-27ccaf570211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-44861,456188042,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44861,456188042,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 44862,106420,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 44863,201528084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44864,139650,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -43328,7 +43328,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 45030,133900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45031,46852216-9b35-4b82-abcf-2184388cba1b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45032,39c236e9-be16-4579-8d5b-d0ebc7dd21a3,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-45033,b40d4ced-3bd0-4502-b0cb-a374b6233265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45033,b40d4ced-3bd0-4502-b0cb-a374b6233265,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 45034,78243e98-6654-4736-8bbd-ed3b758ef76f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45035,115766,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45036,c5bac4b6-38be-4ab6-b882-489cb3585d85,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -43592,7 +43592,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 45294,104911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45295,113923,,true,12,true,false,true,true,12500,10000,true,true,,7,8,true,,3,true,1,1,1,0,50000,99898,true,false,,,,,true
 45296,102399,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45297,456188010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45297,456188010,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 45298,110537,,true,9,true,true,true,true,15000,125000,true,true,,6,9,false,,,true,18000,4500,0,3500,0,24000,true,false,,,,,true
 45299,126464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45300,139396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -43871,7 +43871,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 45573,117620,,true,14,true,true,true,true,138750,115625,true,true,,0,15,false,,,true,16000,1900,600,2500,15400,7100,true,false,,,,,true
 45574,119342,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45575,5dbd011f-1b25-443d-8e91-28a669f16dab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45576,456188019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45576,456188019,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 45577,112571,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45578,116212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45579,138485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -43894,7 +43894,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 45596,137707,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45597,107810,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45598,105142,,true,0,false,true,true,true,0,373000,true,true,,8,12,false,,,false,,,,,,,true,false,,,,,false
-45599,120167,,true,13,true,true,true,true,27700,150000,true,true,,9,11,true,,1,true,0,0,10000,0,0,15000,true,false,,,,,true
+45599,120167,false,true,13,true,true,true,true,25000,150000,true,true,,9,11,true,,1,true,0,0,10000,0,0,75000,true,false,,,,,true
 45600,123955,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 45601,120870,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45602,360b434d-f7aa-4ef8-b2ca-22a5e9a8b73e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -44229,7 +44229,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 45936,138338,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45937,2523c5af-f15f-457e-afe1-62bef44215eb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45938,fde90630-41b3-4038-800d-644bd13124ea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45939,6ebe8b4d-8948-4cd6-a26a-116023275511,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45939,6ebe8b4d-8948-4cd6-a26a-116023275511,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 45940,138681,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 45941,126088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 45942,306704178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -44351,7 +44351,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 46058,122086,,true,0,false,true,true,false,0,26530,true,true,,0,17,true,,3,false,,,,,,,true,true,0,1,0,0,true
 46059,139627,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46060,111385,,true,12,true,true,true,true,50000,69800,true,true,,13,27,true,,5,false,,,,,,,true,false,,,,,true
-46061,a6e1bd91-e595-412b-9657-85db419ee0ce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46061,a6e1bd91-e595-412b-9657-85db419ee0ce,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46062,130014,,true,9,true,true,true,true,22120,75000,true,true,,4,11,false,,,false,,,,,,,true,false,,,,,true
 46063,138629,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46064,133334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -44429,7 +44429,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 46136,137523,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46137,109937,,true,0,false,true,true,true,10000,3300000,true,true,,2,3,false,,,false,,,,,,,true,false,,,,,true
 46138,9a376f85-66f1-4f10-8ffe-b082c9b2562e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46139,b185741c-da4e-446f-b7cc-a8c3d20d1c85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46139,b185741c-da4e-446f-b7cc-a8c3d20d1c85,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46140,453936163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46141,102933,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46142,ad16df4e-e272-4e65-b2bf-edb172ac0e85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -44502,7 +44502,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 46209,d950d729-b649-4955-b538-18d3e86a26a5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46210,401807050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46211,120854,false,true,13,true,true,true,true,150000,125000,true,true,,5,10,false,,5,true,0,0,0,0,20000,30000,true,false,,,,,true
-46212,ca7df32a-8384-422b-a116-70777debb6b7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46212,ca7df32a-8384-422b-a116-70777debb6b7,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46213,609162183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46214,128616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46215,123373,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -44573,7 +44573,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 46280,109881,,true,26,true,true,true,true,40000,0,false,false,,,,false,,,false,,,,,,,true,false,,,,,false
 46281,456116022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46282,094b453a-d7a9-4083-9534-900179a917ec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46283,a28d368c-6993-440d-87b9-1a2dda6f5add,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46283,a28d368c-6993-440d-87b9-1a2dda6f5add,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46284,112708,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46285,134213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46286,122275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -44635,7 +44635,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 46342,507639005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46343,302667004,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46344,117915,,false,0,false,false,false,false,0,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
-46345,a3c42239-c30e-4ea1-87d8-1f10f06ca7fc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46345,a3c42239-c30e-4ea1-87d8-1f10f06ca7fc,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46346,137558,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46347,5abaeab3-019d-451a-8394-6a76d0a47660,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46348,900030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -44728,7 +44728,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 46435,107062,,true,20,true,true,true,true,22375,134250,true,true,,12,8,false,,,true,25000,0,0,0,0,150000,true,false,,,,,true
 46436,107256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46437,201557086,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-46438,1b956079-8c5f-4448-b94e-79b2d462f157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46438,1b956079-8c5f-4448-b94e-79b2d462f157,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46439,131890,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46440,133027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46441,131199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -44885,7 +44885,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 46592,108461,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46593,609162029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46594,123902,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46595,8ba6177d-bc84-4290-8758-aa70ed76f166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46595,8ba6177d-bc84-4290-8758-aa70ed76f166,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46596,108781,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46597,130301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46598,101102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -44944,7 +44944,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 46651,103007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46652,118260,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46653,302693001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46654,603668013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46654,603668013,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 46655,117263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46656,302650081,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 46657,853f4a61-76bb-4fe3-9d73-bccda668deff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -45744,7 +45744,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 47454,103498,false,true,11,true,true,true,true,59791,92009,true,false,,15,0,false,,0,true,0,0,0,0,50000,0,false,false,,,,,true
 47455,108253,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47456,111629,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-47457,1375a558-cf78-4432-ac6b-fe3cba37b35a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47457,1375a558-cf78-4432-ac6b-fe3cba37b35a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47458,903450,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47459,104775,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47460,408790007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -45834,7 +45834,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 47544,456131016,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47545,903442,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47546,c979e374-6507-4b2f-a6ab-b4a54a3581d7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47547,6363e4b6-8265-4b45-ac7f-7c656f254e0e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47547,6363e4b6-8265-4b45-ac7f-7c656f254e0e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47548,118980,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47549,128676,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47550,302947041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46052,7 +46052,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 47762,128211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47763,138860,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47764,106379,,true,11,true,true,true,true,150000,125000,true,true,,5,10,false,,,true,12400,0,0,0,19350,13000,true,true,1,0,0,0,true
-47765,32575712-1c31-4bb1-914a-1f27d4f7d1b3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47765,32575712-1c31-4bb1-914a-1f27d4f7d1b3,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47766,111864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47767,132995,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47768,208458003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46141,7 +46141,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 47851,110698,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47852,125235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47853,552730004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47854,6d336248-b5e9-4c43-92a8-caa06e25f31e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47854,6d336248-b5e9-4c43-92a8-caa06e25f31e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47855,139972,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47856,37de84a9-6092-4738-9ca3-ddabb8b50873,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47857,111556,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46210,8 +46210,8 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 47920,178c3929-e369-4e01-8d8f-dee68076dd68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47921,138889,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47922,125186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47923,2d2281b7-ad1d-46f8-86f9-514f5edc1f09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47924,a52e3574-d61a-441e-ad55-77f81564ec87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47923,2d2281b7-ad1d-46f8-86f9-514f5edc1f09,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
+47924,a52e3574-d61a-441e-ad55-77f81564ec87,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47925,111503,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47926,138609,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47927,107852002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46261,7 +46261,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 47971,134795,false,true,11,true,true,true,true,150000,125000,true,false,,,,true,,16,false,0,0,0,0,0,0,true,false,,,,,true
 47972,104938,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47973,134135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47974,e4ecc13a-8f33-4466-b265-0db22a2f0935,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47974,e4ecc13a-8f33-4466-b265-0db22a2f0935,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 47975,641f7daf-c11c-444d-9f70-516529bb5fab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47976,132520,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 47977,111535,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46293,7 +46293,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48003,456181095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48004,8a7e9738-478b-4b9d-85c3-5a47ce18db50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48005,cca364b3-a767-49f0-8d36-3f75e4752f03,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-48006,c2164d34-ff23-4ef4-881d-ca2d691a3795,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48006,c2164d34-ff23-4ef4-881d-ca2d691a3795,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48007,38036222-c9ea-48e2-a07a-0f3a44981ff0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48008,131928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48009,113129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46591,7 +46591,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48303,302694007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48304,111048,,true,19,true,true,true,true,43400,111875,true,true,,4,11,true,,2,true,17500,4400,4300,9000,14800,0,true,false,,,,,true
 48305,53d2e53e-f688-4be3-9143-50dbcbf07f4b,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-48306,0e495391-697d-4bc7-a10a-288b3a55e3ae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48306,0e495391-697d-4bc7-a10a-288b3a55e3ae,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48307,201504006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48308,106077,,true,12,true,true,true,true,134250,75000,true,true,,6,9,false,,,true,0,0,0,0,0,50000,true,false,,,,,true
 48309,108271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46785,7 +46785,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48497,fc76824b-1ba9-48a8-846a-2e0cd8a0de99,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48498,812c7fd8-bbc8-40f8-9e66-0a7707f394c5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48499,dbcc0104-0118-47be-a8a7-e695cb8c30a7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48500,139101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48500,139101,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48501,108601,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48502,e77d0ac6-6c3c-44b8-87e0-cf42b0c0d4f4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48503,408790004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46880,7 +46880,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48592,900458,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48593,102673,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48594,557312013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48595,132330,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48595,132330,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48596,92c66cf0-18a6-40e0-bb22-d4875e326108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48597,202249012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48598,107637,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46941,7 +46941,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48653,115762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48654,113659,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48655,139722,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48656,1d5ecd62-2a45-4cb9-a25d-f9007fa3fe62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48656,1d5ecd62-2a45-4cb9-a25d-f9007fa3fe62,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48657,42004265-11c1-4517-b51f-8d9f90928f8d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48658,136217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48659,126084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46957,7 +46957,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48669,302610022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48670,136226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48671,112470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48672,11cb6cd4-0b01-4647-9820-d77e763d9f8c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48672,11cb6cd4-0b01-4647-9820-d77e763d9f8c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48673,134100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48674,552777055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48675,68813601-af7e-4192-b9f1-b9c5cc5402a1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -47035,7 +47035,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48747,74eb0eb9-b5de-4bba-8b4c-4aa099dd2557,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48748,139903,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48749,201528016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48750,a4a2b2dc-893e-414c-85df-306aff8f9049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48750,a4a2b2dc-893e-414c-85df-306aff8f9049,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48751,135608,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48752,201512005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48753,306704120,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -47099,7 +47099,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48811,119268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48812,112236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48813,d3486bba-2972-41e7-a2f7-afcd4bed6f44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48814,a524ecd2-b0de-425a-a427-f02ebd6bca9e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48814,a524ecd2-b0de-425a-a427-f02ebd6bca9e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48815,100404,,true,11,true,true,true,true,14785,150000,true,true,,7,13,false,,,false,,,,,,,false,false,,,,,true
 48816,137647,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48817,122190,,true,19,true,true,true,true,54250,125000,true,true,,7,6,true,,2,true,0,0,0,0,6900,6850,true,false,,,,,true
@@ -47221,7 +47221,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48933,121673,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48934,83db11b2-5170-4188-b63d-dc2556992227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48935,116285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48936,0d89d4d5-be75-4e0a-9e89-eabe17754b28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48936,0d89d4d5-be75-4e0a-9e89-eabe17754b28,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48937,106003,,true,19,true,true,true,true,150000,125000,true,true,,7,8,false,,,false,,,,,,,true,true,3,2,0,0,true
 48938,124087,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48939,110616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -47255,7 +47255,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 48967,bc874e08-7e07-4173-8812-905127ca5923,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48968,42349567-42d5-467f-b623-c71942ae9ebe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48969,4d64501c-2f29-4150-b5cf-c08f9576c89e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48970,4cb4f52c-87a0-4ccf-975a-0399dd5e09e1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48970,4cb4f52c-87a0-4ccf-975a-0399dd5e09e1,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 48971,2b41139f-ef9c-4621-926b-f1b499d0572e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48972,133188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 48973,32442b1f-6191-41cb-98af-d9fe71c4b828,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -47396,7 +47396,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49108,127454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49109,119081,,true,10,true,true,true,true,150000,125000,true,true,,10,5,false,,,true,0,0,0,0,50000,0,true,false,,,,,true
 49110,130816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49111,e287d8a7-3c44-4681-9a72-92d6e52f96ba,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49111,e287d8a7-3c44-4681-9a72-92d6e52f96ba,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49112,456131024,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49113,131695,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49114,125158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -47500,7 +47500,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49212,609162124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49213,458937046,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49214,201994013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49215,302baa00-717d-4640-8783-8c4213c15326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49215,302baa00-717d-4640-8783-8c4213c15326,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49216,107858,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49217,125063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49218,408704004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -47836,7 +47836,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49548,9bfdc582-073a-4715-b4a7-6c02b3efb4a3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49549,113650,,true,10,true,true,true,true,59500,125000,true,true,,7,8,true,,5,true,50000,0,0,0,0,50000,true,false,,,,,true
 49550,201967064,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-49551,138500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49551,138500,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49552,a198de2c-d3a7-425c-837a-cccaa5b46cc3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49553,135560,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49554,108582,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -47903,7 +47903,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49615,115931,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49616,109448,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49617,132309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49618,e32313a0-8b2c-4f8e-ac87-c7e3cb5069c8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49618,e32313a0-8b2c-4f8e-ac87-c7e3cb5069c8,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49619,201537038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49620,86237654-9a9a-4b8c-a7c6-07d3d41dd8de,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49621,c68906bc-4c24-4d84-a36f-c9e5445184c0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -47939,7 +47939,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49651,205133021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49652,120578,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49653,456194130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49654,cefed34a-5c60-4b5a-91d5-f906f1fe6207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49654,cefed34a-5c60-4b5a-91d5-f906f1fe6207,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49655,6c81d5ff-6855-4497-b7a7-c71e9e97af47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49656,ad81adc9-0baf-46df-849e-1d2aa1bed89a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49657,609162132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48091,7 +48091,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49803,dab261f0-503e-4a02-9287-8e15c0e9fbd8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49804,4544211a-4ddd-4ad0-a2c2-fa4d28386b75,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49805,113662,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49806,faf8385d-9be4-47ff-8ebe-047e7e255cfd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49806,faf8385d-9be4-47ff-8ebe-047e7e255cfd,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49807,111169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49808,123751,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49809,120823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48150,7 +48150,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49862,101326,,true,11,true,true,true,true,150000,125000,true,true,,4,6,true,,2,true,10000,5000,5000,10000,10000,10000,true,false,,,,,true
 49863,558503008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49864,113670,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49865,132366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49865,132366,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49866,104681,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49867,061cc56e-acd7-4274-924d-ab8d98c8d097,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49868,131022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48173,7 +48173,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49885,133025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49886,d864c731-a788-49f0-8de3-9872b61247d4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49887,104301,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-49888,0aa9be07-ecc1-4884-b986-6434eec8fbef,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49888,0aa9be07-ecc1-4884-b986-6434eec8fbef,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49889,c3fa692f-235c-415f-99b4-032c7ea9e774,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49890,456194100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49891,609138026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48184,7 +48184,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49896,117627,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49897,903452,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49898,976fc4ee-becc-45c1-a2af-a85e1a8a032c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49899,456188012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49899,456188012,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49900,28fd510a-8110-4606-9258-74719e026218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 49901,111009,,true,15,true,true,true,true,150000,125000,true,true,,7,8,true,,50000,true,15355,0,0,0,21000,75000,true,false,,,,,true
 49902,201213101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48199,7 +48199,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 49911,93572d23-4562-48ea-90e9-fcb8c8fb70d2,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49912,201574014,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49913,ccfdf44d-7582-482b-913e-6bf11c1eae76,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-49914,6a503fb4-d4e1-4402-879c-6dbb01ff292c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49914,6a503fb4-d4e1-4402-879c-6dbb01ff292c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49915,120942,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 49916,102653,,true,15,true,true,true,true,125000,150000,true,true,,11,9,true,,0,true,17200,3450,0,4300,0,50,false,false,,,,,true
 49917,558503010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48301,7 +48301,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50013,111277,,true,0,false,true,true,true,0,0,true,true,,10,10,false,,,false,,,,,,,true,false,,,,,false
 50014,456131043,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50015,117640,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50016,456188016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50016,456188016,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50017,0b1e6832-480e-45f2-a948-f5dfa72db0f3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50018,457247017,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50019,558558027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48345,7 +48345,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50057,111099,,true,14,true,true,true,true,55000,112500,true,true,,8,7,false,,,true,7800,0,0,0,37200,0,true,false,,,,,true
 50058,302650033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50059,103204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50060,835cc515-202a-447b-a522-ecbc5397ed1c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50060,835cc515-202a-447b-a522-ecbc5397ed1c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50061,8994e66a-a1cd-4035-967c-394c26c86537,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50062,27e3677b-8e24-4f75-b045-d97c2b3f1a39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50063,302657003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48364,7 +48364,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50076,132433,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50077,302650094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50078,111192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50079,fe57f43c-23dc-425b-8355-e1c14decdadf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50079,fe57f43c-23dc-425b-8355-e1c14decdadf,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50080,4249951c-eaf3-4730-891c-c0bf863088c9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50081,e3c394b8-3942-40b2-a140-5cf6f1ef5b13,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50082,138468,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48385,7 +48385,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50097,133623,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50098,128700,,true,12,true,true,true,true,17500,150000,true,true,,7,8,true,,1,true,5000,20000,0,0,25000,107500,true,false,,,,,true
 50099,39374353-f517-4687-bb98-af2bf14ab030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50100,456188017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50100,456188017,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50101,b9c834d5-2927-4864-a2b2-27b51afce584,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50102,205143081,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50103,c1638f9a-835a-44c3-b5d3-e7649bd4c5fd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48427,7 +48427,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50139,139614,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50140,4277e0f9-ec65-4624-9425-700a4e68655c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50141,140062,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50142,3737000c-2250-4aa1-af42-dd24f636a031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50142,3737000c-2250-4aa1-af42-dd24f636a031,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50143,609162174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50144,119182,,true,11,true,true,true,true,43050,0,true,true,,8,7,true,,7,true,25000,5000,0,0,15000,5000,true,false,,,,,true
 50145,111731,,false,0,false,true,false,true,12000,12000,false,false,,,,false,,,false,,,,,,,true,false,,,,,false
@@ -48529,7 +48529,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50241,506469027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50242,ded2b108-5f5f-46b9-a445-26c2833a92d4,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50243,114093,,true,27,true,true,true,true,12223,125000,true,true,,5,10,true,,6,true,0,0,0,0,0,137777,true,true,2,0,0,0,true
-50244,94dbad2b-dc6d-464d-a062-19b748214a1d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50244,94dbad2b-dc6d-464d-a062-19b748214a1d,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50245,127188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50246,6bd0b56f-c2cb-4812-874c-78f80a69acbe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50247,116855,,true,10,true,true,true,true,134250,111875,true,true,,5,10,true,,3,true,16000,0,0,6000,22750,81798,true,false,,,,,true
@@ -48583,7 +48583,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50295,8bae5f9b-1c1d-4238-a6dc-96f5cf0e0682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50296,304827018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50297,858968de-9761-4865-b57f-81c40b08006f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50298,138075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50298,138075,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50299,124852,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50300,4a333474-9ebb-4f46-a12a-ecbfeab6e783,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50301,201586010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48625,7 +48625,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50337,132049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50338,302637013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50339,119360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50340,456188003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50340,456188003,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50341,456131055,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50342,303387050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50343,135574,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48745,7 +48745,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50457,111321,,false,0,false,false,false,false,0,0,false,true,,10,5,false,,,false,,,,,,,false,false,,,,,false
 50458,04f88df8-c8fb-47f4-b617-46ad4914c90a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50459,609162141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50460,93b06dd2-2d6c-49e1-9fc5-1a71e6847381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50460,93b06dd2-2d6c-49e1-9fc5-1a71e6847381,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50461,d8103aa4-7bb5-44da-bbaf-0e78c53a7023,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50462,5ff1ab99-7d96-4a4a-a181-938409f3fcaa,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50463,df1e9904-3e64-4be8-b1ed-d7d4e57fa89d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -48986,7 +48986,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50698,87a4d643-eaf6-48cc-9f92-c66a2ad149db,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50699,febaf0fe-5856-4a14-ac06-d6d44f273ec2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50700,127195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50701,303330141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50701,303330141,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50702,39bc8052-cdbf-46b5-a79e-dce8951ce8ca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50703,128072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50704,1084ae0e-e6df-4b7b-89df-c4d946611c36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49002,7 +49002,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50714,20cd765b-28ce-4f8c-9da2-3f5f151ff9ea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50715,302637001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50716,0bb46c40-442c-4576-ae43-0099fc706b24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50717,883b06c9-15af-4293-b429-6920b07270ff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50717,883b06c9-15af-4293-b429-6920b07270ff,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50718,115848,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50719,139087,,false,0,false,false,false,false,2000,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
 50720,a4096b53-a767-461f-917a-8f79a4e175fc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49047,7 +49047,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50759,47d99433-890f-459a-a2b6-feeff51011f7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50760,111328,,false,0,false,false,false,false,0,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
 50761,f2295575-8bdf-4203-97d4-69ce04e10ef1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50762,5545fe2c-4eb8-4dad-8d09-bf51374b55ea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50762,5545fe2c-4eb8-4dad-8d09-bf51374b55ea,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50763,d6747d26-26ac-4c18-8a1c-c1b61514383b,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50764,7069b2b2-7ec2-4229-8013-a9072ea95e09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50765,ce0f59f8-55f9-4446-9fba-76ead20467d6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49173,7 +49173,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50885,12525fb3-314e-43b7-82a0-86e5bf7eba47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50886,a5cc9bd3-4f89-4dd2-bc5c-3bbfa64600dd,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50887,7c44fcfe-a089-4a07-9d68-513cad660b9f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50888,303330187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50888,303330187,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50889,406f982d-ec3b-4a30-8bb2-f327589d3862,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50890,a997b827-d2f8-4d94-899d-ba30ef05475b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50891,0b602c74-ad46-4a5b-8116-5e18206e6ae2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49183,7 +49183,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 50895,6ae3ebb8-2600-43a7-8c7d-18fc3645e875,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50896,e5314192-742d-4c7b-9180-4015b62355a1,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50897,449d0cfe-1267-446f-ab33-5eb933e79ef0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50898,303330046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50898,303330046,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 50899,5feba742-70dc-4473-8fc0-aa2ea4715979,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50900,4a0fa159-cee5-4f85-b1ca-f9ae41780d2f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50901,9e101b73-c84b-4c75-9f95-3092100eb6ff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49674,7 +49674,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51386,72e07fc9-77b0-4562-b807-1c49c6c8f586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51387,c84262d3-4833-4630-bc5a-4e928b7e3bd9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51388,6cbbdb9c-8dd5-4584-8946-d5d5823a9bbd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51389,135763,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51389,135763,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51390,6a48a199-297a-4f68-892f-43273ee0555e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51391,507655001,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51392,104147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49834,7 +49834,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51546,401807083,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51547,110423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51548,a00ada6c-cc73-4104-94b5-a8715b286f47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51549,2e328c59-863f-4f68-bc69-7db3a46a715a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51549,2e328c59-863f-4f68-bc69-7db3a46a715a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51550,456181124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51551,100651009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51552,201213020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49849,7 +49849,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51561,a1de0d49-ffc0-487a-ac55-c39bb24da34a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51562,5813a4e2-8beb-43d6-8376-8fad34ba90f3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51563,112166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51564,303330233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51564,303330233,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51565,201555018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51566,8cc7c56f-7e69-4a16-bbed-0d5a445e6478,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51567,0f97d594-107d-4ac5-9e58-191d9b627c4d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50001,7 +50001,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51713,132288,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51714,2efedaf3-6b02-4b64-85b1-ce7c2507a8c4,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51715,532b84dd-8eec-4a09-9f8d-0decdf288035,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-51716,c2bc941f-1fd4-40f2-8d9a-bb219c22d554,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51716,c2bc941f-1fd4-40f2-8d9a-bb219c22d554,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51717,b0d8ae5b-4ebd-4284-bd4a-3794b9ccfe1c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51718,089bb395-a8a1-499a-a63b-cf91a8aed91f,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51719,102317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50018,7 +50018,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51730,8638d6c6-7fe6-4f58-a840-ddf6c2158a3b,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51731,128060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51732,85e8534b-4c47-41ae-aca1-f93d9ebd1ecb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51733,d5208051-6bb9-439f-9b2d-6d9492dddb2a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51733,d5208051-6bb9-439f-9b2d-6d9492dddb2a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51734,c99d30fe-d79e-4982-b6eb-a87f63b6d8ba,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51735,03f46382-f626-498d-97dc-78a356ce8975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51736,117619,,true,23,true,true,true,true,150000,125000,true,true,,8,7,true,,23,true,6000,0,0,0,0,0,true,false,,,,,true
@@ -50033,7 +50033,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51745,36a9bebb-e47e-4ea6-86ed-56d560df94ae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51746,4e603b18-4e41-4cd1-b747-7acefb65b32a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51747,119732,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-51748,8421b656-f3a9-4b36-bdc0-c85be88666a1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51748,8421b656-f3a9-4b36-bdc0-c85be88666a1,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51749,603605009,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51750,498b9fd1-1ebd-4d08-bb3f-5279e657897a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51751,128046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50069,7 +50069,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51781,603605024,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51782,110517,false,true,14,true,true,true,true,150000,125000,true,true,,22,21,true,,2,false,0,0,0,0,0,0,true,true,1,1,0,0,true
 51783,201512010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51784,887c58ac-cdb4-4262-9c9a-c5fb38695a29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51784,887c58ac-cdb4-4262-9c9a-c5fb38695a29,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51785,102318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51786,140444,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51787,132740,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50160,7 +50160,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51872,4359d760-c01d-46ac-8fff-32c81ddbda04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51873,24e093be-4925-44ce-90e7-10a780a518ec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51874,588dd5fb-6e67-4f4e-b819-c6f00c8dc51e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-51875,709277ce-0a48-441a-85bd-b3f27346df9f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51875,709277ce-0a48-441a-85bd-b3f27346df9f,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51876,456116071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51877,f259cdce-022d-4a06-8d02-d7efb731bc66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51878,ae322cd8-0e2b-49f9-9020-a7565aaa5102,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -50179,7 +50179,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51891,c005f6db-d01e-4cc5-b636-91f24f5cfae8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51892,c5d6e9cc-ffeb-46c4-92d8-585ffa8e6257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51893,404161004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51894,56a3a85b-1758-4d86-9886-417f6467e039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51894,56a3a85b-1758-4d86-9886-417f6467e039,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51895,aecf4efa-d41e-4b9b-91b9-abf6aa246f7a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51896,4d719a46-d7f4-437b-b223-33590bbab40c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51897,e1087d7c-d4a6-46f3-a00a-39d8294e85f0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50201,7 +50201,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51913,603605013,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51914,128052,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51915,d0ff3412-a0f9-4445-ab68-6b18a67ab658,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51916,e962566b-7803-450a-8278-ec0ac8e97d1a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51916,e962566b-7803-450a-8278-ec0ac8e97d1a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51917,f59b26ca-3fe1-46a2-9310-eb127070ac25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51918,303330008,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51919,201512012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50224,16 +50224,16 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 51936,226e7110-d8c5-43b1-b433-ec250485526a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51937,9651a35b-21ba-4f3c-9237-675c40aa15db,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51938,52b6ee74-2c54-43d9-8ac7-447b7213ed28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51939,135472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51939,135472,false,true,10,true,true,true,true,150000,125000,true,true,,5,20,true,,10,false,0,0,0,0,0,0,true,false,,,,,true
 51940,558549005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51941,6282a757-709e-41b4-9536-6bd05dc3611f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51942,128045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51943,131557,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51944,44c3fa76-ad6c-4625-bffa-31b2a838342c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51944,44c3fa76-ad6c-4625-bffa-31b2a838342c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51945,139737,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51946,140480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51947,4c223a67-8edd-4e03-8842-54a26b523ad2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51948,6f51b273-697f-41d2-97d6-8ab1557a7556,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51948,6f51b273-697f-41d2-97d6-8ab1557a7556,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 51949,78e37c23-df8f-4d91-b66c-89bf9efb5339,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51950,609117098,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 51951,140110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50308,7 +50308,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52020,abec6475-22ff-4688-9464-91ab69c97228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52021,202266046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52022,137942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52023,977a40f1-1e5f-49f1-80e0-495f57205054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52023,977a40f1-1e5f-49f1-80e0-495f57205054,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52024,ac38632b-58b9-47b6-97b2-de4aea2ec612,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52025,e3693846-c56a-4ae1-8aa8-6579781dbc03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52026,209239f2-3e98-4a6f-88a2-ac090465c138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50319,7 +50319,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52031,dc67e541-d450-408a-8392-3c4e83ddcd2c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52032,76b7ec8b-4887-4f5a-8466-ce4d2ec6cf71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52033,69b266ff-6b34-4e33-9127-7c41260e35ee,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-52034,cefc116b-46e7-496c-8eb9-b2f6c28cd856,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52034,cefc116b-46e7-496c-8eb9-b2f6c28cd856,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52035,88a41743-ee04-4db6-a4fe-ff1d51081fe8,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52036,306768173,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52037,cbc6642b-d14b-49c4-907c-0c9ba1c0405f,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -50356,11 +50356,11 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52068,685b1eea-2fdc-486b-8ea7-3974a875b31f,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52069,110519,false,true,6,true,true,true,true,150000,125000,true,true,,16,53,true,,1,false,0,0,0,0,0,0,true,false,,,,,true
 52070,4f589d23-2df4-452d-be73-b43fd7eea736,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-52071,41df39b6-e118-4658-927e-b04323481911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52071,41df39b6-e118-4658-927e-b04323481911,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52072,fba0b287-26a0-4666-b4ba-3847a08d84ed,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52073,e82c80cb-4dda-4231-9869-e9f63e1ad9c0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52074,228fc731-4d7a-4672-b857-9353245a3457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52075,5dad714f-d3e1-4616-a9d7-313f31f3c51a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52075,5dad714f-d3e1-4616-a9d7-313f31f3c51a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52076,bfce747f-7f26-4b06-bbc6-ef54dd58a1eb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52077,95128a7f-65f7-4804-8715-e275610838d9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52078,4f51a90e-b838-4394-9c02-b67c39b348b0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50373,9 +50373,9 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52085,553291016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52086,a097e8e1-b274-4d27-a971-3cefc51d6b66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52087,108543,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52088,91a0af9a-1dc1-4efb-b153-a872e2f55dae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52088,91a0af9a-1dc1-4efb-b153-a872e2f55dae,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52089,0f462bb6-58cc-4256-bed6-9dff050b0886,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52090,9c3ee942-aa38-4bb2-8f86-21fac5288a10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52090,9c3ee942-aa38-4bb2-8f86-21fac5288a10,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52091,135646,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52092,137186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52093,df1f4db6-3758-4078-8403-45f64dc9fa23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50400,7 +50400,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52112,a03b4cef-096e-45dc-b249-d9f0f1fd9758,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52113,110513,,true,10,true,true,true,true,100000,125000,true,true,,9,27,true,,4,false,,,,,,,true,false,,,,,true
 52114,df3222d0-3ded-48f5-8b80-b64eb849fb56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52115,cf2cf7a1-e0dc-4864-967c-f007c48576ce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52115,cf2cf7a1-e0dc-4864-967c-f007c48576ce,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52116,ab7db97c-6efb-4f55-a0bb-c388d82c3e2c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52117,cddb0481-f529-442a-9341-2f823b22ed0b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52118,456188004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50503,7 +50503,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52215,0c137d7e-613f-41a2-87d1-fcab194923d1,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52216,130891,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52217,d4d4011a-0f01-4811-b239-09ce5f1d5cf6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52218,a2b93e71-40e0-492f-b1f6-8dd8c25b35ca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52218,a2b93e71-40e0-492f-b1f6-8dd8c25b35ca,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52219,111148,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52220,32c9c7dc-3fbe-465c-a659-1f632e8b1e0c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52221,33d30361-ea22-454a-aefd-d6ab865965d2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50528,7 +50528,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52240,25bd9f30-3421-44d0-a613-062c5d8fa737,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52241,7d687951-baf9-427b-8631-de3d6eb31457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52242,f8ac002d-e315-49b6-8239-c2d32ad9c1d2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52243,233b4bf4-84e9-465e-bc8d-951055b13d6e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52243,233b4bf4-84e9-465e-bc8d-951055b13d6e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52244,130833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52245,7b8a5801-5354-4ae3-b6a4-99ac57fa34df,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52246,131858,,true,11,true,false,false,false,0,0,false,false,,,,false,,,false,,,,,,,false,false,,,,,false
@@ -50601,7 +50601,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52313,7646718e-96a0-4575-b6d6-a5f92e178fcf,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52314,a4530274-1595-462e-bdc4-43748fa89733,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52315,4b760b42-6b28-49ac-8fb4-3ee52283b3a1,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-52316,e9531e09-22a4-4a5e-9202-bca3083771e3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52316,e9531e09-22a4-4a5e-9202-bca3083771e3,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52317,fd6ec624-26b8-4753-a0c8-8824358feceb,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52318,9d45b8d6-cbaf-4d45-ab8a-ec3438e06d73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52319,48be89a4-ac55-4047-b315-eafd1fa61fcb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50657,7 +50657,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52369,805702e3-bbdf-4b07-8837-ef22c77e35e4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52370,a22fb240-78c8-411e-ab40-746d75d05d85,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52371,ce85bdf1-5501-4178-8c46-9642974d5c6c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52372,d78a6fa0-dce4-410b-a443-23084e21f2a9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52372,d78a6fa0-dce4-410b-a443-23084e21f2a9,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52373,5c863e45-6e99-4573-8f05-31ae58062ee1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52374,a3eea5d5-fd14-40e5-834d-ae21af807205,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52375,6fe136c9-e8d7-4765-b72d-d89e84c7518f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50666,7 +50666,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52378,5a84b0d8-7e93-4b72-85eb-4adeaca74b15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52379,e8a08871-4e99-4ddf-aa91-9e56b6e189e8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52380,201347014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52381,76379c4d-f607-437d-ba7e-826d46b4a558,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52381,76379c4d-f607-437d-ba7e-826d46b4a558,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52382,0c87dbd8-47c1-4ce4-bae6-f0f1a22bd280,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52383,c8d34f2c-7218-4417-b061-ce86819a0b88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52384,95beccf6-2c07-454a-9461-d28e23af51f7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50696,7 +50696,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52408,609159012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52409,da876cba-464a-4653-94cc-5cc8c2aae72b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52410,456188034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52411,6b378abe-d3d2-4255-8c13-dc22ab31cdc1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52411,6b378abe-d3d2-4255-8c13-dc22ab31cdc1,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52412,9d74a961-7d28-4ba3-8883-5a911c8931d7,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52413,d9ac1dcc-57d9-4ec1-a615-0ecb59b2d1dc,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52414,db098172-0af7-41cd-a991-8a2be6319b45,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -50716,14 +50716,14 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52428,581900e7-b965-4315-99e5-a360e3a7827f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52429,131725,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52430,ba9b039a-b166-4b9e-a3f1-3ccfaab7f157,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
-52431,53682a0a-0ff4-42ec-9a5d-0513e7ba3213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52431,53682a0a-0ff4-42ec-9a5d-0513e7ba3213,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52432,b638cf71-d7cd-4d6d-a21f-5b6bdd77059f,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52433,32c693cb-8dab-4432-b2c8-73b72b392da5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52434,609162310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52435,a0e8a19d-7076-4b51-b9a1-b63b63dc0626,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52436,a0f87335-7b92-48bf-80b6-6bfb0025c06d,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52437,83d229d3-87e1-489c-b523-3a81ba6a04c0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52438,75103fe7-216b-46ee-acfc-c58c67d2c5ed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52438,75103fe7-216b-46ee-acfc-c58c67d2c5ed,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52439,913043a4-5938-4d6e-8727-c77196624de2,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52440,e82b65a9-4b7f-4730-a2a8-756a368f397b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52441,38b28628-aaba-442f-a440-5e3c8d8c5d8d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50741,8 +50741,8 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52453,fb661f60-8c15-46cc-a1c3-4ca444903288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52454,267e35d4-2573-4712-9304-43c9f5d7c292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52455,8166963a-7280-469b-bf23-77a609dc2fd1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52456,135324,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52457,1867a804-c9bf-49e9-afe5-266c2fb8fea1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52456,135324,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
+52457,1867a804-c9bf-49e9-afe5-266c2fb8fea1,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52458,1ffe2064-fcc9-4112-a88f-fbacead77d4e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52459,e68cebcc-e9e5-45d4-8353-db1035f05c9c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52460,c9a13e9c-0a54-4936-9d04-3e3ae53d90e8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50770,7 +50770,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52482,3b639cc0-1336-49ee-aba7-dd70aa150cba,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52483,37961b15-b364-433c-9a00-b580cd77e795,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52484,0e853092-40b5-48be-bba4-03216555f998,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52485,7f6e14ea-d111-46cc-b7bd-fe8f84216c35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52485,7f6e14ea-d111-46cc-b7bd-fe8f84216c35,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52486,5ea4432b-3dcd-4e87-b7a6-19cb52403752,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52487,ee80b3da-a8db-4627-936f-57403c204168,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52488,1e59072d-f5b3-4964-88d6-77f8b494d49e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50831,7 +50831,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52543,134098,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52544,507619007,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52545,6625a3e0-0aa7-4025-a0ef-e5aa94bac472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52546,507619018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52546,507619018,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52547,108276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52548,108268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52549,7a195399-1a33-4987-9409-1eb9e2553a9a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50843,8 +50843,8 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52555,e88f58e4-99d5-4768-9fec-4b6eb09b3b87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52556,d7655fd1-8e6f-403d-9ee6-555fb6794406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52557,76368c04-2c08-4cba-937e-f8900fa56d32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52558,e49979ff-9f03-4445-8c17-3e811812ea15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52559,ada04a18-ab92-48c4-9006-3400eae233c8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52558,e49979ff-9f03-4445-8c17-3e811812ea15,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
+52559,ada04a18-ab92-48c4-9006-3400eae233c8,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52560,0f3c5d1a-f4ff-471d-9090-4a26dd53057e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52561,132169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52562,eb5db61e-af71-48d7-aaff-8e77ea5cb5cb,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -50867,7 +50867,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52579,134705,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52580,f9b6945e-fe8b-43dd-95de-4eb17027bfeb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52581,9e813a76-54e1-470e-aafb-0bbb45c4beb0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52582,ffe5492c-e2f5-4274-b6ba-cf0a81afcd0f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52582,ffe5492c-e2f5-4274-b6ba-cf0a81afcd0f,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52583,03d24c32-807b-4eb5-a90d-fea0d4a69ac4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52584,a9060823-a448-4749-9475-55b7700ceac1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52585,306768215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50895,19 +50895,19 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52607,139285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52608,efa08006-baa8-4ec9-9875-3a74067b2535,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52609,b6210939-02bb-40f9-83de-6f30a73c7a27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52610,6f1ffa88-58c4-4fe8-9d2f-cf4761318002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52610,6f1ffa88-58c4-4fe8-9d2f-cf4761318002,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52611,fd96d499-8cd3-4645-95eb-7342ab66840a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52612,140412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52613,4a473da3-f9bf-4275-bb6c-1a53dea27543,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52614,bedf4585-c870-45a7-843c-9fe506397de9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52615,ec2d1af1-6864-4ff9-8fba-317c25c61f21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52616,223a1607-0cc6-4be0-9359-d31a2e1a5f0e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52616,223a1607-0cc6-4be0-9359-d31a2e1a5f0e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52617,b5aa3e1e-5a07-4620-b9cb-f5697698a46e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52618,201555014,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52619,6fe2a2f1-8c33-4f78-8b67-286fbfb141fc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52620,62d02598-145f-4623-9ba2-8ded43aa9598,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52620,62d02598-145f-4623-9ba2-8ded43aa9598,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52621,134667,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52622,d8255753-43eb-4ddc-8b63-f680c00e82a3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52622,d8255753-43eb-4ddc-8b63-f680c00e82a3,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52623,3231c4be-f3f4-456b-a19a-9d7bbaf9607e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52624,0911e111-4a5b-4848-b7f9-c7ab8c518060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52625,5f37a386-ea62-4859-86b0-3587be137d72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50947,7 +50947,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52659,35a6eb2b-8bb9-48ae-8daa-feb689bdf3db,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52660,bd79fdf2-67d2-430e-8c5b-6fb66d700c61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52661,609162017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52662,a48d4097-f5c5-429a-87d5-e61cb88cd7d8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52662,a48d4097-f5c5-429a-87d5-e61cb88cd7d8,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52663,355939cc-0c88-426f-930c-4d52d2bbc03d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52664,70a21d07-0ca2-445a-a28f-c26556a5652c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52665,76b35288-06b6-4171-9436-8c959fd9de27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50959,7 +50959,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52671,cf2cb98e-6e3d-4a3f-82a2-1691630bfe68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52672,5dc0a720-26b6-479b-b298-e1c863c5be0d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52673,609159006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52674,2497cba1-18b3-46cd-a7e7-595586cfed7c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52674,2497cba1-18b3-46cd-a7e7-595586cfed7c,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52675,456194034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52676,e5d09fae-b965-4269-927f-f7e8db79483a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52677,be78107b-2de0-4e07-82aa-fd40b2bf7a20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50972,7 +50972,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52684,139616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52685,140385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52686,140063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52687,a1663e01-3169-482e-a544-a29c8f0dab60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52687,a1663e01-3169-482e-a544-a29c8f0dab60,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52688,903424,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52689,b8bfe36e-3ca8-47ba-ac19-fcf138ddaf14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52690,609159004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50991,7 +50991,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52703,609159017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52704,c9c832a1-5c3e-4b88-82ca-5a3330421f83,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52705,109b085c-2684-43b7-b257-a2c359a8bf25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52706,dff1c204-808b-4fb1-9f87-62dde485ef05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52706,dff1c204-808b-4fb1-9f87-62dde485ef05,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52707,6dc223bc-4a55-4e8f-96ab-7ba5b5a06f5e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52708,3408ecbb-d490-4677-9c9c-8aab975546db,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52709,15703e26-e581-4573-aff3-ce3fe293cd7d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -51013,7 +51013,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52725,9beee087-4f69-45e6-a1a0-158b1e83a867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52726,48d3c5fb-e4cd-43d7-9628-7e9ef4669df1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52727,b5ba0e56-2229-4055-9e4d-c48a1f9bed3f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52728,625a294e-7e2e-44bc-ac0c-645adef3c335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52728,625a294e-7e2e-44bc-ac0c-645adef3c335,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52729,664dbbfd-0e18-4d4d-bb8a-69c2e550d605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52730,a54aab6e-636c-4514-abbd-2fb88b00a881,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52731,c84be463-02ff-49b5-96fc-0c162c9257e3,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
@@ -51026,12 +51026,12 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52738,3fe4792d-f01e-4299-8144-722e5fd7140e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52739,13650ceb-6407-407c-9585-1ba0e32618ff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52740,d0d3ebe3-1290-4818-a564-6dcb7d9967ec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52741,86fe250f-5576-4028-8f35-55d4198d2863,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52741,86fe250f-5576-4028-8f35-55d4198d2863,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52742,cd959eb0-5d37-48b9-b467-c0fc76346c5a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52743,9210b1b4-68a8-474a-b446-c3fab22291c8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52743,9210b1b4-68a8-474a-b446-c3fab22291c8,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52744,ceae6122-0a20-44b5-a1c4-74cd1e24db7b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52745,3382dd14-5276-4ba4-ac01-adaa1d2a9022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52746,d4082c14-f132-4e51-904d-8e781b1d974a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52746,d4082c14-f132-4e51-904d-8e781b1d974a,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52747,59d501eb-6e4c-477f-a312-be64cbab553d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52748,7ff426c7-29e8-4a54-a56c-2c631ea6951c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52749,849d805e-1837-4850-af39-a444f48cb7f3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -51057,7 +51057,7 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52769,702ebda6-f58e-4f32-8a0f-8bb37558d954,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52770,921a4013-9381-4469-9eaf-6e7e06dd1e53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52771,66b9e832-2336-4872-a39a-d6e2dab10d84,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52772,40dce74b-0e99-4055-9b55-5c3c6e9e718e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52772,40dce74b-0e99-4055-9b55-5c3c6e9e718e,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
 52773,6ee57c36-4e09-4af9-aa4c-f5ca52e8199f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52774,48e58c63-5932-41a2-8b10-d6b061c7c5ec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52775,302637012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -51070,3 +51070,31 @@ id,eiin,smag_purchase_resolution_done,smag_expense_distribution_done,incentive_t
 52782,4656010f-3a68-4754-ac16-f1abb87b61fb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52783,7192f2dd-92d9-4ce9-a492-e9eb8f9d0526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 52784,108332,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52785,b883b683-5b26-47e1-8610-01ae4741c84a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52786,6c00a2b4-957b-49e4-9d68-0413251a3484,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52787,db4b3f43-a7e3-405a-a2c4-1bd82b2a1989,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52788,ec92463f-b350-45a6-ab0e-d2db17add0be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52789,5880183a-c7ed-40b8-9859-c1cd60eb7307,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
+52790,1eb24868-6234-4289-889e-3e3d59fbd0b7,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
+52791,37f40403-ba05-41ff-8b99-b317552a9684,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52792,b7a80233-843b-4a7e-ba9d-9d0daa62da99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52793,202266060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52794,137411,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52795,d9961af6-216d-4fe6-a88d-d037b9b962dc,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
+52796,c1bdf48a-558b-4a72-b656-2789fe60e57f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52797,106390,,true,17,true,true,true,true,27113,125000,true,true,,5,10,true,,3,true,15000,5000,0,0,0,30000,true,false,1,1,,,true
+52798,61e04989-ce30-49bc-b7ec-3a7d41d56084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52799,f6bd980b-5f0b-4dec-95bf-157e5284b407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52800,3db49c94-5ea2-4a71-ae0c-bd5c938c3777,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52801,1544cef5-fb26-4c7b-bbae-3c0fece0a9a2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52802,903455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52803,882a9866-425d-477c-a412-83c70bbc0738,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52804,201909005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52805,f012900b-7633-44b8-904c-7b59024328ca,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
+52806,cdf2864e-d5d4-46d9-a424-8de802d5492c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52807,306758078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52808,f527a8ce-5473-4114-bfc9-5798f7ebb89a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52809,8c8da699-fcca-447a-b48b-a2992316950e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52810,5024155c-0a1a-4af2-bb71-fc33d7a6bd2b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52811,9aa0b24e-2a82-403c-b900-637855f87156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52812,302636001,false,false,,false,false,false,false,0,0,false,false,,,,false,,0,false,0,0,0,0,0,0,false,false,,,,,false
